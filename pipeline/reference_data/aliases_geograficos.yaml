@@ -1,0 +1,10 @@
+# Aliases explícitos para valores que a normalização padrão (dobra de acento/caixa + strip)
+# não resolve sozinha — tipicamente erros de digitação que removem/alteram letras.
+#
+# Chave: valor bruto normalizado (accent-fold + lowercase + strip de espaços múltiplos)
+# Valor: nome canônico de destino
+
+estado:
+  "santa catarna": "SC"   # erro de digitação observado na planilha 23/02/2026 (linha 11)
+
+municipio: {}

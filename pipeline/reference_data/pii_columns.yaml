@@ -1,0 +1,33 @@
+# Lista explícita (não inferida) das colunas da planilha bruta que contêm dado pessoal
+# identificável e por isso NUNCA podem aparecer em `core.json`, `aggregates/*.json` ou em
+# qualquer outro artefato publicado pelo site. É deliberadamente uma allowlist reversa
+# (denylist) mantida à mão, revisada coluna a coluna — inferir PII por regex seria
+# arriscado demais para dado sensível (falso negativo aqui vaza dado pessoal).
+#
+# O nome do empreendimento (colunas 2-3) NÃO está nesta lista: o próprio termo de
+# autorização (coluna "AUTORIZAÇÃO PARA O USO DAS INFORMAÇÕES DO SIES...") consente
+# explicitamente a divulgação de identificação + atividades econômicas do empreendimento
+# — publicar o nome do EES é o objetivo da autorização, não uma exposição indevida.
+
+- coluna: "SeçãoIIDENTIFICAÇÃOEABRANGÊNCIA__3Endereço_Line1"
+  motivo: "Endereço completo (logradouro) — granularidade de localização pessoal/residencial"
+- coluna: "SeçãoIIDENTIFICAÇÃOEABRANGÊNCIA__3Endereço_PostalCode"
+  motivo: "CEP — granularidade de localização"
+- coluna: "SeçãoIIDENTIFICAÇÃOEABRANGÊNCIA__6Telefone"
+  motivo: "Telefone de contato do empreendimento"
+- coluna: "SeçãoIIDENTIFICAÇÃOEABRANGÊNCIA_Whatsapp"
+  motivo: "WhatsApp de contato"
+- coluna: "SeçãoIIDENTIFICAÇÃOEABRANGÊNCIA__7Email"
+  motivo: "E-mail de contato"
+- coluna: "SeçãoIIDENTIFICAÇÃOEABRANGÊNCIA__8PessoaParaContato"
+  motivo: "Nome da pessoa de contato do empreendimento"
+- coluna: "SeçãoIIDENTIFICAÇÃOEABRANGÊNCIA__11CNPJ"
+  motivo: "CNPJ — identificador tributário"
+- coluna: "DADOSDASPESSOASENTREVISTADAS_Nome"
+  motivo: "Nome da pessoa entrevistada"
+- coluna: "DADOSDASPESSOASENTREVISTADAS_CargoNoEmpreendimento"
+  motivo: "Cargo da pessoa entrevistada (combinado com nome, aumenta identificabilidade)"
+- coluna: "DADOSDASPESSOASENTREVISTADAS_TelefoneDeContato"
+  motivo: "Telefone da pessoa entrevistada"
+- coluna: "DADOSDASPESSOASENTREVISTADAS_Data"
+  motivo: "Data da entrevista (metadado operacional, não de análise)"

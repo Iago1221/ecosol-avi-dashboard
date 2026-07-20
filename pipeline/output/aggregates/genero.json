@@ -1,0 +1,85 @@
+{
+  "campo": "genero",
+  "n_total_incluido": 22,
+  "n_respostas_com_dado": 22,
+  "total_mulheres": 345,
+  "total_homens": 345,
+  "percentual_feminino": 50.0,
+  "por_municipio": [
+    {
+      "municipio": "Alfredo Wagner",
+      "mulheres": 42,
+      "homens": 18
+    },
+    {
+      "municipio": "Atalanta",
+      "mulheres": 12,
+      "homens": 9
+    },
+    {
+      "municipio": "Chapadão do Lageado",
+      "mulheres": 11,
+      "homens": 8
+    },
+    {
+      "municipio": "Dona Emma",
+      "mulheres": 62,
+      "homens": 76
+    },
+    {
+      "municipio": "Ibirama",
+      "mulheres": 6,
+      "homens": 19
+    },
+    {
+      "municipio": "Ituporanga",
+      "mulheres": 27,
+      "homens": 3
+    },
+    {
+      "municipio": "José Boiteux",
+      "mulheres": 5,
+      "homens": 4
+    },
+    {
+      "municipio": "Lontras",
+      "mulheres": 4,
+      "homens": 6
+    },
+    {
+      "municipio": "Pouso Redondo",
+      "mulheres": 14,
+      "homens": 14
+    },
+    {
+      "municipio": "Presidente Getúlio",
+      "mulheres": 10,
+      "homens": 5
+    },
+    {
+      "municipio": "Presidente Nereu",
+      "mulheres": 2,
+      "homens": 4
+    },
+    {
+      "municipio": "Rio do Sul",
+      "mulheres": 52,
+      "homens": 19
+    },
+    {
+      "municipio": "Salete",
+      "mulheres": 14,
+      "homens": 57
+    },
+    {
+      "municipio": "Taió",
+      "mulheres": 42,
+      "homens": 41
+    },
+    {
+      "municipio": "Vitor Meireles",
+      "mulheres": 42,
+      "homens": 62
+    }
+  ]
+}

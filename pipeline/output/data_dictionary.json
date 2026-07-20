@@ -1,0 +1,4174 @@
+[
+  {
+    "coluna_bruta": "PesquisaEconomiaSolidária_Id",
+    "prefixo": null,
+    "secao_label": null,
+    "ordem_secao": null,
+    "subgrupos": [],
+    "numero_pergunta": null,
+    "rotulo": "Pesquisa Economia Solidária_Id",
+    "tipo_inferido": "numeric",
+    "pii": false,
+    "valores_amostra": [
+      "30",
+      "29",
+      "28",
+      "27",
+      "26",
+      "25",
+      "24",
+      "23"
+    ]
+  },
+  {
+    "coluna_bruta": "SeçãoIIDENTIFICAÇÃOEABRANGÊNCIA__1NomeDoEmpreendimento",
+    "prefixo": "SeçãoIIDENTIFICAÇÃOEABRANGÊNCIA",
+    "secao_label": "Seção I — Identificação e Abrangência",
+    "ordem_secao": 1,
+    "subgrupos": [],
+    "numero_pergunta": "1",
+    "rotulo": "Nome Do Empreendimento",
+    "tipo_inferido": "text",
+    "pii": false,
+    "valores_amostra": [
+      "Comunidade Kolping BrHaiti",
+      "Associação de Apicultores e Meliponicultores de Ibirama",
+      "Cooperativa Amanacy de Agricultura Familiar, Agroecológica e Artesãoes",
+      "Cooperativa dos Agricultores de Nossa Senhora de Salete",
+      "Sítio Colina",
+      "Orlando Heiber",
+      "SITIO GRAH BILK",
+      "Grupo da Rede Ecovida: Vale Ecológico"
+    ]
+  },
+  {
+    "coluna_bruta": "SeçãoIIDENTIFICAÇÃOEABRANGÊNCIA__2NomeFantasiaSigla",
+    "prefixo": "SeçãoIIDENTIFICAÇÃOEABRANGÊNCIA",
+    "secao_label": "Seção I — Identificação e Abrangência",
+    "ordem_secao": 1,
+    "subgrupos": [],
+    "numero_pergunta": "2",
+    "rotulo": "Nome Fantasia Sigla",
+    "tipo_inferido": "text",
+    "pii": false,
+    "valores_amostra": [
+      "Kolping BrHaiti",
+      "APIRAMA",
+      "Cooper Amanacy",
+      "Cooper Salete",
+      "Sítio Colina",
+      "Sítio Heiber",
+      "SITIO GRAH BILK",
+      "Vale Ecológico"
+    ]
+  },
+  {
+    "coluna_bruta": "SeçãoIIDENTIFICAÇÃOEABRANGÊNCIA__3Endereço_Line1",
+    "prefixo": "SeçãoIIDENTIFICAÇÃOEABRANGÊNCIA",
+    "secao_label": "Seção I — Identificação e Abrangência",
+    "ordem_secao": 1,
+    "subgrupos": [],
+    "numero_pergunta": "3",
+    "rotulo": "Endereço_Line1",
+    "tipo_inferido": "multi_select",
+    "pii": true,
+    "valores_amostra": [
+      "Rua Germano Sandri, S/N, Barragem",
+      "Localidade Rio Selin",
+      "Rua Rui Barbosa, 84, Centro",
+      "Rua do Santuário,407, Centro",
+      "Estrada geral Rio Bandeira",
+      "ESTRADA DO REDENTOR, 650",
+      "ESTRADA GERAL RIO SALTINHO",
+      "Matias Knopf"
+    ]
+  },
+  {
+    "coluna_bruta": "SeçãoIIDENTIFICAÇÃOEABRANGÊNCIA__3Endereço_City",
+    "prefixo": "SeçãoIIDENTIFICAÇÃOEABRANGÊNCIA",
+    "secao_label": "Seção I — Identificação e Abrangência",
+    "ordem_secao": 1,
+    "subgrupos": [],
+    "numero_pergunta": "3",
+    "rotulo": "Endereço_City",
+    "tipo_inferido": "text",
+    "pii": false,
+    "valores_amostra": [
+      "Rio do Sul",
+      "IBIRAMA",
+      "Alfredo Wagner",
+      "Salete",
+      "Presidente Nereu",
+      "RIO DO SUL",
+      "CHAPADAO DO LAGEADO",
+      "Lontras"
+    ]
+  },
+  {
+    "coluna_bruta": "SeçãoIIDENTIFICAÇÃOEABRANGÊNCIA__3Endereço_State",
+    "prefixo": "SeçãoIIDENTIFICAÇÃOEABRANGÊNCIA",
+    "secao_label": "Seção I — Identificação e Abrangência",
+    "ordem_secao": 1,
+    "subgrupos": [],
+    "numero_pergunta": "3",
+    "rotulo": "Endereço_State",
+    "tipo_inferido": "text",
+    "pii": false,
+    "valores_amostra": [
+      "Santa Catarina",
+      "SC",
+      "Sc",
+      "SC - SANTA CATARINA",
+      "Santa Catarna"
+    ]
+  },
+  {
+    "coluna_bruta": "SeçãoIIDENTIFICAÇÃOEABRANGÊNCIA__3Endereço_PostalCode",
+    "prefixo": "SeçãoIIDENTIFICAÇÃOEABRANGÊNCIA",
+    "secao_label": "Seção I — Identificação e Abrangência",
+    "ordem_secao": 1,
+    "subgrupos": [],
+    "numero_pergunta": "3",
+    "rotulo": "Endereço_Postal Code",
+    "tipo_inferido": "text",
+    "pii": true,
+    "valores_amostra": [
+      "89165188",
+      "89140-000",
+      "88450000",
+      "89196-000",
+      "89184000",
+      "88163-312",
+      "88407000",
+      "89182000"
+    ]
+  },
+  {
+    "coluna_bruta": "SeçãoIIDENTIFICAÇÃOEABRANGÊNCIA__3Endereço_Country",
+    "prefixo": "SeçãoIIDENTIFICAÇÃOEABRANGÊNCIA",
+    "secao_label": "Seção I — Identificação e Abrangência",
+    "ordem_secao": 1,
+    "subgrupos": [],
+    "numero_pergunta": "3",
+    "rotulo": "Endereço_Country",
+    "tipo_inferido": "text",
+    "pii": false,
+    "valores_amostra": [
+      "Brasil"
+    ]
+  },
+  {
+    "coluna_bruta": "SeçãoIIDENTIFICAÇÃOEABRANGÊNCIA__3Endereço_CountryCode",
+    "prefixo": "SeçãoIIDENTIFICAÇÃOEABRANGÊNCIA",
+    "secao_label": "Seção I — Identificação e Abrangência",
+    "ordem_secao": 1,
+    "subgrupos": [],
+    "numero_pergunta": "3",
+    "rotulo": "Endereço_Country Code",
+    "tipo_inferido": "text",
+    "pii": false,
+    "valores_amostra": [
+      "BR"
+    ]
+  },
+  {
+    "coluna_bruta": "SeçãoIIDENTIFICAÇÃOEABRANGÊNCIA__6Telefone",
+    "prefixo": "SeçãoIIDENTIFICAÇÃOEABRANGÊNCIA",
+    "secao_label": "Seção I — Identificação e Abrangência",
+    "ordem_secao": 1,
+    "subgrupos": [],
+    "numero_pergunta": "6",
+    "rotulo": "Telefone",
+    "tipo_inferido": "text",
+    "pii": true,
+    "valores_amostra": [
+      "47 988512566",
+      "47-997959393",
+      "(48) 99868-4773",
+      "(47) 99786-7085",
+      "47996164809",
+      "47988018549",
+      "47 999112384",
+      "49 9917-3254"
+    ]
+  },
+  {
+    "coluna_bruta": "SeçãoIIDENTIFICAÇÃOEABRANGÊNCIA_Whatsapp",
+    "prefixo": "SeçãoIIDENTIFICAÇÃOEABRANGÊNCIA",
+    "secao_label": "Seção I — Identificação e Abrangência",
+    "ordem_secao": 1,
+    "subgrupos": [],
+    "numero_pergunta": null,
+    "rotulo": "Whatsapp",
+    "tipo_inferido": "text",
+    "pii": true,
+    "valores_amostra": [
+      "47 988512566",
+      "47-997959393",
+      "(48) 99868-4773",
+      "(47) 99786-7085",
+      "47996164809",
+      "47988018549",
+      "47 999279829",
+      "49 9917-3254"
+    ]
+  },
+  {
+    "coluna_bruta": "SeçãoIIDENTIFICAÇÃOEABRANGÊNCIA__7Email",
+    "prefixo": "SeçãoIIDENTIFICAÇÃOEABRANGÊNCIA",
+    "secao_label": "Seção I — Identificação e Abrangência",
+    "ordem_secao": 1,
+    "subgrupos": [],
+    "numero_pergunta": "7",
+    "rotulo": "Email",
+    "tipo_inferido": "text",
+    "pii": true,
+    "valores_amostra": [
+      "mppandini@hotmail.com",
+      "cooperamanacy@gmail.com",
+      "financeirocoopersalete@gmail.com",
+      "cleitonkniess@gmail.com",
+      "neusaheiber@hotmail.com",
+      "ednabilkj@hotmail.com",
+      "luuusilva18@gmail.com",
+      "lenitaarnoldmeurer.1961@gmail.com"
+    ]
+  },
+  {
+    "coluna_bruta": "SeçãoIIDENTIFICAÇÃOEABRANGÊNCIA__8PessoaParaContato",
+    "prefixo": "SeçãoIIDENTIFICAÇÃOEABRANGÊNCIA",
+    "secao_label": "Seção I — Identificação e Abrangência",
+    "ordem_secao": 1,
+    "subgrupos": [],
+    "numero_pergunta": "8",
+    "rotulo": "Pessoa Para Contato",
+    "tipo_inferido": "text",
+    "pii": true,
+    "valores_amostra": [
+      "Neide Maria Machado",
+      "Marcos Pandini",
+      "João Bastista Mariante Lauermann",
+      "Dulce Steinbach",
+      "Cleiton Kniess",
+      "Neusa",
+      "EDNA BILK",
+      "Luana Pires da Silva"
+    ]
+  },
+  {
+    "coluna_bruta": "SeçãoIIDENTIFICAÇÃOEABRANGÊNCIA__9ReferênciaParaLocalização",
+    "prefixo": "SeçãoIIDENTIFICAÇÃOEABRANGÊNCIA",
+    "secao_label": "Seção I — Identificação e Abrangência",
+    "ordem_secao": 1,
+    "subgrupos": [],
+    "numero_pergunta": "9",
+    "rotulo": "Referência Para Localização",
+    "tipo_inferido": "text",
+    "pii": false,
+    "valores_amostra": [
+      "Ao lado da Igreja Católicas Santa Anna",
+      "Interior do município",
+      "Sede do Sintraf de Alfredo Wagner",
+      "Próxima a APAE de Salete",
+      "Sítio Colina",
+      "Acesso Instituto Federal",
+      "IGREJA SÃO SEBASTIAO RIO SALTINHO",
+      "Sítio Agroecológico Esperança"
+    ]
+  },
+  {
+    "coluna_bruta": "SeçãoIIDENTIFICAÇÃOEABRANGÊNCIA__10PáginaNaInternet",
+    "prefixo": "SeçãoIIDENTIFICAÇÃOEABRANGÊNCIA",
+    "secao_label": "Seção I — Identificação e Abrangência",
+    "ordem_secao": 1,
+    "subgrupos": [],
+    "numero_pergunta": "10",
+    "rotulo": "Página Na Internet",
+    "tipo_inferido": "text",
+    "pii": false,
+    "valores_amostra": [
+      "https://www.coopersalete.com.br",
+      "https://www.sitiocolina.com.br",
+      "https://www.instagram.com/sitioheiber?utm_source=ig_web_button_share_sheet&igsh=eHpscnd5azRteTB6",
+      "https://www.acarnap.com.br",
+      "https://www.instagram.com/plantasbioativas/?hl=am-et"
+    ]
+  },
+  {
+    "coluna_bruta": "SeçãoIIDENTIFICAÇÃOEABRANGÊNCIA__11CNPJ",
+    "prefixo": "SeçãoIIDENTIFICAÇÃOEABRANGÊNCIA",
+    "secao_label": "Seção I — Identificação e Abrangência",
+    "ordem_secao": 1,
+    "subgrupos": [],
+    "numero_pergunta": "11",
+    "rotulo": "CNPJ",
+    "tipo_inferido": "text",
+    "pii": true,
+    "valores_amostra": [
+      "83.389.718/0001-49",
+      "01.877.501/0001-13",
+      "55.462.630/0000-17",
+      "11.889.735/0001-34",
+      "08.250.489/0001-61",
+      "02.437.021/0001-02",
+      "56.022.022/0001-02",
+      "03.485.241/0001-66"
+    ]
+  },
+  {
+    "coluna_bruta": "SeçãoIIDENTIFICAÇÃOEABRANGÊNCIA__12QualOAnoDoInícioDoEmpreendimento",
+    "prefixo": "SeçãoIIDENTIFICAÇÃOEABRANGÊNCIA",
+    "secao_label": "Seção I — Identificação e Abrangência",
+    "ordem_secao": 1,
+    "subgrupos": [],
+    "numero_pergunta": "12",
+    "rotulo": "Qual OAno Do Início Do Empreendimento",
+    "tipo_inferido": "numeric",
+    "pii": false,
+    "valores_amostra": [
+      "2013.0",
+      "1993.0",
+      "2024.0",
+      "2009.0",
+      "2007.0",
+      "1997.0",
+      "2010.0",
+      "2006.0"
+    ]
+  },
+  {
+    "coluna_bruta": "SeçãoIIDENTIFICAÇÃOEABRANGÊNCIA__13SituaçãoAtualDoEmpreendimento",
+    "prefixo": "SeçãoIIDENTIFICAÇÃOEABRANGÊNCIA",
+    "secao_label": "Seção I — Identificação e Abrangência",
+    "ordem_secao": 1,
+    "subgrupos": [],
+    "numero_pergunta": "13",
+    "rotulo": "Situação Atual Do Empreendimento",
+    "tipo_inferido": "text",
+    "pii": false,
+    "valores_amostra": [
+      "Em funcionamento / operando",
+      "Em reestruturação"
+    ]
+  },
+  {
+    "coluna_bruta": "SeçãoIIDENTIFICAÇÃOEABRANGÊNCIA__14QualAÁreaDeAtuaçãoDoEmpreendimento",
+    "prefixo": "SeçãoIIDENTIFICAÇÃOEABRANGÊNCIA",
+    "secao_label": "Seção I — Identificação e Abrangência",
+    "ordem_secao": 1,
+    "subgrupos": [],
+    "numero_pergunta": "14",
+    "rotulo": "Qual AÁrea De Atuação Do Empreendimento",
+    "tipo_inferido": "multi_select",
+    "pii": false,
+    "valores_amostra": [
+      "Urbana",
+      "Rural",
+      "Rural e Urbana",
+      "Rural, Urbana"
+    ]
+  },
+  {
+    "coluna_bruta": "SeçãoIIDENTIFICAÇÃOEABRANGÊNCIA__15OEmpreendimentoTemAcessoAComputador",
+    "prefixo": "SeçãoIIDENTIFICAÇÃOEABRANGÊNCIA",
+    "secao_label": "Seção I — Identificação e Abrangência",
+    "ordem_secao": 1,
+    "subgrupos": [],
+    "numero_pergunta": "15",
+    "rotulo": "OEmpreendimento Tem Acesso AComputador",
+    "tipo_inferido": "boolean",
+    "pii": false,
+    "valores_amostra": [
+      "Não",
+      "Sim"
+    ]
+  },
+  {
+    "coluna_bruta": "SeçãoIIDENTIFICAÇÃOEABRANGÊNCIA__16OEmpreendimentoTemAcessoÀInternet",
+    "prefixo": "SeçãoIIDENTIFICAÇÃOEABRANGÊNCIA",
+    "secao_label": "Seção I — Identificação e Abrangência",
+    "ordem_secao": 1,
+    "subgrupos": [],
+    "numero_pergunta": "16",
+    "rotulo": "OEmpreendimento Tem Acesso ÀInternet",
+    "tipo_inferido": "boolean",
+    "pii": false,
+    "valores_amostra": [
+      "Sim",
+      "Não"
+    ]
+  },
+  {
+    "coluna_bruta": "SeçãoIICARACTERÍSTICASPREDOMINANTESDOSASSÓCIOSAS_Mulheresquantas",
+    "prefixo": "SeçãoIICARACTERÍSTICASPREDOMINANTESDOSASSÓCIOSAS",
+    "secao_label": "Seção II — Características Predominantes dos/as Sócios/as",
+    "ordem_secao": 2,
+    "subgrupos": [],
+    "numero_pergunta": null,
+    "rotulo": "Mulheresquantas",
+    "tipo_inferido": "integer",
+    "pii": false,
+    "valores_amostra": [
+      "15.0",
+      "6.0",
+      "42.0",
+      "14.0",
+      "2.0",
+      "1.0",
+      "5.0",
+      "4.0"
+    ]
+  },
+  {
+    "coluna_bruta": "SeçãoIICARACTERÍSTICASPREDOMINANTESDOSASSÓCIOSAS_Homensquantos",
+    "prefixo": "SeçãoIICARACTERÍSTICASPREDOMINANTESDOSASSÓCIOSAS",
+    "secao_label": "Seção II — Características Predominantes dos/as Sócios/as",
+    "ordem_secao": 2,
+    "subgrupos": [],
+    "numero_pergunta": null,
+    "rotulo": "Homensquantos",
+    "tipo_inferido": "integer",
+    "pii": false,
+    "valores_amostra": [
+      "8.0",
+      "19.0",
+      "18.0",
+      "57.0",
+      "4.0",
+      "2.0",
+      "6.0",
+      "0.0"
+    ]
+  },
+  {
+    "coluna_bruta": "SeçãoIICARACTERÍSTICASPREDOMINANTESDOSASSÓCIOSAS_Totalquantas",
+    "prefixo": "SeçãoIICARACTERÍSTICASPREDOMINANTESDOSASSÓCIOSAS",
+    "secao_label": "Seção II — Características Predominantes dos/as Sócios/as",
+    "ordem_secao": 2,
+    "subgrupos": [],
+    "numero_pergunta": null,
+    "rotulo": "Totalquantas",
+    "tipo_inferido": "integer",
+    "pii": false,
+    "valores_amostra": [
+      "23.0",
+      "25.0",
+      "60.0",
+      "71.0",
+      "6.0",
+      "0.0",
+      "14.0",
+      "84.0"
+    ]
+  },
+  {
+    "coluna_bruta": "SeçãoIICARACTERÍSTICASPREDOMINANTESDOSASSÓCIOSAS__18aBrancaquantas",
+    "prefixo": "SeçãoIICARACTERÍSTICASPREDOMINANTESDOSASSÓCIOSAS",
+    "secao_label": "Seção II — Características Predominantes dos/as Sócios/as",
+    "ordem_secao": 2,
+    "subgrupos": [],
+    "numero_pergunta": "18a",
+    "rotulo": "Brancaquantas",
+    "tipo_inferido": "integer",
+    "pii": false,
+    "valores_amostra": [
+      "14.0",
+      "25.0",
+      "56.0",
+      "68.0",
+      "6.0",
+      "3.0",
+      "9.0",
+      "12.0"
+    ]
+  },
+  {
+    "coluna_bruta": "SeçãoIICARACTERÍSTICASPREDOMINANTESDOSASSÓCIOSAS__18bPretaquantas",
+    "prefixo": "SeçãoIICARACTERÍSTICASPREDOMINANTESDOSASSÓCIOSAS",
+    "secao_label": "Seção II — Características Predominantes dos/as Sócios/as",
+    "ordem_secao": 2,
+    "subgrupos": [],
+    "numero_pergunta": "18b",
+    "rotulo": "Pretaquantas",
+    "tipo_inferido": "integer",
+    "pii": false,
+    "valores_amostra": [
+      "9.0",
+      "3.0",
+      "0.0",
+      "2.0",
+      "8.0",
+      "1.0",
+      "5.0"
+    ]
+  },
+  {
+    "coluna_bruta": "SeçãoIICARACTERÍSTICASPREDOMINANTESDOSASSÓCIOSAS__18cAmarelaquantas",
+    "prefixo": "SeçãoIICARACTERÍSTICASPREDOMINANTESDOSASSÓCIOSAS",
+    "secao_label": "Seção II — Características Predominantes dos/as Sócios/as",
+    "ordem_secao": 2,
+    "subgrupos": [],
+    "numero_pergunta": "18c",
+    "rotulo": "Amarelaquantas",
+    "tipo_inferido": "integer",
+    "pii": false,
+    "valores_amostra": [
+      "0.0",
+      "7.0"
+    ]
+  },
+  {
+    "coluna_bruta": "SeçãoIICARACTERÍSTICASPREDOMINANTESDOSASSÓCIOSAS__18dPardaquantas",
+    "prefixo": "SeçãoIICARACTERÍSTICASPREDOMINANTESDOSASSÓCIOSAS",
+    "secao_label": "Seção II — Características Predominantes dos/as Sócios/as",
+    "ordem_secao": 2,
+    "subgrupos": [],
+    "numero_pergunta": "18d",
+    "rotulo": "Pardaquantas",
+    "tipo_inferido": "integer",
+    "pii": false,
+    "valores_amostra": [
+      "0.0",
+      "3.0",
+      "1.0",
+      "8.0"
+    ]
+  },
+  {
+    "coluna_bruta": "SeçãoIICARACTERÍSTICASPREDOMINANTESDOSASSÓCIOSAS__18eIndígenaquantas",
+    "prefixo": "SeçãoIICARACTERÍSTICASPREDOMINANTESDOSASSÓCIOSAS",
+    "secao_label": "Seção II — Características Predominantes dos/as Sócios/as",
+    "ordem_secao": 2,
+    "subgrupos": [],
+    "numero_pergunta": "18e",
+    "rotulo": "Indígenaquantas",
+    "tipo_inferido": "integer",
+    "pii": false,
+    "valores_amostra": [
+      "0.0",
+      "1.0",
+      "6.0"
+    ]
+  },
+  {
+    "coluna_bruta": "SeçãoIICARACTERÍSTICASPREDOMINANTESDOSASSÓCIOSAS__18fTotalquantas",
+    "prefixo": "SeçãoIICARACTERÍSTICASPREDOMINANTESDOSASSÓCIOSAS",
+    "secao_label": "Seção II — Características Predominantes dos/as Sócios/as",
+    "ordem_secao": 2,
+    "subgrupos": [],
+    "numero_pergunta": "18f",
+    "rotulo": "Totalquantas",
+    "tipo_inferido": "integer",
+    "pii": false,
+    "valores_amostra": [
+      "23.0",
+      "60.0",
+      "71.0",
+      "3.0",
+      "14.0",
+      "84.0",
+      "16.0",
+      "21.0"
+    ]
+  },
+  {
+    "coluna_bruta": "SeçãoIICARACTERÍSTICASPREDOMINANTESDOSASSÓCIOSAS__19OsSóciosDoEmpreendimentoPertencemAAlgumPovoOuComunidadeTradicional",
+    "prefixo": "SeçãoIICARACTERÍSTICASPREDOMINANTESDOSASSÓCIOSAS",
+    "secao_label": "Seção II — Características Predominantes dos/as Sócios/as",
+    "ordem_secao": 2,
+    "subgrupos": [],
+    "numero_pergunta": "19",
+    "rotulo": "Os Sócios Do Empreendimento Pertencem AAlgum Povo Ou Comunidade Tradicional",
+    "tipo_inferido": "boolean",
+    "pii": false,
+    "valores_amostra": [
+      "Não",
+      "Sim"
+    ]
+  },
+  {
+    "coluna_bruta": "SeçãoIICARACTERÍSTICASPREDOMINANTESDOSASSÓCIOSAS__20AQualPovoOuComunidadeTradicional",
+    "prefixo": "SeçãoIICARACTERÍSTICASPREDOMINANTESDOSASSÓCIOSAS",
+    "secao_label": "Seção II — Características Predominantes dos/as Sócios/as",
+    "ordem_secao": 2,
+    "subgrupos": [],
+    "numero_pergunta": "20",
+    "rotulo": "AQual Povo Ou Comunidade Tradicional",
+    "tipo_inferido": "text",
+    "pii": false,
+    "valores_amostra": [
+      "Outros povos e comunidades tradicionais",
+      "População negra",
+      "Povos indígenas"
+    ]
+  },
+  {
+    "coluna_bruta": "SeçãoIICARACTERÍSTICASPREDOMINANTESDOSASSÓCIOSAS__21PodemosDizerQueNoEmpreendimentoOsasSóciosasPertencemOuJáPertenceramAQualDasSeguintesCategoriasSociais",
+    "prefixo": "SeçãoIICARACTERÍSTICASPREDOMINANTESDOSASSÓCIOSAS",
+    "secao_label": "Seção II — Características Predominantes dos/as Sócios/as",
+    "ordem_secao": 2,
+    "subgrupos": [],
+    "numero_pergunta": "21",
+    "rotulo": "Podemos Dizer Que No Empreendimento Osas Sóciosas Pertencem Ou Já Pertenceram AQual Das Seguintes Categorias Sociais",
+    "tipo_inferido": "text",
+    "pii": false,
+    "valores_amostra": [
+      "Não se aplica ou não há predominância",
+      "Agricultores familiares",
+      "Artesãos",
+      "Catadores de material reciclável"
+    ]
+  },
+  {
+    "coluna_bruta": "SeçãoIICARACTERÍSTICASPREDOMINANTESDOSASSÓCIOSAS__22aPessoasComDeficiênciaFísicaOuMentalTotalquantas",
+    "prefixo": "SeçãoIICARACTERÍSTICASPREDOMINANTESDOSASSÓCIOSAS",
+    "secao_label": "Seção II — Características Predominantes dos/as Sócios/as",
+    "ordem_secao": 2,
+    "subgrupos": [],
+    "numero_pergunta": "22a",
+    "rotulo": "Pessoas Com Deficiência Física Ou Mental Totalquantas",
+    "tipo_inferido": "integer",
+    "pii": false,
+    "valores_amostra": [
+      "0.0",
+      "4.0",
+      "1.0",
+      "2.0"
+    ]
+  },
+  {
+    "coluna_bruta": "SeçãoIICARACTERÍSTICASPREDOMINANTESDOSASSÓCIOSAS__22bPessoasComTranstornosMentaisInclusiveQuandoDecorrentesDoUsoDeÁlcoolOuDeOutrasDrogas",
+    "prefixo": "SeçãoIICARACTERÍSTICASPREDOMINANTESDOSASSÓCIOSAS",
+    "secao_label": "Seção II — Características Predominantes dos/as Sócios/as",
+    "ordem_secao": 2,
+    "subgrupos": [],
+    "numero_pergunta": "22b",
+    "rotulo": "Pessoas Com Transtornos Mentais Inclusive Quando Decorrentes Do Uso De Álcool Ou De Outras Drogas",
+    "tipo_inferido": "numeric",
+    "pii": false,
+    "valores_amostra": [
+      "0.0",
+      "1.0",
+      "2.0"
+    ]
+  },
+  {
+    "coluna_bruta": "SeçãoIICARACTERÍSTICASPREDOMINANTESDOSASSÓCIOSAS__22cPresidiáriosOuEgressosDoSistemaPrisional",
+    "prefixo": "SeçãoIICARACTERÍSTICASPREDOMINANTESDOSASSÓCIOSAS",
+    "secao_label": "Seção II — Características Predominantes dos/as Sócios/as",
+    "ordem_secao": 2,
+    "subgrupos": [],
+    "numero_pergunta": "22c",
+    "rotulo": "Presidiários Ou Egressos Do Sistema Prisional",
+    "tipo_inferido": "numeric",
+    "pii": false,
+    "valores_amostra": [
+      "0.0",
+      "2.0",
+      "1.0"
+    ]
+  },
+  {
+    "coluna_bruta": "SeçãoIICARACTERÍSTICASPREDOMINANTESDOSASSÓCIOSAS__22dAposentadosasOuPensionistas",
+    "prefixo": "SeçãoIICARACTERÍSTICASPREDOMINANTESDOSASSÓCIOSAS",
+    "secao_label": "Seção II — Características Predominantes dos/as Sócios/as",
+    "ordem_secao": 2,
+    "subgrupos": [],
+    "numero_pergunta": "22d",
+    "rotulo": "Aposentadosas Ou Pensionistas",
+    "tipo_inferido": "numeric",
+    "pii": false,
+    "valores_amostra": [
+      "4.0",
+      "5.0",
+      "3.0",
+      "0.0",
+      "2.0",
+      "1.0",
+      "10.0",
+      "8.0"
+    ]
+  },
+  {
+    "coluna_bruta": "SeçãoIICARACTERÍSTICASPREDOMINANTESDOSASSÓCIOSAS__23EntreOsSóciosHáPredominânciaDePessoasBeneficiáriasDeProgramasDeTransferênciaDeRendaOuBenefíciosDaAssistênciaSocial",
+    "prefixo": "SeçãoIICARACTERÍSTICASPREDOMINANTESDOSASSÓCIOSAS",
+    "secao_label": "Seção II — Características Predominantes dos/as Sócios/as",
+    "ordem_secao": 2,
+    "subgrupos": [],
+    "numero_pergunta": "23",
+    "rotulo": "Entre Os Sócios Há Predominância De Pessoas Beneficiárias De Programas De Transferência De Renda Ou Benefícios Da Assistência Social",
+    "tipo_inferido": "boolean",
+    "pii": false,
+    "valores_amostra": [
+      "Não",
+      "Sim"
+    ]
+  },
+  {
+    "coluna_bruta": "SeçãoIICARACTERÍSTICASPREDOMINANTESDOSASSÓCIOSAS__23aQual",
+    "prefixo": "SeçãoIICARACTERÍSTICASPREDOMINANTESDOSASSÓCIOSAS",
+    "secao_label": "Seção II — Características Predominantes dos/as Sócios/as",
+    "ordem_secao": 2,
+    "subgrupos": [],
+    "numero_pergunta": "23a",
+    "rotulo": "Qual",
+    "tipo_inferido": "conditional_text",
+    "pii": false,
+    "valores_amostra": [
+      "Bolsa Família",
+      "Aposentados"
+    ]
+  },
+  {
+    "coluna_bruta": "SeçãoIICARACTERÍSTICASPREDOMINANTESDOSASSÓCIOSAS__24aJovensquantas",
+    "prefixo": "SeçãoIICARACTERÍSTICASPREDOMINANTESDOSASSÓCIOSAS",
+    "secao_label": "Seção II — Características Predominantes dos/as Sócios/as",
+    "ordem_secao": 2,
+    "subgrupos": [],
+    "numero_pergunta": "24a",
+    "rotulo": "Jovensquantas",
+    "tipo_inferido": "integer",
+    "pii": false,
+    "valores_amostra": [
+      "7.0",
+      "10.0",
+      "1.0",
+      "2.0",
+      "0.0",
+      "25.0",
+      "5.0",
+      "6.0"
+    ]
+  },
+  {
+    "coluna_bruta": "SeçãoIICARACTERÍSTICASPREDOMINANTESDOSASSÓCIOSAS__24bAdultosquantas",
+    "prefixo": "SeçãoIICARACTERÍSTICASPREDOMINANTESDOSASSÓCIOSAS",
+    "secao_label": "Seção II — Características Predominantes dos/as Sócios/as",
+    "ordem_secao": 2,
+    "subgrupos": [],
+    "numero_pergunta": "24b",
+    "rotulo": "Adultosquantas",
+    "tipo_inferido": "integer",
+    "pii": false,
+    "valores_amostra": [
+      "14.0",
+      "10.0",
+      "46.0",
+      "57.0",
+      "4.0",
+      "1.0",
+      "6.0",
+      "8.0"
+    ]
+  },
+  {
+    "coluna_bruta": "SeçãoIICARACTERÍSTICASPREDOMINANTESDOSASSÓCIOSAS__24cIdososquantas",
+    "prefixo": "SeçãoIICARACTERÍSTICASPREDOMINANTESDOSASSÓCIOSAS",
+    "secao_label": "Seção II — Características Predominantes dos/as Sócios/as",
+    "ordem_secao": 2,
+    "subgrupos": [],
+    "numero_pergunta": "24c",
+    "rotulo": "Idososquantas",
+    "tipo_inferido": "integer",
+    "pii": false,
+    "valores_amostra": [
+      "2.0",
+      "5.0",
+      "4.0",
+      "7.0",
+      "1.0",
+      "8.0",
+      "17.0",
+      "18.0"
+    ]
+  },
+  {
+    "coluna_bruta": "SeçãoIICARACTERÍSTICASPREDOMINANTESDOSASSÓCIOSAS__24dNãoSeAplicaOuNãoHáPredominânciaquantas",
+    "prefixo": "SeçãoIICARACTERÍSTICASPREDOMINANTESDOSASSÓCIOSAS",
+    "secao_label": "Seção II — Características Predominantes dos/as Sócios/as",
+    "ordem_secao": 2,
+    "subgrupos": [],
+    "numero_pergunta": "24d",
+    "rotulo": "Não Se Aplica Ou Não Há Predominânciaquantas",
+    "tipo_inferido": "integer",
+    "pii": false,
+    "valores_amostra": [
+      "0.0"
+    ]
+  },
+  {
+    "coluna_bruta": "SeçãoIICARACTERÍSTICASPREDOMINANTESDOSASSÓCIOSAS__24eTotalquantas",
+    "prefixo": "SeçãoIICARACTERÍSTICASPREDOMINANTESDOSASSÓCIOSAS",
+    "secao_label": "Seção II — Características Predominantes dos/as Sócios/as",
+    "ordem_secao": 2,
+    "subgrupos": [],
+    "numero_pergunta": "24e",
+    "rotulo": "Totalquantas",
+    "tipo_inferido": "integer",
+    "pii": false,
+    "valores_amostra": [
+      "23.0",
+      "25.0",
+      "60.0",
+      "71.0",
+      "3.0",
+      "10.0",
+      "12.0",
+      "84.0"
+    ]
+  },
+  {
+    "coluna_bruta": "SeçãoIIICARACTERÍSTICASGERAISDOEMPREENDIMENTO__25FormaDeOrganização",
+    "prefixo": "SeçãoIIICARACTERÍSTICASGERAISDOEMPREENDIMENTO",
+    "secao_label": "Seção III — Características Gerais do Empreendimento",
+    "ordem_secao": 3,
+    "subgrupos": [],
+    "numero_pergunta": "25",
+    "rotulo": "Forma De Organização",
+    "tipo_inferido": "text",
+    "pii": false,
+    "valores_amostra": [
+      "Associação",
+      "Cooperativa",
+      "Grupo informal",
+      "Sociedade mercantil"
+    ]
+  },
+  {
+    "coluna_bruta": "SeçãoIIICARACTERÍSTICASGERAISDOEMPREENDIMENTO__26OEmpreendimentoParticipaDeAlgumaRedeDeProduçãoComercializaçãoConsumoOuCrédito",
+    "prefixo": "SeçãoIIICARACTERÍSTICASGERAISDOEMPREENDIMENTO",
+    "secao_label": "Seção III — Características Gerais do Empreendimento",
+    "ordem_secao": 3,
+    "subgrupos": [],
+    "numero_pergunta": "26",
+    "rotulo": "OEmpreendimento Participa De Alguma Rede De Produção Comercialização Consumo Ou Crédito",
+    "tipo_inferido": "boolean",
+    "pii": false,
+    "valores_amostra": [
+      "Não",
+      "Sim"
+    ]
+  },
+  {
+    "coluna_bruta": "SeçãoIIICARACTERÍSTICASGERAISDOEMPREENDIMENTO_SemTítulo__27aRedeDeProduçãoQual",
+    "prefixo": "SeçãoIIICARACTERÍSTICASGERAISDOEMPREENDIMENTO",
+    "secao_label": "Seção III — Características Gerais do Empreendimento",
+    "ordem_secao": 3,
+    "subgrupos": [
+      "SemTítulo"
+    ],
+    "numero_pergunta": "27a",
+    "rotulo": "Rede De Produção Qual",
+    "tipo_inferido": "conditional_text",
+    "pii": false,
+    "valores_amostra": [
+      "Eco Vida",
+      "Frutíferas",
+      "Núcleo do Alto Vale do Itajaí - Rede Ecovida",
+      "Sim, a associação tem produtores que se organizam para produção de hortaliças durante o ano."
+    ]
+  },
+  {
+    "coluna_bruta": "SeçãoIIICARACTERÍSTICASGERAISDOEMPREENDIMENTO_SemTítulo__27bRedeDeComercializaçãoQual",
+    "prefixo": "SeçãoIIICARACTERÍSTICASGERAISDOEMPREENDIMENTO",
+    "secao_label": "Seção III — Características Gerais do Empreendimento",
+    "ordem_secao": 3,
+    "subgrupos": [
+      "SemTítulo"
+    ],
+    "numero_pergunta": "27b",
+    "rotulo": "Rede De Comercialização Qual",
+    "tipo_inferido": "conditional_text",
+    "pii": false,
+    "valores_amostra": [
+      "Duas Cooperativas que comercializam uma pequena parte da produção total dos associados",
+      "CSA local - Unidavi",
+      "Feiras",
+      "todos os produtores estão na cooperativa Cooperfavi",
+      "PNAE, PAA, Feiras e venda direta",
+      "Sim, atendem células de consumidores responsáveis - CCR",
+      "Unicafes",
+      "Rede de comercialização. COOPERFAVI- Cooperativa da Agricultura Familiar do Vale do Itajaí"
+    ]
+  },
+  {
+    "coluna_bruta": "SeçãoIIICARACTERÍSTICASGERAISDOEMPREENDIMENTO_SemTítulo__27cCadeiaProdutivaSolidáriaQual",
+    "prefixo": "SeçãoIIICARACTERÍSTICASGERAISDOEMPREENDIMENTO",
+    "secao_label": "Seção III — Características Gerais do Empreendimento",
+    "ordem_secao": 3,
+    "subgrupos": [
+      "SemTítulo"
+    ],
+    "numero_pergunta": "27c",
+    "rotulo": "Cadeia Produtiva Solidária Qual",
+    "tipo_inferido": "conditional_text",
+    "pii": false,
+    "valores_amostra": [
+      "Acolhida na Colônia",
+      "Células de Consumidores Responsáveis (CCR)",
+      "Fazem doação para famílias cadastradas."
+    ]
+  },
+  {
+    "coluna_bruta": "SeçãoIIICARACTERÍSTICASGERAISDOEMPREENDIMENTO_SemTítulo__27dComplexoCooperativoQual",
+    "prefixo": "SeçãoIIICARACTERÍSTICASGERAISDOEMPREENDIMENTO",
+    "secao_label": "Seção III — Características Gerais do Empreendimento",
+    "ordem_secao": 3,
+    "subgrupos": [
+      "SemTítulo"
+    ],
+    "numero_pergunta": "27d",
+    "rotulo": "Complexo Cooperativo Qual",
+    "tipo_inferido": "conditional_text",
+    "pii": false,
+    "valores_amostra": [
+      "Coperfavi"
+    ]
+  },
+  {
+    "coluna_bruta": "SeçãoIIICARACTERÍSTICASGERAISDOEMPREENDIMENTO_SemTítulo__27eCooperativaCentralQual",
+    "prefixo": "SeçãoIIICARACTERÍSTICASGERAISDOEMPREENDIMENTO",
+    "secao_label": "Seção III — Características Gerais do Empreendimento",
+    "ordem_secao": 3,
+    "subgrupos": [
+      "SemTítulo"
+    ],
+    "numero_pergunta": "27e",
+    "rotulo": "Cooperativa Central Qual",
+    "tipo_inferido": "conditional_text",
+    "pii": false,
+    "valores_amostra": [
+      "Cooperativa Cooperfavi"
+    ]
+  },
+  {
+    "coluna_bruta": "SeçãoIIICARACTERÍSTICASGERAISDOEMPREENDIMENTO_SemTítulo__27fRedeDeConsumoQual",
+    "prefixo": "SeçãoIIICARACTERÍSTICASGERAISDOEMPREENDIMENTO",
+    "secao_label": "Seção III — Características Gerais do Empreendimento",
+    "ordem_secao": 3,
+    "subgrupos": [
+      "SemTítulo"
+    ],
+    "numero_pergunta": "27f",
+    "rotulo": "Rede De Consumo Qual",
+    "tipo_inferido": "conditional_text",
+    "pii": false,
+    "valores_amostra": [
+      "Existe um grupo de WhatsApp onde mandam um cardápio com as hortaliças e montam cestas e entregam para os consumidores."
+    ]
+  },
+  {
+    "coluna_bruta": "SeçãoIIICARACTERÍSTICASGERAISDOEMPREENDIMENTO_SemTítulo__27gRedeDeCréditoOuFinançasSolidáriasQual",
+    "prefixo": "SeçãoIIICARACTERÍSTICASGERAISDOEMPREENDIMENTO",
+    "secao_label": "Seção III — Características Gerais do Empreendimento",
+    "ordem_secao": 3,
+    "subgrupos": [
+      "SemTítulo"
+    ],
+    "numero_pergunta": "27g",
+    "rotulo": "Rede De Crédito Ou Finanças Solidárias Qual",
+    "tipo_inferido": "conditional_text",
+    "pii": false,
+    "valores_amostra": [
+      "Cresol"
+    ]
+  },
+  {
+    "coluna_bruta": "SeçãoIIICARACTERÍSTICASGERAISDOEMPREENDIMENTO_SemTítulo__27hRedeOuOrganizaçãoDeComércioJustoESolidárioQual",
+    "prefixo": "SeçãoIIICARACTERÍSTICASGERAISDOEMPREENDIMENTO",
+    "secao_label": "Seção III — Características Gerais do Empreendimento",
+    "ordem_secao": 3,
+    "subgrupos": [
+      "SemTítulo"
+    ],
+    "numero_pergunta": "27h",
+    "rotulo": "Rede Ou Organização De Comércio Justo ESolidário Qual",
+    "tipo_inferido": "conditional_text",
+    "pii": false,
+    "valores_amostra": []
+  },
+  {
+    "coluna_bruta": "SeçãoIIICARACTERÍSTICASGERAISDOEMPREENDIMENTO__28IndiqueQuaisAtividadesEconômicasSãoRealizadasDeFormaColetivaPelosasSóciosasDoEmpreendimento",
+    "prefixo": "SeçãoIIICARACTERÍSTICASGERAISDOEMPREENDIMENTO",
+    "secao_label": "Seção III — Características Gerais do Empreendimento",
+    "ordem_secao": 3,
+    "subgrupos": [],
+    "numero_pergunta": "28",
+    "rotulo": "Indique Quais Atividades Econômicas São Realizadas De Forma Coletiva Pelosas Sóciosas Do Empreendimento",
+    "tipo_inferido": "multi_select",
+    "pii": false,
+    "valores_amostra": [
+      "Comercialização ou organização da comercialização – venda, Uso de infra-estrutura",
+      "Comercialização ou organização da comercialização – venda, Troca de produtos ou serviços, Uso de infra-estrutura, Aquisição de matéria-prima e insumos",
+      "Produção, Comercialização ou organização da comercialização – venda, Uso de infra-estrutura, Aquisição de matéria-prima e insumos",
+      "Comercialização ou organização da comercialização – venda, Aquisição de matéria-prima e insumos",
+      "Produção",
+      "Produção, Comercialização ou organização da comercialização – venda, Consumo",
+      "Produção, Comercialização ou organização da comercialização – venda, Troca de produtos ou serviços, Uso de infra-estrutura, Aquisição de matéria-prima e insumos",
+      "Comercialização ou organização da comercialização – venda"
+    ]
+  },
+  {
+    "coluna_bruta": "SeçãoIIICARACTERÍSTICASGERAISDOEMPREENDIMENTO__29DentreAsAtividadesEconômicasRealizadasPeloEmpreendimentoIndiqueQualAPrincipal",
+    "prefixo": "SeçãoIIICARACTERÍSTICASGERAISDOEMPREENDIMENTO",
+    "secao_label": "Seção III — Características Gerais do Empreendimento",
+    "ordem_secao": 3,
+    "subgrupos": [],
+    "numero_pergunta": "29",
+    "rotulo": "Dentre As Atividades Econômicas Realizadas Pelo Empreendimento Indique Qual APrincipal",
+    "tipo_inferido": "multi_select",
+    "pii": false,
+    "valores_amostra": [
+      "Consumo, uso coletivo de bens e serviços pelos sócios",
+      "Produção ou produção e comercialização",
+      "Comercialização ou organização da comercialização",
+      "Troca de produtos ou serviços"
+    ]
+  },
+  {
+    "coluna_bruta": "_30A34__30OEmpreendimentoSeCaracterizaComoUmClubeDeTrocas",
+    "prefixo": "_30A34",
+    "secao_label": "Bloco condicional — Clube de Trocas (perguntas 30–34)",
+    "ordem_secao": 4,
+    "subgrupos": [],
+    "numero_pergunta": "30",
+    "rotulo": "OEmpreendimento Se Caracteriza Como Um Clube De Trocas",
+    "tipo_inferido": "boolean",
+    "pii": false,
+    "valores_amostra": [
+      "Não"
+    ]
+  },
+  {
+    "coluna_bruta": "_30A34__31OClubeDeTrocasUtilizaMoedaSocial",
+    "prefixo": "_30A34",
+    "secao_label": "Bloco condicional — Clube de Trocas (perguntas 30–34)",
+    "ordem_secao": 4,
+    "subgrupos": [],
+    "numero_pergunta": "31",
+    "rotulo": "OClube De Trocas Utiliza Moeda Social",
+    "tipo_inferido": "boolean",
+    "pii": false,
+    "valores_amostra": [
+      "Não"
+    ]
+  },
+  {
+    "coluna_bruta": "_30A34__32AMoedaSocialUtilizadaPossuiLastro",
+    "prefixo": "_30A34",
+    "secao_label": "Bloco condicional — Clube de Trocas (perguntas 30–34)",
+    "ordem_secao": 4,
+    "subgrupos": [],
+    "numero_pergunta": "32",
+    "rotulo": "AMoeda Social Utilizada Possui Lastro",
+    "tipo_inferido": "boolean",
+    "pii": false,
+    "valores_amostra": [
+      "Não"
+    ]
+  },
+  {
+    "coluna_bruta": "_30A34__33OsasSóciosasPagamAlgumaTaxaOuContribuiçãoParaOEmpreendimento",
+    "prefixo": "_30A34",
+    "secao_label": "Bloco condicional — Clube de Trocas (perguntas 30–34)",
+    "ordem_secao": 4,
+    "subgrupos": [],
+    "numero_pergunta": "33",
+    "rotulo": "Osas Sóciosas Pagam Alguma Taxa Ou Contribuição Para OEmpreendimento",
+    "tipo_inferido": "boolean",
+    "pii": false,
+    "valores_amostra": [
+      "Sim"
+    ]
+  },
+  {
+    "coluna_bruta": "_30A34__34QualAFormaDeContribuiçãoDosParticipantesParaOEmpreendimento",
+    "prefixo": "_30A34",
+    "secao_label": "Bloco condicional — Clube de Trocas (perguntas 30–34)",
+    "ordem_secao": 4,
+    "subgrupos": [],
+    "numero_pergunta": "34",
+    "rotulo": "Qual AForma De Contribuição Dos Participantes Para OEmpreendimento",
+    "tipo_inferido": "text",
+    "pii": false,
+    "valores_amostra": [
+      "Pagamento de taxa fixa"
+    ]
+  },
+  {
+    "coluna_bruta": "_35A55__35QuantosTiposDeProdutosSãoProduzidosColetivamentePeloEmpreendimento",
+    "prefixo": "_35A55",
+    "secao_label": "Bloco condicional — Produção (perguntas 35–55)",
+    "ordem_secao": 5,
+    "subgrupos": [],
+    "numero_pergunta": "35",
+    "rotulo": "Quantos Tipos De Produtos São Produzidos Coletivamente Pelo Empreendimento",
+    "tipo_inferido": "integer",
+    "pii": false,
+    "valores_amostra": [
+      "0",
+      "2",
+      "50",
+      "32",
+      "35",
+      "1",
+      "3",
+      "10"
+    ]
+  },
+  {
+    "coluna_bruta": "_35A55__37QualFoiOFaturamentoMensalDoEmpreendimentovalorMédioMensal",
+    "prefixo": "_35A55",
+    "secao_label": "Bloco condicional — Produção (perguntas 35–55)",
+    "ordem_secao": 5,
+    "subgrupos": [],
+    "numero_pergunta": "37",
+    "rotulo": "Qual Foi OFaturamento Mensal Do Empreendimentovalor Médio Mensal",
+    "tipo_inferido": "numeric_or_text",
+    "pii": false,
+    "valores_amostra": [
+      "3000.0",
+      "5225.0",
+      "500.0",
+      "100.0",
+      "7000.0",
+      "0.0",
+      "100000.0",
+      "17900.0"
+    ]
+  },
+  {
+    "coluna_bruta": "_35A55__39QuantoOEmpreendimentoGastaMensalmenteComInsumos",
+    "prefixo": "_35A55",
+    "secao_label": "Bloco condicional — Produção (perguntas 35–55)",
+    "ordem_secao": 5,
+    "subgrupos": [],
+    "numero_pergunta": "39",
+    "rotulo": "Quanto OEmpreendimento Gasta Mensalmente Com Insumos",
+    "tipo_inferido": "numeric",
+    "pii": false,
+    "valores_amostra": [
+      "500.0",
+      "120.0",
+      "1000.0",
+      "100.0",
+      "3000.0",
+      "1500.0",
+      "80000.0",
+      "1779.0"
+    ]
+  },
+  {
+    "coluna_bruta": "_35A55__40QualAOrigemDaMatériaprimaOuDoInsumorespostaMúltipla",
+    "prefixo": "_35A55",
+    "secao_label": "Bloco condicional — Produção (perguntas 35–55)",
+    "ordem_secao": 5,
+    "subgrupos": [],
+    "numero_pergunta": "40",
+    "rotulo": "Qual AOrigem Da Matériaprima Ou Do Insumoresposta Múltipla",
+    "tipo_inferido": "multi_select",
+    "pii": false,
+    "valores_amostra": [
+      "Empresa privada, Próprios associados (as), Produtores (as) não-sócios (as)",
+      "Empresa privada",
+      "Empresa privada, Produtores (as) não-sócios (as)",
+      "Empresa privada, Próprios associados (as)",
+      "Empreendimentos de Economia Solidária, Empresa privada, Próprios associados (as)",
+      "Empreendimentos de Economia Solidária, Empresa privada"
+    ]
+  },
+  {
+    "coluna_bruta": "_35A55__41OsEquipamentosDoEmpreendimentoSãorespostaMúltipla",
+    "prefixo": "_35A55",
+    "secao_label": "Bloco condicional — Produção (perguntas 35–55)",
+    "ordem_secao": 5,
+    "subgrupos": [],
+    "numero_pergunta": "41",
+    "rotulo": "Os Equipamentos Do Empreendimento Sãoresposta Múltipla",
+    "tipo_inferido": "multi_select",
+    "pii": false,
+    "valores_amostra": [
+      "Próprios",
+      "Próprios, Cedidos ou emprestados",
+      "Cedidos ou emprestados",
+      "Não se aplica"
+    ]
+  },
+  {
+    "coluna_bruta": "_35A55__42QualÉODestinoDosProdutosrespostaMúltipla",
+    "prefixo": "_35A55",
+    "secao_label": "Bloco condicional — Produção (perguntas 35–55)",
+    "ordem_secao": 5,
+    "subgrupos": [],
+    "numero_pergunta": "42",
+    "rotulo": "Qual ÉODestino Dos Produtosresposta Múltipla",
+    "tipo_inferido": "multi_select",
+    "pii": false,
+    "valores_amostra": [
+      "Venda",
+      "Venda, Autoconsumo",
+      "Venda, Troca, Autoconsumo"
+    ]
+  },
+  {
+    "coluna_bruta": "_35A55__43ParaQuemÉFeitaAComercializaçãoDeProdutosDoEmpreendimentorespostaMúltipla",
+    "prefixo": "_35A55",
+    "secao_label": "Bloco condicional — Produção (perguntas 35–55)",
+    "ordem_secao": 5,
+    "subgrupos": [],
+    "numero_pergunta": "43",
+    "rotulo": "Para Quem ÉFeita AComercialização De Produtos Do Empreendimentoresposta Múltipla",
+    "tipo_inferido": "multi_select",
+    "pii": false,
+    "valores_amostra": [
+      "Venda direta ao consumidor final, Venda a revendedores/atacadistas, Venda a órgão governamental, Venda para empresa(s) privada(s) de produção",
+      "Venda direta ao consumidor final, Venda a órgão governamental",
+      "Venda direta ao consumidor final",
+      "Venda direta ao consumidor final, Venda para empresa(s) privada(s) de produção",
+      "Venda direta ao consumidor final, Venda a revendedores/atacadistas, Venda a órgão governamental",
+      "Venda direta ao consumidor final, Venda a revendedores/atacadistas, Venda a órgão governamental, Venda para empresa(s) privada(s) de produção, Venda a outros empreendimentos de Economia Solidária",
+      "Venda a órgão governamental, Venda para empresa(s) privada(s) de produção, Venda a outros empreendimentos de Economia Solidária, Troca com outros empreendimentos solidários"
+    ]
+  },
+  {
+    "coluna_bruta": "_35A55__44AVendaEouTrocaDeProdutosRealizasePrincipalmenteNorespostaMúltipla",
+    "prefixo": "_35A55",
+    "secao_label": "Bloco condicional — Produção (perguntas 35–55)",
+    "ordem_secao": 5,
+    "subgrupos": [],
+    "numero_pergunta": "44",
+    "rotulo": "AVenda Eou Troca De Produtos Realizase Principalmente Noresposta Múltipla",
+    "tipo_inferido": "multi_select",
+    "pii": false,
+    "valores_amostra": [
+      "Mercado/comércio local ou comunitário, Mercado/comércio municipal, Mercado/comércio territorial ou microrregional, Mercado/comércio estadual, Mercado/comércio nacional",
+      "Mercado/comércio municipal",
+      "Mercado/comércio local ou comunitário, Mercado/comércio territorial ou microrregional",
+      "Mercado/comércio local ou comunitário, Mercado/comércio municipal",
+      "Mercado/comércio municipal, Mercado/comércio territorial ou microrregional",
+      "Mercado/comércio local ou comunitário, Mercado/comércio municipal, Mercado/comércio territorial ou microrregional"
+    ]
+  },
+  {
+    "coluna_bruta": "_35A55__45QuaisOsPrincipaisEspaçosDeComercializaçãorespostaMúltipla",
+    "prefixo": "_35A55",
+    "secao_label": "Bloco condicional — Produção (perguntas 35–55)",
+    "ordem_secao": 5,
+    "subgrupos": [],
+    "numero_pergunta": "45",
+    "rotulo": "Quais Os Principais Espaços De Comercializaçãoresposta Múltipla",
+    "tipo_inferido": "multi_select",
+    "pii": false,
+    "valores_amostra": [
+      "\"Espaços de venda coletivos (centrais de comercialização, CEASA)\", Feiras livres, Feiras e exposições eventuais/especiais, Entrega direta a clientes, ●\tLojas de produtos naturais e empórios",
+      "Feiras livres, Feiras de Economia Solidária e/ou agroecologia, Entrega direta a clientes",
+      "Feiras livres, Feiras e exposições eventuais/especiais, Feiras de Economia Solidária e/ou agroecologia, Entrega direta a clientes",
+      "Lojas ou espaços próprios, Entrega direta a clientes",
+      "Feiras livres, Feiras e exposições eventuais/especiais, Entrega direta a clientes",
+      "Feiras livres, Entrega direta a clientes",
+      "Feiras livres, Feiras e exposições eventuais/especiais, Revendedores (Supermercados)",
+      "\"Espaços de venda coletivos (centrais de comercialização, CEASA)\", Feiras livres, Feiras e exposições eventuais/especiais, Feiras de Economia Solidária e/ou agroecologia, Entrega direta a clientes"
+    ]
+  },
+  {
+    "coluna_bruta": "_35A55__46OEmpreendimentoTemEncontradoAlgumaDificuldadeNaComercializaçãoDeProdutosEouServiçosconsiderarTantoOsEmpreendimentosQueJáEstãoComercializandoQuantoOsQueTentamOuPretendemComercializarSeusProdutos",
+    "prefixo": "_35A55",
+    "secao_label": "Bloco condicional — Produção (perguntas 35–55)",
+    "ordem_secao": 5,
+    "subgrupos": [],
+    "numero_pergunta": "46",
+    "rotulo": "OEmpreendimento Tem Encontrado Alguma Dificuldade Na Comercialização De Produtos Eou Serviçosconsiderar Tanto Os Empreendimentos Que Já Estão Comercializando Quanto Os Que Tentam Ou Pretendem Comercializar Seus Produtos",
+    "tipo_inferido": "boolean",
+    "pii": false,
+    "valores_amostra": [
+      "Sim",
+      "Não"
+    ]
+  },
+  {
+    "coluna_bruta": "_35A55__47QuaisAsPrincipaisDificuldadesNaComercializaçãoDosProdutosrespostaMúltipla",
+    "prefixo": "_35A55",
+    "secao_label": "Bloco condicional — Produção (perguntas 35–55)",
+    "ordem_secao": 5,
+    "subgrupos": [],
+    "numero_pergunta": "47",
+    "rotulo": "Quais As Principais Dificuldades Na Comercialização Dos Produtosresposta Múltipla",
+    "tipo_inferido": "multi_select",
+    "pii": false,
+    "valores_amostra": [
+      "Escoamento da produção.",
+      "Um dos pontos de venda é com localização ruim",
+      "Dificuldade em manter a regularidade do fornecimento, Falta de capital de giro, \"A concorrência, os atravessadores, existência de monopólios\", \"Estrutura para comercialização (local, espaço, equipamentos etc.) inadequada\"",
+      "\"Dificuldades para vendas no mercado institucional, compra da merenda escolar do estado por exemplo. Demora para comprar e quando fazem as compras pedem em um curto especo de tempo o que era para ser entregue em um ano. \"",
+      "\"Quando há uma grande produção de hortaliças como alfaces, brócolis e outras culturas os agricultores tem dificuldade de vendar quantidades maiores. \"",
+      "\"O empreendimento tentou, mas não conseguiu encontrar quantidade suficiente de clientes\", Não há sócios disponíveis para cuidar da comercialização, Dificuldade em manter a regularidade do fornecimento, \"Estrutura para comercialização (local, espaço, equipamentos etc.) inadequada\"",
+      "\"O empreendimento tentou, mas não conseguiu encontrar quantidade suficiente de clientes\", Os clientes exigem um prazo para o pagamento, \"A concorrência, os atravessadores, existência de monopólios\", Dificuldade ou custo elevado de transporte, Precariedade das estradas para escoamento da produção",
+      "Os preços praticados são inadequados, Os clientes exigem um prazo para o pagamento"
+    ]
+  },
+  {
+    "coluna_bruta": "_35A55_Mulheres",
+    "prefixo": "_35A55",
+    "secao_label": "Bloco condicional — Produção (perguntas 35–55)",
+    "ordem_secao": 5,
+    "subgrupos": [],
+    "numero_pergunta": null,
+    "rotulo": "Mulheres",
+    "tipo_inferido": "numeric",
+    "pii": false,
+    "valores_amostra": [
+      "6.0",
+      "1.0",
+      "2.0",
+      "4.0",
+      "0.0",
+      "10.0"
+    ]
+  },
+  {
+    "coluna_bruta": "_35A55_Homens",
+    "prefixo": "_35A55",
+    "secao_label": "Bloco condicional — Produção (perguntas 35–55)",
+    "ordem_secao": 5,
+    "subgrupos": [],
+    "numero_pergunta": null,
+    "rotulo": "Homens",
+    "tipo_inferido": "numeric",
+    "pii": false,
+    "valores_amostra": [
+      "19.0",
+      "2.0",
+      "1.0",
+      "6.0",
+      "0.0",
+      "5.0"
+    ]
+  },
+  {
+    "coluna_bruta": "_35A55__49OEmpreendimentoEstáConseguindoRemunerarOsasSóciosasQueTrabalham",
+    "prefixo": "_35A55",
+    "secao_label": "Bloco condicional — Produção (perguntas 35–55)",
+    "ordem_secao": 5,
+    "subgrupos": [],
+    "numero_pergunta": "49",
+    "rotulo": "OEmpreendimento Está Conseguindo Remunerar Osas Sóciosas Que Trabalham",
+    "tipo_inferido": "boolean",
+    "pii": false,
+    "valores_amostra": [
+      "Não",
+      "Sim"
+    ]
+  },
+  {
+    "coluna_bruta": "_35A55__50QualOValorMédioDaRemuneraçãoretiradaMensalvalorMédioMensal",
+    "prefixo": "_35A55",
+    "secao_label": "Bloco condicional — Produção (perguntas 35–55)",
+    "ordem_secao": 5,
+    "subgrupos": [],
+    "numero_pergunta": "50",
+    "rotulo": "Qual OValor Médio Da Remuneraçãoretirada Mensalvalor Médio Mensal",
+    "tipo_inferido": "numeric_or_text",
+    "pii": false,
+    "valores_amostra": [
+      "1000.0",
+      "3000.0"
+    ]
+  },
+  {
+    "coluna_bruta": "_35A55__51DeManeiraPreponderanteARendaObtidaPelosasSóciosasNoEmpreendimentoÉrespostaÚnica",
+    "prefixo": "_35A55",
+    "secao_label": "Bloco condicional — Produção (perguntas 35–55)",
+    "ordem_secao": 5,
+    "subgrupos": [],
+    "numero_pergunta": "51",
+    "rotulo": "De Maneira Preponderante ARenda Obtida Pelosas Sóciosas No Empreendimento ÉrespostaÚnica",
+    "tipo_inferido": "single_select",
+    "pii": false,
+    "valores_amostra": [
+      "Complementação de rendimentos recebidos em outras atividades econômicas",
+      "A fonte principal da renda dos sócios",
+      "Complementação de rendimentos de aposentadorias ou pensões",
+      "cada produtor recebe de acordo com a sua produção in natura ou o que faz de processamento na sua própria propriedade",
+      "Uso pela própria entidade",
+      "Não há remuneração para sócios"
+    ]
+  },
+  {
+    "coluna_bruta": "_35A55__52ComoÉFeitaARemuneraçãoOuRetiradaDosasSóciosasrespostaMúltipla",
+    "prefixo": "_35A55",
+    "secao_label": "Bloco condicional — Produção (perguntas 35–55)",
+    "ordem_secao": 5,
+    "subgrupos": [],
+    "numero_pergunta": "52",
+    "rotulo": "Como ÉFeita ARemuneração Ou Retirada Dosas Sóciosasresposta Múltipla",
+    "tipo_inferido": "multi_select",
+    "pii": false,
+    "valores_amostra": [
+      "Remuneração/retirada por produção",
+      "Remuneração/retirada por horas trabalhadas",
+      "Remuneração/retirada por horas trabalhadas, Remuneração/retirada por produção"
+    ]
+  },
+  {
+    "coluna_bruta": "_35A55__53QualOValorDaMenorRetiradaremuneraçãoDosasSóciosasDoEmpreendimento",
+    "prefixo": "_35A55",
+    "secao_label": "Bloco condicional — Produção (perguntas 35–55)",
+    "ordem_secao": 5,
+    "subgrupos": [],
+    "numero_pergunta": "53",
+    "rotulo": "Qual OValor Da Menor Retiradaremuneração Dosas Sóciosas Do Empreendimento",
+    "tipo_inferido": "numeric_or_text",
+    "pii": false,
+    "valores_amostra": [
+      "800.0",
+      "500.0",
+      "900.0",
+      "400.0"
+    ]
+  },
+  {
+    "coluna_bruta": "_35A55__55QuaisSãoOsBenefíciosAsGarantiasEOsDireitosDosasSóciosasQueTrabalhamNoEmpreendimentorespostaMúltipla",
+    "prefixo": "_35A55",
+    "secao_label": "Bloco condicional — Produção (perguntas 35–55)",
+    "ordem_secao": 5,
+    "subgrupos": [],
+    "numero_pergunta": "55",
+    "rotulo": "Quais São Os Benefícios As Garantias EOs Direitos Dosas Sóciosas Que Trabalham No Empreendimentoresposta Múltipla",
+    "tipo_inferido": "multi_select",
+    "pii": false,
+    "valores_amostra": [
+      "Qualificação social e profissional, Equipamentos de segurança, Auxílio-educação",
+      "Nenhum destes",
+      "Descanso remunerado (incluindo férias), Licença-maternidade, Auxílio-transporte"
+    ]
+  },
+  {
+    "coluna_bruta": "_56A74__56QuaisAsPrincipaisFormasDeOrganizaçãoDaComercializaçãoUtilizadasPeloEmpreendimentorespostaMúltipla",
+    "prefixo": "_56A74",
+    "secao_label": "Bloco condicional — Comercialização (perguntas 56–74)",
+    "ordem_secao": 6,
+    "subgrupos": [],
+    "numero_pergunta": "56",
+    "rotulo": "Quais As Principais Formas De Organização Da Comercialização Utilizadas Pelo Empreendimentoresposta Múltipla",
+    "tipo_inferido": "multi_select",
+    "pii": false,
+    "valores_amostra": [
+      "Feiras, Por demanda (pedidos via whatsapp/telefone)",
+      "Lojas ou espaços fixos de venda, Central(is) de comercialização",
+      "Feiras",
+      "Feiras, Central(is) de comercialização, Por demanda (pedidos via whatsapp/telefone)",
+      "Feiras, Comércio eletrônico (aplicativo e e-commerce), Por demanda (pedidos via whatsapp/telefone)",
+      "Lojas ou espaços fixos de venda, Feiras, Por demanda (pedidos via whatsapp/telefone)",
+      "Por demanda (pedidos via whatsapp/telefone)"
+    ]
+  },
+  {
+    "coluna_bruta": "_56A74__57QualAQuantidadeDeProdutositensComercializadosPeloEmpreendimento",
+    "prefixo": "_56A74",
+    "secao_label": "Bloco condicional — Comercialização (perguntas 56–74)",
+    "ordem_secao": 6,
+    "subgrupos": [],
+    "numero_pergunta": "57",
+    "rotulo": "Qual AQuantidade De Produtositens Comercializados Pelo Empreendimento",
+    "tipo_inferido": "numeric",
+    "pii": false,
+    "valores_amostra": [
+      "4.0",
+      "1.0",
+      "8.0",
+      "30.0",
+      "10.0",
+      "5.0",
+      "20.0",
+      "341.0"
+    ]
+  },
+  {
+    "coluna_bruta": "_56A74__59QualOFaturamentovolumeDeVendasMensalObtidoPeloEmpreendimentovalorMédioMensal",
+    "prefixo": "_56A74",
+    "secao_label": "Bloco condicional — Comercialização (perguntas 56–74)",
+    "ordem_secao": 6,
+    "subgrupos": [],
+    "numero_pergunta": "59",
+    "rotulo": "Qual OFaturamentovolume De Vendas Mensal Obtido Pelo Empreendimentovalor Médio Mensal",
+    "tipo_inferido": "numeric_or_text",
+    "pii": false,
+    "valores_amostra": [
+      "50000.0",
+      "1600000.0",
+      "0.0",
+      "3000.0",
+      "350000.0",
+      "32000.0"
+    ]
+  },
+  {
+    "coluna_bruta": "_56A74__60QualAOrigemDosProdutosComercializadosrespostaMúltipla",
+    "prefixo": "_56A74",
+    "secao_label": "Bloco condicional — Comercialização (perguntas 56–74)",
+    "ordem_secao": 6,
+    "subgrupos": [],
+    "numero_pergunta": "60",
+    "rotulo": "Qual AOrigem Dos Produtos Comercializadosresposta Múltipla",
+    "tipo_inferido": "multi_select",
+    "pii": false,
+    "valores_amostra": [
+      "Próprios associados (as)",
+      "Próprios associados (as), Produtores (as) não-sócios (as)",
+      "Empresa privada, Próprios associados (as)",
+      "Empreendimentos de Economia Solidária, Próprios associados (as)",
+      "Órgãos públicos"
+    ]
+  },
+  {
+    "coluna_bruta": "_56A74__61ComoSãoFeitosOsPagamentosDosProdutosComercializadosrespostaMúltipla",
+    "prefixo": "_56A74",
+    "secao_label": "Bloco condicional — Comercialização (perguntas 56–74)",
+    "ordem_secao": 6,
+    "subgrupos": [],
+    "numero_pergunta": "61",
+    "rotulo": "Como São Feitos Os Pagamentos Dos Produtos Comercializadosresposta Múltipla",
+    "tipo_inferido": "multi_select",
+    "pii": false,
+    "valores_amostra": [
+      "A prazo",
+      "Na aquisição (à vista - dinheiro), Na aquisição (à vista - pix)",
+      "Não há pagamento - cada associado vende seu próprio produto",
+      "Na aquisição (à vista - dinheiro), Na aquisição (à vista - pix), A prazo, Pagamento antecipado",
+      "Na aquisição (à vista - dinheiro), Na aquisição (à vista - pix), A prazo"
+    ]
+  },
+  {
+    "coluna_bruta": "_56A74__62QuantoOEmpreendimentoGastaMensalmenteComAAquisiçãoDosProdutosvalorMédioMensal",
+    "prefixo": "_56A74",
+    "secao_label": "Bloco condicional — Comercialização (perguntas 56–74)",
+    "ordem_secao": 6,
+    "subgrupos": [],
+    "numero_pergunta": "62",
+    "rotulo": "Quanto OEmpreendimento Gasta Mensalmente Com AAquisição Dos Produtosvalor Médio Mensal",
+    "tipo_inferido": "numeric_or_text",
+    "pii": false,
+    "valores_amostra": [
+      "40000.0",
+      "100000.0",
+      "0.0",
+      "30000.0",
+      "3000.0"
+    ]
+  },
+  {
+    "coluna_bruta": "_56A74__63OsasSóciosasPagamAlgumaTaxaOuContribuiçãoParaOEmpreendimento",
+    "prefixo": "_56A74",
+    "secao_label": "Bloco condicional — Comercialização (perguntas 56–74)",
+    "ordem_secao": 6,
+    "subgrupos": [],
+    "numero_pergunta": "63",
+    "rotulo": "Osas Sóciosas Pagam Alguma Taxa Ou Contribuição Para OEmpreendimento",
+    "tipo_inferido": "boolean",
+    "pii": false,
+    "valores_amostra": [
+      "Sim",
+      "Não"
+    ]
+  },
+  {
+    "coluna_bruta": "_56A74__64QualAFormaDeContribuiçãoUtilizadarespostaMúltipla",
+    "prefixo": "_56A74",
+    "secao_label": "Bloco condicional — Comercialização (perguntas 56–74)",
+    "ordem_secao": 6,
+    "subgrupos": [],
+    "numero_pergunta": "64",
+    "rotulo": "Qual AForma De Contribuição Utilizadaresposta Múltipla",
+    "tipo_inferido": "multi_select",
+    "pii": false,
+    "valores_amostra": [
+      "Um percentual sobre a venda",
+      "Taxa fixa"
+    ]
+  },
+  {
+    "coluna_bruta": "_56A74__65DeManeiraPreponderanteARendaObtidaPelosasSóciosasComAComercializaçãoÉrespostaÚnica",
+    "prefixo": "_56A74",
+    "secao_label": "Bloco condicional — Comercialização (perguntas 56–74)",
+    "ordem_secao": 6,
+    "subgrupos": [],
+    "numero_pergunta": "65",
+    "rotulo": "De Maneira Preponderante ARenda Obtida Pelosas Sóciosas Com AComercialização ÉrespostaÚnica",
+    "tipo_inferido": "single_select",
+    "pii": false,
+    "valores_amostra": [
+      "Complementação de rendimentos recebidos em outras atividades econômicas",
+      "A fonte principal da renda individual ou familiar"
+    ]
+  },
+  {
+    "coluna_bruta": "_56A74__66ParaQuemÉFeitaAComercializaçãoDeProdutosDoEmpreendimentorespostaMúltipla",
+    "prefixo": "_56A74",
+    "secao_label": "Bloco condicional — Comercialização (perguntas 56–74)",
+    "ordem_secao": 6,
+    "subgrupos": [],
+    "numero_pergunta": "66",
+    "rotulo": "Para Quem ÉFeita AComercialização De Produtos Do Empreendimentoresposta Múltipla",
+    "tipo_inferido": "multi_select",
+    "pii": false,
+    "valores_amostra": [
+      "Venda direta ao consumidor final, Venda a órgão governamental",
+      "Venda para empresa(s) privada(s) de produção",
+      "Venda direta ao consumidor final",
+      "Venda direta ao consumidor final, Venda a órgão governamental, Venda a outros empreendimentos de Economia Solidária",
+      "Venda direta ao consumidor final, Venda para empresa(s) privada(s) de produção, Troca com outros empreendimentos solidários",
+      "Venda direta ao consumidor final, Venda a revendedores/atacadistas, Venda a órgão governamental, Venda para empresa(s) privada(s) de produção, Venda a outros empreendimentos de Economia Solidária"
+    ]
+  },
+  {
+    "coluna_bruta": "_56A74__67AVendaEouTrocaDeProdutosRealizasePrincipalmenteNorespostaMúltipla",
+    "prefixo": "_56A74",
+    "secao_label": "Bloco condicional — Comercialização (perguntas 56–74)",
+    "ordem_secao": 6,
+    "subgrupos": [],
+    "numero_pergunta": "67",
+    "rotulo": "AVenda Eou Troca De Produtos Realizase Principalmente Noresposta Múltipla",
+    "tipo_inferido": "multi_select",
+    "pii": false,
+    "valores_amostra": [
+      "Mercado/comércio local ou comunitário, Mercado/comércio municipal, Mercado/comércio territorial ou microrregional",
+      "Mercado/comércio local ou comunitário, Mercado/comércio municipal, Mercado/comércio territorial ou microrregional, Mercado/comércio estadual",
+      "Mercado/comércio local ou comunitário, Mercado/comércio municipal, Mercado/comércio territorial ou microrregional, Mercado/comércio estadual, Mercado/comércio nacional",
+      "Mercado/comércio municipal, Mercado/comércio territorial ou microrregional, Mercado/comércio estadual"
+    ]
+  },
+  {
+    "coluna_bruta": "_56A74__68OEmpreendimentoTemEncontradoAlgumaDificuldadeParaAComercialização",
+    "prefixo": "_56A74",
+    "secao_label": "Bloco condicional — Comercialização (perguntas 56–74)",
+    "ordem_secao": 6,
+    "subgrupos": [],
+    "numero_pergunta": "68",
+    "rotulo": "OEmpreendimento Tem Encontrado Alguma Dificuldade Para AComercialização",
+    "tipo_inferido": "boolean",
+    "pii": false,
+    "valores_amostra": [
+      "Sim",
+      "Não"
+    ]
+  },
+  {
+    "coluna_bruta": "_56A74__69QuaisAsPrincipaisDificuldadesNaComercializaçãoDosProdutosrespostaMúltipla",
+    "prefixo": "_56A74",
+    "secao_label": "Bloco condicional — Comercialização (perguntas 56–74)",
+    "ordem_secao": 6,
+    "subgrupos": [],
+    "numero_pergunta": "69",
+    "rotulo": "Quais As Principais Dificuldades Na Comercialização Dos Produtosresposta Múltipla",
+    "tipo_inferido": "multi_select",
+    "pii": false,
+    "valores_amostra": [
+      "\"O empreendimento tentou, mas não conseguiu encontrar quantidade suficiente de clientes\", Os preços praticados são inadequados, Os compradores só compram em grande quantidade, Dificuldade em manter a regularidade do fornecimento, \"A concorrência, os atravessadores, existência de monopólios\", Dificuldade ou custo elevado de transporte, Precariedade das estradas para escoamento da produção",
+      "\"O empreendimento tentou, mas não conseguiu encontrar quantidade suficiente de clientes\", Dificuldade em manter a regularidade do fornecimento, Falta de capital de giro, Precariedade das estradas para escoamento da produção, \"Estrutura para comercialização (local, espaço, equipamentos etc.) inadequada\"",
+      "Não há sócios disponíveis para cuidar da comercialização, Dificuldade em manter a regularidade do fornecimento, Falta de registro legal para a comercialização (emitir nota fiscal etc.)",
+      "\"O empreendimento tentou, mas não conseguiu encontrar quantidade suficiente de clientes\", Não há sócios disponíveis para cuidar da comercialização, Dificuldade em manter a regularidade do fornecimento, Falta de registro legal para a comercialização (emitir nota fiscal etc.), Falta de registro sanitário ou alvará, \"Estrutura para comercialização (local, espaço, equipamentos etc.) inadequada\"",
+      "Dificuldade em manter a regularidade do fornecimento, \"A concorrência, os atravessadores, existência de monopólios\", Dificuldade ou custo elevado de transporte, Precariedade das estradas para escoamento da produção, \"Estrutura para comercialização (local, espaço, equipamentos etc.) inadequada\"",
+      "\"O empreendimento tentou, mas não conseguiu encontrar quantidade suficiente de clientes\", Não há sócios disponíveis para cuidar da comercialização, Dificuldade em manter a regularidade do fornecimento, Falta de capital de giro, \"A concorrência, os atravessadores, existência de monopólios\", Dificuldade ou custo elevado de transporte, Precariedade das estradas para escoamento da produção, \"Estrutura para comercialização (local, espaço, equipamentos etc.) inadequada\"",
+      "\"O empreendimento tentou, mas não conseguiu encontrar quantidade suficiente de clientes\", Não há sócios disponíveis para cuidar da comercialização, \"Ninguém do empreendimento sabe como se faz uma venda (argumentação, negociação etc.)\", O empreendimento já sofreu muitos calotes e não sabe como evitar, Os preços praticados são inadequados, Os clientes exigem um prazo para o pagamento, Dificuldade em manter a regularidade do fornecimento, Falta de capital de giro, \"A concorrência, os atravessadores, existência de monopólios\", Precariedade das estradas para escoamento da produção, \"Estrutura para comercialização (local, espaço, equipamentos etc.) inadequada\""
+    ]
+  },
+  {
+    "coluna_bruta": "_56A74__70QuemÉResponsávelPelasVendasNoEmpreendimentorespostaMúltipla",
+    "prefixo": "_56A74",
+    "secao_label": "Bloco condicional — Comercialização (perguntas 56–74)",
+    "ordem_secao": 6,
+    "subgrupos": [],
+    "numero_pergunta": "70",
+    "rotulo": "Quem ÉResponsável Pelas Vendas No Empreendimentoresposta Múltipla",
+    "tipo_inferido": "multi_select",
+    "pii": false,
+    "valores_amostra": [
+      "Alguns(as) sócios(as) são designados para esta função",
+      "Cada associado(a) vende seu próprio produto, Há um rodízio de associados(as)",
+      "Cada associado(a) vende seu próprio produto",
+      "Há um rodízio de associados(as)"
+    ]
+  },
+  {
+    "coluna_bruta": "_56A74_SemTítulo2_Mulheres",
+    "prefixo": "_56A74",
+    "secao_label": "Bloco condicional — Comercialização (perguntas 56–74)",
+    "ordem_secao": 6,
+    "subgrupos": [
+      "SemTítulo2"
+    ],
+    "numero_pergunta": null,
+    "rotulo": "Mulheres",
+    "tipo_inferido": "text",
+    "pii": false,
+    "valores_amostra": []
+  },
+  {
+    "coluna_bruta": "_56A74_SemTítulo2_Homens",
+    "prefixo": "_56A74",
+    "secao_label": "Bloco condicional — Comercialização (perguntas 56–74)",
+    "ordem_secao": 6,
+    "subgrupos": [
+      "SemTítulo2"
+    ],
+    "numero_pergunta": null,
+    "rotulo": "Homens",
+    "tipo_inferido": "text",
+    "pii": false,
+    "valores_amostra": []
+  },
+  {
+    "coluna_bruta": "_56A74_SemTítulo2_Total",
+    "prefixo": "_56A74",
+    "secao_label": "Bloco condicional — Comercialização (perguntas 56–74)",
+    "ordem_secao": 6,
+    "subgrupos": [
+      "SemTítulo2"
+    ],
+    "numero_pergunta": null,
+    "rotulo": "Total",
+    "tipo_inferido": "text",
+    "pii": false,
+    "valores_amostra": []
+  },
+  {
+    "coluna_bruta": "_56A74_SemTítulo2__72OEmpreendimentoEstáConseguindoRemunerarOsasSóciosasQueRealizamAsVendas",
+    "prefixo": "_56A74",
+    "secao_label": "Bloco condicional — Comercialização (perguntas 56–74)",
+    "ordem_secao": 6,
+    "subgrupos": [
+      "SemTítulo2"
+    ],
+    "numero_pergunta": "72",
+    "rotulo": "OEmpreendimento Está Conseguindo Remunerar Osas Sóciosas Que Realizam As Vendas",
+    "tipo_inferido": "text",
+    "pii": false,
+    "valores_amostra": []
+  },
+  {
+    "coluna_bruta": "_56A74_SemTítulo2__73aRemuneraçãoFixaQualOValorMédioMensal",
+    "prefixo": "_56A74",
+    "secao_label": "Bloco condicional — Comercialização (perguntas 56–74)",
+    "ordem_secao": 6,
+    "subgrupos": [
+      "SemTítulo2"
+    ],
+    "numero_pergunta": "73a",
+    "rotulo": "Remuneração Fixa Qual OValor Médio Mensal",
+    "tipo_inferido": "numeric_or_text",
+    "pii": false,
+    "valores_amostra": []
+  },
+  {
+    "coluna_bruta": "_56A74_SemTítulo2__73bComissãoSobreValorDasVendascomissãoQualOPercentual",
+    "prefixo": "_56A74",
+    "secao_label": "Bloco condicional — Comercialização (perguntas 56–74)",
+    "ordem_secao": 6,
+    "subgrupos": [
+      "SemTítulo2"
+    ],
+    "numero_pergunta": "73b",
+    "rotulo": "Comissão Sobre Valor Das Vendascomissão Qual OPercentual",
+    "tipo_inferido": "numeric_or_text",
+    "pii": false,
+    "valores_amostra": []
+  },
+  {
+    "coluna_bruta": "_56A74_SemTítulo2__73cRemuneraçãoPorHorasTrabalhadasQualOValorMédioPorHora",
+    "prefixo": "_56A74",
+    "secao_label": "Bloco condicional — Comercialização (perguntas 56–74)",
+    "ordem_secao": 6,
+    "subgrupos": [
+      "SemTítulo2"
+    ],
+    "numero_pergunta": "73c",
+    "rotulo": "Remuneração Por Horas Trabalhadas Qual OValor Médio Por Hora",
+    "tipo_inferido": "numeric_or_text",
+    "pii": false,
+    "valores_amostra": []
+  },
+  {
+    "coluna_bruta": "_56A74_SemTítulo2__74QuaisSãoOsBenefíciosAsGarantiasEOsDireitosDosasSóciosasQueTrabalhamNoEmpreendimentorespostaMúltipla",
+    "prefixo": "_56A74",
+    "secao_label": "Bloco condicional — Comercialização (perguntas 56–74)",
+    "ordem_secao": 6,
+    "subgrupos": [
+      "SemTítulo2"
+    ],
+    "numero_pergunta": "74",
+    "rotulo": "Quais São Os Benefícios As Garantias EOs Direitos Dosas Sóciosas Que Trabalham No Empreendimentoresposta Múltipla",
+    "tipo_inferido": "multi_select",
+    "pii": false,
+    "valores_amostra": []
+  },
+  {
+    "coluna_bruta": "_75A93__75QuantosTiposDeServiçoSãoPrestadosPeloEmpreendimento",
+    "prefixo": "_75A93",
+    "secao_label": "Bloco condicional — Prestação de Serviços (perguntas 75–93)",
+    "ordem_secao": 7,
+    "subgrupos": [],
+    "numero_pergunta": "75",
+    "rotulo": "Quantos Tipos De Serviço São Prestados Pelo Empreendimento",
+    "tipo_inferido": "integer",
+    "pii": false,
+    "valores_amostra": []
+  },
+  {
+    "coluna_bruta": "_75A93__77QualOFaturamentoMensalDoEmpreendimentovalorMédioMensal",
+    "prefixo": "_75A93",
+    "secao_label": "Bloco condicional — Prestação de Serviços (perguntas 75–93)",
+    "ordem_secao": 7,
+    "subgrupos": [],
+    "numero_pergunta": "77",
+    "rotulo": "Qual OFaturamento Mensal Do Empreendimentovalor Médio Mensal",
+    "tipo_inferido": "numeric_or_text",
+    "pii": false,
+    "valores_amostra": []
+  },
+  {
+    "coluna_bruta": "_75A93__79QualAOrigemDosInsumosUtilizadosParaAPrestaçãoDeServiçosrespostaMúltipla",
+    "prefixo": "_75A93",
+    "secao_label": "Bloco condicional — Prestação de Serviços (perguntas 75–93)",
+    "ordem_secao": 7,
+    "subgrupos": [],
+    "numero_pergunta": "79",
+    "rotulo": "Qual AOrigem Dos Insumos Utilizados Para APrestação De Serviçosresposta Múltipla",
+    "tipo_inferido": "multi_select",
+    "pii": false,
+    "valores_amostra": []
+  },
+  {
+    "coluna_bruta": "_75A93__80QuantoOEmpreendimentoGastaNaAquisiçãoDeTodosOsInsumosmatériasprimasUtilizadosvalorMédioMensal",
+    "prefixo": "_75A93",
+    "secao_label": "Bloco condicional — Prestação de Serviços (perguntas 75–93)",
+    "ordem_secao": 7,
+    "subgrupos": [],
+    "numero_pergunta": "80",
+    "rotulo": "Quanto OEmpreendimento Gasta Na Aquisição De Todos Os Insumosmatériasprimas Utilizadosvalor Médio Mensal",
+    "tipo_inferido": "numeric_or_text",
+    "pii": false,
+    "valores_amostra": []
+  },
+  {
+    "coluna_bruta": "_75A93__81AQuemPertencemOsInstrumentosFerramentasOuEquipamentosUtilizadosPeloEESrespostaMúltipla",
+    "prefixo": "_75A93",
+    "secao_label": "Bloco condicional — Prestação de Serviços (perguntas 75–93)",
+    "ordem_secao": 7,
+    "subgrupos": [],
+    "numero_pergunta": "81",
+    "rotulo": "AQuem Pertencem Os Instrumentos Ferramentas Ou Equipamentos Utilizados Pelo EESresposta Múltipla",
+    "tipo_inferido": "multi_select",
+    "pii": false,
+    "valores_amostra": []
+  },
+  {
+    "coluna_bruta": "_75A93__82ComoÉFeitaAPrestaçãoDeServiçosPeloEmpreendimentorespostaMúltipla",
+    "prefixo": "_75A93",
+    "secao_label": "Bloco condicional — Prestação de Serviços (perguntas 75–93)",
+    "ordem_secao": 7,
+    "subgrupos": [],
+    "numero_pergunta": "82",
+    "rotulo": "Como ÉFeita APrestação De Serviços Pelo Empreendimentoresposta Múltipla",
+    "tipo_inferido": "multi_select",
+    "pii": false,
+    "valores_amostra": []
+  },
+  {
+    "coluna_bruta": "_75A93__83ParaQuemSeDestinaAPrestaçãoDeServiçosrespostaMúltipla",
+    "prefixo": "_75A93",
+    "secao_label": "Bloco condicional — Prestação de Serviços (perguntas 75–93)",
+    "ordem_secao": 7,
+    "subgrupos": [],
+    "numero_pergunta": "83",
+    "rotulo": "Para Quem Se Destina APrestação De Serviçosresposta Múltipla",
+    "tipo_inferido": "multi_select",
+    "pii": false,
+    "valores_amostra": []
+  },
+  {
+    "coluna_bruta": "_75A93__84OEmpreendimentoTemEncontradoAlgumaDificuldadeNaVendaDosServiçosconsiderarTantoOsEmpreendimentosQueJáEstãoComercializandoQuantoOsQueTentamOuPretendemComercializarSeusServiços",
+    "prefixo": "_75A93",
+    "secao_label": "Bloco condicional — Prestação de Serviços (perguntas 75–93)",
+    "ordem_secao": 7,
+    "subgrupos": [],
+    "numero_pergunta": "84",
+    "rotulo": "OEmpreendimento Tem Encontrado Alguma Dificuldade Na Venda Dos Serviçosconsiderar Tanto Os Empreendimentos Que Já Estão Comercializando Quanto Os Que Tentam Ou Pretendem Comercializar Seus Serviços",
+    "tipo_inferido": "text",
+    "pii": false,
+    "valores_amostra": []
+  },
+  {
+    "coluna_bruta": "_75A93__85QuaisAsPrincipaisDificuldadesNaComercializaçãoDosServiçosrespostaMúltipla",
+    "prefixo": "_75A93",
+    "secao_label": "Bloco condicional — Prestação de Serviços (perguntas 75–93)",
+    "ordem_secao": 7,
+    "subgrupos": [],
+    "numero_pergunta": "85",
+    "rotulo": "Quais As Principais Dificuldades Na Comercialização Dos Serviçosresposta Múltipla",
+    "tipo_inferido": "multi_select",
+    "pii": false,
+    "valores_amostra": []
+  },
+  {
+    "coluna_bruta": "_75A93__86aMulheresquantas",
+    "prefixo": "_75A93",
+    "secao_label": "Bloco condicional — Prestação de Serviços (perguntas 75–93)",
+    "ordem_secao": 7,
+    "subgrupos": [],
+    "numero_pergunta": "86a",
+    "rotulo": "Mulheresquantas",
+    "tipo_inferido": "integer",
+    "pii": false,
+    "valores_amostra": []
+  },
+  {
+    "coluna_bruta": "_75A93__86bHomensquantos",
+    "prefixo": "_75A93",
+    "secao_label": "Bloco condicional — Prestação de Serviços (perguntas 75–93)",
+    "ordem_secao": 7,
+    "subgrupos": [],
+    "numero_pergunta": "86b",
+    "rotulo": "Homensquantos",
+    "tipo_inferido": "integer",
+    "pii": false,
+    "valores_amostra": []
+  },
+  {
+    "coluna_bruta": "_75A93__86cTotalquantos",
+    "prefixo": "_75A93",
+    "secao_label": "Bloco condicional — Prestação de Serviços (perguntas 75–93)",
+    "ordem_secao": 7,
+    "subgrupos": [],
+    "numero_pergunta": "86c",
+    "rotulo": "Totalquantos",
+    "tipo_inferido": "integer",
+    "pii": false,
+    "valores_amostra": []
+  },
+  {
+    "coluna_bruta": "_75A93__87OEmpreendimentoEstáConseguindoRemunerarOsasSóciosasQueTrabalham",
+    "prefixo": "_75A93",
+    "secao_label": "Bloco condicional — Prestação de Serviços (perguntas 75–93)",
+    "ordem_secao": 7,
+    "subgrupos": [],
+    "numero_pergunta": "87",
+    "rotulo": "OEmpreendimento Está Conseguindo Remunerar Osas Sóciosas Que Trabalham",
+    "tipo_inferido": "text",
+    "pii": false,
+    "valores_amostra": []
+  },
+  {
+    "coluna_bruta": "_75A93_SemTítulo3__88QualOValorMédioDaRetiradaMensalvalorMédioMensal",
+    "prefixo": "_75A93",
+    "secao_label": "Bloco condicional — Prestação de Serviços (perguntas 75–93)",
+    "ordem_secao": 7,
+    "subgrupos": [
+      "SemTítulo3"
+    ],
+    "numero_pergunta": "88",
+    "rotulo": "Qual OValor Médio Da Retirada Mensalvalor Médio Mensal",
+    "tipo_inferido": "numeric_or_text",
+    "pii": false,
+    "valores_amostra": []
+  },
+  {
+    "coluna_bruta": "_75A93_SemTítulo3__89DeManeiraPreponderanteARendaObtidaPelosasSóciosasNoEmpreendimentoÉrespostaÚnica",
+    "prefixo": "_75A93",
+    "secao_label": "Bloco condicional — Prestação de Serviços (perguntas 75–93)",
+    "ordem_secao": 7,
+    "subgrupos": [
+      "SemTítulo3"
+    ],
+    "numero_pergunta": "89",
+    "rotulo": "De Maneira Preponderante ARenda Obtida Pelosas Sóciosas No Empreendimento ÉrespostaÚnica",
+    "tipo_inferido": "single_select",
+    "pii": false,
+    "valores_amostra": []
+  },
+  {
+    "coluna_bruta": "_75A93_SemTítulo3__90ComoÉFeitaARemuneraçãoOuRetiradaDosasSóciosasrespostaMúltipla",
+    "prefixo": "_75A93",
+    "secao_label": "Bloco condicional — Prestação de Serviços (perguntas 75–93)",
+    "ordem_secao": 7,
+    "subgrupos": [
+      "SemTítulo3"
+    ],
+    "numero_pergunta": "90",
+    "rotulo": "Como ÉFeita ARemuneração Ou Retirada Dosas Sóciosasresposta Múltipla",
+    "tipo_inferido": "multi_select",
+    "pii": false,
+    "valores_amostra": []
+  },
+  {
+    "coluna_bruta": "_75A93_SemTítulo3__91QualOValorDaMenorRetiradaremuneraçãoDosasSóciosasDoEmpreendimento",
+    "prefixo": "_75A93",
+    "secao_label": "Bloco condicional — Prestação de Serviços (perguntas 75–93)",
+    "ordem_secao": 7,
+    "subgrupos": [
+      "SemTítulo3"
+    ],
+    "numero_pergunta": "91",
+    "rotulo": "Qual OValor Da Menor Retiradaremuneração Dosas Sóciosas Do Empreendimento",
+    "tipo_inferido": "numeric_or_text",
+    "pii": false,
+    "valores_amostra": []
+  },
+  {
+    "coluna_bruta": "_75A93_SemTítulo3__92QualOValorDaMaiorRetiradaremuneraçãoDosasSóciosasDoEmpreendimento",
+    "prefixo": "_75A93",
+    "secao_label": "Bloco condicional — Prestação de Serviços (perguntas 75–93)",
+    "ordem_secao": 7,
+    "subgrupos": [
+      "SemTítulo3"
+    ],
+    "numero_pergunta": "92",
+    "rotulo": "Qual OValor Da Maior Retiradaremuneração Dosas Sóciosas Do Empreendimento",
+    "tipo_inferido": "numeric_or_text",
+    "pii": false,
+    "valores_amostra": []
+  },
+  {
+    "coluna_bruta": "_75A93__93QuaisSãoOsBenefíciosAsGarantiasEOsDireitosDosasSóciosasQueTrabalhamNoEmpreendimentorespostaMúltipla",
+    "prefixo": "_75A93",
+    "secao_label": "Bloco condicional — Prestação de Serviços (perguntas 75–93)",
+    "ordem_secao": 7,
+    "subgrupos": [],
+    "numero_pergunta": "93",
+    "rotulo": "Quais São Os Benefícios As Garantias EOs Direitos Dosas Sóciosas Que Trabalham No Empreendimentoresposta Múltipla",
+    "tipo_inferido": "multi_select",
+    "pii": false,
+    "valores_amostra": []
+  },
+  {
+    "coluna_bruta": "_94A110__94QualAFormaDeOrganizaçãorespostaÚnica",
+    "prefixo": "_94A110",
+    "secao_label": "Bloco condicional — Crédito/Finanças Solidárias (perguntas 94–110)",
+    "ordem_secao": 8,
+    "subgrupos": [],
+    "numero_pergunta": "94",
+    "rotulo": "Qual AForma De OrganizaçãorespostaÚnica",
+    "tipo_inferido": "single_select",
+    "pii": false,
+    "valores_amostra": []
+  },
+  {
+    "coluna_bruta": "_94A110__95QuantosTiposDeServiçosDeCréditoOuFinanceirosSãoFornecidos",
+    "prefixo": "_94A110",
+    "secao_label": "Bloco condicional — Crédito/Finanças Solidárias (perguntas 94–110)",
+    "ordem_secao": 8,
+    "subgrupos": [],
+    "numero_pergunta": "95",
+    "rotulo": "Quantos Tipos De Serviços De Crédito Ou Financeiros São Fornecidos",
+    "tipo_inferido": "integer",
+    "pii": false,
+    "valores_amostra": []
+  },
+  {
+    "coluna_bruta": "_94A110__97QualAOrigemDosRecursosOperadosPeloEmpreendimentorespostaMúltipla",
+    "prefixo": "_94A110",
+    "secao_label": "Bloco condicional — Crédito/Finanças Solidárias (perguntas 94–110)",
+    "ordem_secao": 8,
+    "subgrupos": [],
+    "numero_pergunta": "97",
+    "rotulo": "Qual AOrigem Dos Recursos Operados Pelo Empreendimentoresposta Múltipla",
+    "tipo_inferido": "multi_select",
+    "pii": false,
+    "valores_amostra": []
+  },
+  {
+    "coluna_bruta": "_94A110__98QualOVolumeDeRecursosQueCompõeOFundoDoEmpreendimento",
+    "prefixo": "_94A110",
+    "secao_label": "Bloco condicional — Crédito/Finanças Solidárias (perguntas 94–110)",
+    "ordem_secao": 8,
+    "subgrupos": [],
+    "numero_pergunta": "98",
+    "rotulo": "Qual OVolume De Recursos Que Compõe OFundo Do Empreendimento",
+    "tipo_inferido": "text",
+    "pii": false,
+    "valores_amostra": []
+  },
+  {
+    "coluna_bruta": "_94A110__99QualAQuantidadeDeRecursosContratadosOuRepassadosvalorMédioMensal",
+    "prefixo": "_94A110",
+    "secao_label": "Bloco condicional — Crédito/Finanças Solidárias (perguntas 94–110)",
+    "ordem_secao": 8,
+    "subgrupos": [],
+    "numero_pergunta": "99",
+    "rotulo": "Qual AQuantidade De Recursos Contratados Ou Repassadosvalor Médio Mensal",
+    "tipo_inferido": "numeric_or_text",
+    "pii": false,
+    "valores_amostra": []
+  },
+  {
+    "coluna_bruta": "_94A110__100ExisteAlgumaDefiniçãoQuantoAosLimitesMínimosEouMáximosParaOEmpréstimorepasseDeRecursos",
+    "prefixo": "_94A110",
+    "secao_label": "Bloco condicional — Crédito/Finanças Solidárias (perguntas 94–110)",
+    "ordem_secao": 8,
+    "subgrupos": [],
+    "numero_pergunta": "100",
+    "rotulo": "Existe Alguma Definição Quanto Aos Limites Mínimos Eou Máximos Para OEmpréstimorepasse De Recursos",
+    "tipo_inferido": "text",
+    "pii": false,
+    "valores_amostra": []
+  },
+  {
+    "coluna_bruta": "_94A110_SemTítulo2__101QualOValorMínimolimiteMínimo",
+    "prefixo": "_94A110",
+    "secao_label": "Bloco condicional — Crédito/Finanças Solidárias (perguntas 94–110)",
+    "ordem_secao": 8,
+    "subgrupos": [
+      "SemTítulo2"
+    ],
+    "numero_pergunta": "101",
+    "rotulo": "Qual OValor Mínimolimite Mínimo",
+    "tipo_inferido": "numeric_or_text",
+    "pii": false,
+    "valores_amostra": []
+  },
+  {
+    "coluna_bruta": "_94A110_SemTítulo2__102QualOValorMáximoteto",
+    "prefixo": "_94A110",
+    "secao_label": "Bloco condicional — Crédito/Finanças Solidárias (perguntas 94–110)",
+    "ordem_secao": 8,
+    "subgrupos": [
+      "SemTítulo2"
+    ],
+    "numero_pergunta": "102",
+    "rotulo": "Qual OValor Máximoteto",
+    "tipo_inferido": "numeric_or_text",
+    "pii": false,
+    "valores_amostra": []
+  },
+  {
+    "coluna_bruta": "_94A110__103OsRecursosRepassadosemprestadosSãoDevolvidosDeManeirarespostaMúltipla",
+    "prefixo": "_94A110",
+    "secao_label": "Bloco condicional — Crédito/Finanças Solidárias (perguntas 94–110)",
+    "ordem_secao": 8,
+    "subgrupos": [],
+    "numero_pergunta": "103",
+    "rotulo": "Os Recursos Repassadosemprestados São Devolvidos De Maneiraresposta Múltipla",
+    "tipo_inferido": "multi_select",
+    "pii": false,
+    "valores_amostra": []
+  },
+  {
+    "coluna_bruta": "_94A110_SemTítulo3__104ADevoluçãopagamentoDosEmpréstimosrepassesUtilizadosPeloEmpreendimentoOcorreSobFormaDerespostaMúltipla",
+    "prefixo": "_94A110",
+    "secao_label": "Bloco condicional — Crédito/Finanças Solidárias (perguntas 94–110)",
+    "ordem_secao": 8,
+    "subgrupos": [
+      "SemTítulo3"
+    ],
+    "numero_pergunta": "104",
+    "rotulo": "ADevoluçãopagamento Dos Empréstimosrepasses Utilizados Pelo Empreendimento Ocorre Sob Forma Deresposta Múltipla",
+    "tipo_inferido": "multi_select",
+    "pii": false,
+    "valores_amostra": []
+  },
+  {
+    "coluna_bruta": "_94A110_SemTítulo3__105QualONívelDeInadimplênciaDosContratosoperaçõesEfetuados",
+    "prefixo": "_94A110",
+    "secao_label": "Bloco condicional — Crédito/Finanças Solidárias (perguntas 94–110)",
+    "ordem_secao": 8,
+    "subgrupos": [
+      "SemTítulo3"
+    ],
+    "numero_pergunta": "105",
+    "rotulo": "Qual ONível De Inadimplência Dos Contratosoperações Efetuados",
+    "tipo_inferido": "text",
+    "pii": false,
+    "valores_amostra": []
+  },
+  {
+    "coluna_bruta": "_94A110__106QuaisSãoAsModalidadesDeGarantiaUtilizadasrespostaMúltipla",
+    "prefixo": "_94A110",
+    "secao_label": "Bloco condicional — Crédito/Finanças Solidárias (perguntas 94–110)",
+    "ordem_secao": 8,
+    "subgrupos": [],
+    "numero_pergunta": "106",
+    "rotulo": "Quais São As Modalidades De Garantia Utilizadasresposta Múltipla",
+    "tipo_inferido": "multi_select",
+    "pii": false,
+    "valores_amostra": []
+  },
+  {
+    "coluna_bruta": "_94A110__107ExistemSóciosasQueTrabalhamNoEmpreendimento",
+    "prefixo": "_94A110",
+    "secao_label": "Bloco condicional — Crédito/Finanças Solidárias (perguntas 94–110)",
+    "ordem_secao": 8,
+    "subgrupos": [],
+    "numero_pergunta": "107",
+    "rotulo": "Existem Sóciosas Que Trabalham No Empreendimento",
+    "tipo_inferido": "text",
+    "pii": false,
+    "valores_amostra": []
+  },
+  {
+    "coluna_bruta": "_94A110_SemTítulo4_Mulheresquantas",
+    "prefixo": "_94A110",
+    "secao_label": "Bloco condicional — Crédito/Finanças Solidárias (perguntas 94–110)",
+    "ordem_secao": 8,
+    "subgrupos": [
+      "SemTítulo4"
+    ],
+    "numero_pergunta": null,
+    "rotulo": "Mulheresquantas",
+    "tipo_inferido": "integer",
+    "pii": false,
+    "valores_amostra": []
+  },
+  {
+    "coluna_bruta": "_94A110_SemTítulo4_Homensquantos",
+    "prefixo": "_94A110",
+    "secao_label": "Bloco condicional — Crédito/Finanças Solidárias (perguntas 94–110)",
+    "ordem_secao": 8,
+    "subgrupos": [
+      "SemTítulo4"
+    ],
+    "numero_pergunta": null,
+    "rotulo": "Homensquantos",
+    "tipo_inferido": "integer",
+    "pii": false,
+    "valores_amostra": []
+  },
+  {
+    "coluna_bruta": "_94A110_SemTítulo4_Totalquantos",
+    "prefixo": "_94A110",
+    "secao_label": "Bloco condicional — Crédito/Finanças Solidárias (perguntas 94–110)",
+    "ordem_secao": 8,
+    "subgrupos": [
+      "SemTítulo4"
+    ],
+    "numero_pergunta": null,
+    "rotulo": "Totalquantos",
+    "tipo_inferido": "integer",
+    "pii": false,
+    "valores_amostra": []
+  },
+  {
+    "coluna_bruta": "_94A110_SemTítulo4__109aRemuneraçãoFixaQualOValorMédioMensal",
+    "prefixo": "_94A110",
+    "secao_label": "Bloco condicional — Crédito/Finanças Solidárias (perguntas 94–110)",
+    "ordem_secao": 8,
+    "subgrupos": [
+      "SemTítulo4"
+    ],
+    "numero_pergunta": "109a",
+    "rotulo": "Remuneração Fixa Qual OValor Médio Mensal",
+    "tipo_inferido": "numeric_or_text",
+    "pii": false,
+    "valores_amostra": []
+  },
+  {
+    "coluna_bruta": "_94A110_SemTítulo4__109bComissãoSobreOValorDasOperaçõesQualOPercentual",
+    "prefixo": "_94A110",
+    "secao_label": "Bloco condicional — Crédito/Finanças Solidárias (perguntas 94–110)",
+    "ordem_secao": 8,
+    "subgrupos": [
+      "SemTítulo4"
+    ],
+    "numero_pergunta": "109b",
+    "rotulo": "Comissão Sobre OValor Das Operações Qual OPercentual",
+    "tipo_inferido": "numeric_or_text",
+    "pii": false,
+    "valores_amostra": []
+  },
+  {
+    "coluna_bruta": "_94A110_SemTítulo4__109cRemuneraçãoPorHorasTrabalhadasQualOValorMédioPorHora",
+    "prefixo": "_94A110",
+    "secao_label": "Bloco condicional — Crédito/Finanças Solidárias (perguntas 94–110)",
+    "ordem_secao": 8,
+    "subgrupos": [
+      "SemTítulo4"
+    ],
+    "numero_pergunta": "109c",
+    "rotulo": "Remuneração Por Horas Trabalhadas Qual OValor Médio Por Hora",
+    "tipo_inferido": "numeric_or_text",
+    "pii": false,
+    "valores_amostra": []
+  },
+  {
+    "coluna_bruta": "_94A110_SemTítulo4__109d",
+    "prefixo": "_94A110",
+    "secao_label": "Bloco condicional — Crédito/Finanças Solidárias (perguntas 94–110)",
+    "ordem_secao": 8,
+    "subgrupos": [
+      "SemTítulo4"
+    ],
+    "numero_pergunta": "109d",
+    "rotulo": "_94 A110_Sem Título4__109d",
+    "tipo_inferido": "text",
+    "pii": false,
+    "valores_amostra": []
+  },
+  {
+    "coluna_bruta": "_94A110_SemTítulo4__110QuaisSãoOsBenefíciosAsGarantiasEOsDireitosDosasSóciosasQueTrabalhamNoEmpreendimentorespostaMúltipla",
+    "prefixo": "_94A110",
+    "secao_label": "Bloco condicional — Crédito/Finanças Solidárias (perguntas 94–110)",
+    "ordem_secao": 8,
+    "subgrupos": [
+      "SemTítulo4"
+    ],
+    "numero_pergunta": "110",
+    "rotulo": "Quais São Os Benefícios As Garantias EOs Direitos Dosas Sóciosas Que Trabalham No Empreendimentoresposta Múltipla",
+    "tipo_inferido": "multi_select",
+    "pii": false,
+    "valores_amostra": []
+  },
+  {
+    "coluna_bruta": "_111A121__111QualÉOTipoDoEmpreendimentorespostaÚnica",
+    "prefixo": "_111A121",
+    "secao_label": "Bloco condicional — Consumo (perguntas 111–121)",
+    "ordem_secao": 9,
+    "subgrupos": [],
+    "numero_pergunta": "111",
+    "rotulo": "Qual ÉOTipo Do EmpreendimentorespostaÚnica",
+    "tipo_inferido": "single_select",
+    "pii": false,
+    "valores_amostra": [
+      "Organização para utilização coletiva de infraestrutura, terra, equipamento"
+    ]
+  },
+  {
+    "coluna_bruta": "_111A121__112QualAQuantidadeDeBensEouServiçosConsumidosPrestadosEouUtilizadosColetivamenteNoEmpreendimento",
+    "prefixo": "_111A121",
+    "secao_label": "Bloco condicional — Consumo (perguntas 111–121)",
+    "ordem_secao": 9,
+    "subgrupos": [],
+    "numero_pergunta": "112",
+    "rotulo": "Qual AQuantidade De Bens Eou Serviços Consumidos Prestados Eou Utilizados Coletivamente No Empreendimento",
+    "tipo_inferido": "numeric",
+    "pii": false,
+    "valores_amostra": [
+      "0.0"
+    ]
+  },
+  {
+    "coluna_bruta": "_111A121__114QualAFormaDePagamentoPeloConsumoOuUsoDosBensEouServiçosrespostaMúltipla",
+    "prefixo": "_111A121",
+    "secao_label": "Bloco condicional — Consumo (perguntas 111–121)",
+    "ordem_secao": 9,
+    "subgrupos": [],
+    "numero_pergunta": "114",
+    "rotulo": "Qual AForma De Pagamento Pelo Consumo Ou Uso Dos Bens Eou Serviçosresposta Múltipla",
+    "tipo_inferido": "multi_select",
+    "pii": false,
+    "valores_amostra": [
+      "Não há remuneração"
+    ]
+  },
+  {
+    "coluna_bruta": "_111A121__115QualAReceitaMensalObtidaPeloEmpreendimentovalorMédioMensal",
+    "prefixo": "_111A121",
+    "secao_label": "Bloco condicional — Consumo (perguntas 111–121)",
+    "ordem_secao": 9,
+    "subgrupos": [],
+    "numero_pergunta": "115",
+    "rotulo": "Qual AReceita Mensal Obtida Pelo Empreendimentovalor Médio Mensal",
+    "tipo_inferido": "numeric_or_text",
+    "pii": false,
+    "valores_amostra": [
+      "0.0",
+      "1000.0"
+    ]
+  },
+  {
+    "coluna_bruta": "_111A121__116QuantoOEmpreendimentoGastaMensalmenteComAAquisiçãoEouManutençãoDosBensEouServiçosvalorMédioMensal",
+    "prefixo": "_111A121",
+    "secao_label": "Bloco condicional — Consumo (perguntas 111–121)",
+    "ordem_secao": 9,
+    "subgrupos": [],
+    "numero_pergunta": "116",
+    "rotulo": "Quanto OEmpreendimento Gasta Mensalmente Com AAquisição Eou Manutenção Dos Bens Eou Serviçosvalor Médio Mensal",
+    "tipo_inferido": "numeric_or_text",
+    "pii": false,
+    "valores_amostra": [
+      "0.0"
+    ]
+  },
+  {
+    "coluna_bruta": "_111A121__117QualAOrigemDosBensProdutosOuServiçosrespostaMúltipla",
+    "prefixo": "_111A121",
+    "secao_label": "Bloco condicional — Consumo (perguntas 111–121)",
+    "ordem_secao": 9,
+    "subgrupos": [],
+    "numero_pergunta": "117",
+    "rotulo": "Qual AOrigem Dos Bens Produtos Ou Serviçosresposta Múltipla",
+    "tipo_inferido": "multi_select",
+    "pii": false,
+    "valores_amostra": [
+      "Próprios associados (as)"
+    ]
+  },
+  {
+    "coluna_bruta": "_111A121__118ExistemSóciosasResponsáveisPelasAtividadesqueTrabalhamNoEmpreendimento",
+    "prefixo": "_111A121",
+    "secao_label": "Bloco condicional — Consumo (perguntas 111–121)",
+    "ordem_secao": 9,
+    "subgrupos": [],
+    "numero_pergunta": "118",
+    "rotulo": "Existem Sóciosas Responsáveis Pelas Atividadesque Trabalham No Empreendimento",
+    "tipo_inferido": "boolean",
+    "pii": false,
+    "valores_amostra": [
+      "Não"
+    ]
+  },
+  {
+    "coluna_bruta": "_111A121_SemTítulo3__119aMulheresquantas",
+    "prefixo": "_111A121",
+    "secao_label": "Bloco condicional — Consumo (perguntas 111–121)",
+    "ordem_secao": 9,
+    "subgrupos": [
+      "SemTítulo3"
+    ],
+    "numero_pergunta": "119a",
+    "rotulo": "Mulheresquantas",
+    "tipo_inferido": "integer",
+    "pii": false,
+    "valores_amostra": []
+  },
+  {
+    "coluna_bruta": "_111A121_SemTítulo3__119bHomensquantos",
+    "prefixo": "_111A121",
+    "secao_label": "Bloco condicional — Consumo (perguntas 111–121)",
+    "ordem_secao": 9,
+    "subgrupos": [
+      "SemTítulo3"
+    ],
+    "numero_pergunta": "119b",
+    "rotulo": "Homensquantos",
+    "tipo_inferido": "integer",
+    "pii": false,
+    "valores_amostra": []
+  },
+  {
+    "coluna_bruta": "_111A121_SemTítulo3__119cTotalquantos",
+    "prefixo": "_111A121",
+    "secao_label": "Bloco condicional — Consumo (perguntas 111–121)",
+    "ordem_secao": 9,
+    "subgrupos": [
+      "SemTítulo3"
+    ],
+    "numero_pergunta": "119c",
+    "rotulo": "Totalquantos",
+    "tipo_inferido": "integer",
+    "pii": false,
+    "valores_amostra": []
+  },
+  {
+    "coluna_bruta": "_111A121_SemTítulo3__120aRemuneraçãoFixaQualOValorMédioMensal",
+    "prefixo": "_111A121",
+    "secao_label": "Bloco condicional — Consumo (perguntas 111–121)",
+    "ordem_secao": 9,
+    "subgrupos": [
+      "SemTítulo3"
+    ],
+    "numero_pergunta": "120a",
+    "rotulo": "Remuneração Fixa Qual OValor Médio Mensal",
+    "tipo_inferido": "numeric_or_text",
+    "pii": false,
+    "valores_amostra": []
+  },
+  {
+    "coluna_bruta": "_111A121_SemTítulo3__120bComissãoSobreValorDasVendascomissãoQualOPercentual",
+    "prefixo": "_111A121",
+    "secao_label": "Bloco condicional — Consumo (perguntas 111–121)",
+    "ordem_secao": 9,
+    "subgrupos": [
+      "SemTítulo3"
+    ],
+    "numero_pergunta": "120b",
+    "rotulo": "Comissão Sobre Valor Das Vendascomissão Qual OPercentual",
+    "tipo_inferido": "numeric_or_text",
+    "pii": false,
+    "valores_amostra": []
+  },
+  {
+    "coluna_bruta": "_111A121_SemTítulo3__120c",
+    "prefixo": "_111A121",
+    "secao_label": "Bloco condicional — Consumo (perguntas 111–121)",
+    "ordem_secao": 9,
+    "subgrupos": [
+      "SemTítulo3"
+    ],
+    "numero_pergunta": "120c",
+    "rotulo": "_111 A121_Sem Título3__120c",
+    "tipo_inferido": "text",
+    "pii": false,
+    "valores_amostra": []
+  },
+  {
+    "coluna_bruta": "_111A121_SemTítulo3__121QuaisDestesBenefíciosGarantiasEDireitosParaSóciosasQueTrabalhamNoEmpreendimentorespostaMúltipla",
+    "prefixo": "_111A121",
+    "secao_label": "Bloco condicional — Consumo (perguntas 111–121)",
+    "ordem_secao": 9,
+    "subgrupos": [
+      "SemTítulo3"
+    ],
+    "numero_pergunta": "121",
+    "rotulo": "Quais Destes Benefícios Garantias EDireitos Para Sóciosas Que Trabalham No Empreendimentoresposta Múltipla",
+    "tipo_inferido": "multi_select",
+    "pii": false,
+    "valores_amostra": []
+  },
+  {
+    "coluna_bruta": "SeçãoVSITUAÇÃODOTRABALHODOSASNÃOSÓCIOSAS__122OEmpreendimentoContrataTrabalhadoresasNãosóciosas",
+    "prefixo": "SeçãoVSITUAÇÃODOTRABALHODOSASNÃOSÓCIOSAS",
+    "secao_label": "Seção V — Situação do Trabalho dos/as Não-Sócios/as",
+    "ordem_secao": 10,
+    "subgrupos": [],
+    "numero_pergunta": "122",
+    "rotulo": "OEmpreendimento Contrata Trabalhadoresas Nãosóciosas",
+    "tipo_inferido": "boolean",
+    "pii": false,
+    "valores_amostra": [
+      "Não",
+      "Sim"
+    ]
+  },
+  {
+    "coluna_bruta": "SeçãoVSITUAÇÃODOTRABALHODOSASNÃOSÓCIOSAS_SemTítulo2__123aMulheresquantas",
+    "prefixo": "SeçãoVSITUAÇÃODOTRABALHODOSASNÃOSÓCIOSAS",
+    "secao_label": "Seção V — Situação do Trabalho dos/as Não-Sócios/as",
+    "ordem_secao": 10,
+    "subgrupos": [
+      "SemTítulo2"
+    ],
+    "numero_pergunta": "123a",
+    "rotulo": "Mulheresquantas",
+    "tipo_inferido": "integer",
+    "pii": false,
+    "valores_amostra": [
+      "6.0",
+      "2.0",
+      "1.0"
+    ]
+  },
+  {
+    "coluna_bruta": "SeçãoVSITUAÇÃODOTRABALHODOSASNÃOSÓCIOSAS_SemTítulo2__123bHomensquantos",
+    "prefixo": "SeçãoVSITUAÇÃODOTRABALHODOSASNÃOSÓCIOSAS",
+    "secao_label": "Seção V — Situação do Trabalho dos/as Não-Sócios/as",
+    "ordem_secao": 10,
+    "subgrupos": [
+      "SemTítulo2"
+    ],
+    "numero_pergunta": "123b",
+    "rotulo": "Homensquantos",
+    "tipo_inferido": "integer",
+    "pii": false,
+    "valores_amostra": [
+      "2.0",
+      "0.0",
+      "1.0"
+    ]
+  },
+  {
+    "coluna_bruta": "SeçãoVSITUAÇÃODOTRABALHODOSASNÃOSÓCIOSAS_SemTítulo2__123cTotalquantos",
+    "prefixo": "SeçãoVSITUAÇÃODOTRABALHODOSASNÃOSÓCIOSAS",
+    "secao_label": "Seção V — Situação do Trabalho dos/as Não-Sócios/as",
+    "ordem_secao": 10,
+    "subgrupos": [
+      "SemTítulo2"
+    ],
+    "numero_pergunta": "123c",
+    "rotulo": "Totalquantos",
+    "tipo_inferido": "integer",
+    "pii": false,
+    "valores_amostra": [
+      "8.0",
+      "2.0"
+    ]
+  },
+  {
+    "coluna_bruta": "SeçãoVSITUAÇÃODOTRABALHODOSASNÃOSÓCIOSAS_SemTítulo2__124QualAFormaDeContrataçãoDosasTrabalhadoresasNãosóciosasrespostaMúltipla",
+    "prefixo": "SeçãoVSITUAÇÃODOTRABALHODOSASNÃOSÓCIOSAS",
+    "secao_label": "Seção V — Situação do Trabalho dos/as Não-Sócios/as",
+    "ordem_secao": 10,
+    "subgrupos": [
+      "SemTítulo2"
+    ],
+    "numero_pergunta": "124",
+    "rotulo": "Qual AForma De Contratação Dosas Trabalhadoresas Nãosóciosasresposta Múltipla",
+    "tipo_inferido": "multi_select",
+    "pii": false,
+    "valores_amostra": [
+      "Permanente"
+    ]
+  },
+  {
+    "coluna_bruta": "SeçãoVSITUAÇÃODOTRABALHODOSASNÃOSÓCIOSAS_SemTítulo2_SemTítulo__126a",
+    "prefixo": "SeçãoVSITUAÇÃODOTRABALHODOSASNÃOSÓCIOSAS",
+    "secao_label": "Seção V — Situação do Trabalho dos/as Não-Sócios/as",
+    "ordem_secao": 10,
+    "subgrupos": [
+      "SemTítulo2",
+      "SemTítulo"
+    ],
+    "numero_pergunta": "126a",
+    "rotulo": "Seção VSITUAÇÃODOTRABALHODOSASNÃOSÓCIOSAS_Sem Título2_Sem Título__126a",
+    "tipo_inferido": "text",
+    "pii": false,
+    "valores_amostra": []
+  },
+  {
+    "coluna_bruta": "SeçãoVSITUAÇÃODOTRABALHODOSASNÃOSÓCIOSAS_SemTítulo2_SemTítulo__126b",
+    "prefixo": "SeçãoVSITUAÇÃODOTRABALHODOSASNÃOSÓCIOSAS",
+    "secao_label": "Seção V — Situação do Trabalho dos/as Não-Sócios/as",
+    "ordem_secao": 10,
+    "subgrupos": [
+      "SemTítulo2",
+      "SemTítulo"
+    ],
+    "numero_pergunta": "126b",
+    "rotulo": "Seção VSITUAÇÃODOTRABALHODOSASNÃOSÓCIOSAS_Sem Título2_Sem Título__126b",
+    "tipo_inferido": "text",
+    "pii": false,
+    "valores_amostra": []
+  },
+  {
+    "coluna_bruta": "SeçãoVSITUAÇÃODOTRABALHODOSASNÃOSÓCIOSAS_SemTítulo2_SemTítulo__126c",
+    "prefixo": "SeçãoVSITUAÇÃODOTRABALHODOSASNÃOSÓCIOSAS",
+    "secao_label": "Seção V — Situação do Trabalho dos/as Não-Sócios/as",
+    "ordem_secao": 10,
+    "subgrupos": [
+      "SemTítulo2",
+      "SemTítulo"
+    ],
+    "numero_pergunta": "126c",
+    "rotulo": "Seção VSITUAÇÃODOTRABALHODOSASNÃOSÓCIOSAS_Sem Título2_Sem Título__126c",
+    "tipo_inferido": "multi_select",
+    "pii": false,
+    "valores_amostra": [
+      "R$ 2.500,00",
+      "R$ 3.000,00"
+    ]
+  },
+  {
+    "coluna_bruta": "SeçãoVSITUAÇÃODOTRABALHODOSASNÃOSÓCIOSAS_SemTítulo2_SemTítulo__126d",
+    "prefixo": "SeçãoVSITUAÇÃODOTRABALHODOSASNÃOSÓCIOSAS",
+    "secao_label": "Seção V — Situação do Trabalho dos/as Não-Sócios/as",
+    "ordem_secao": 10,
+    "subgrupos": [
+      "SemTítulo2",
+      "SemTítulo"
+    ],
+    "numero_pergunta": "126d",
+    "rotulo": "Seção VSITUAÇÃODOTRABALHODOSASNÃOSÓCIOSAS_Sem Título2_Sem Título__126d",
+    "tipo_inferido": "text",
+    "pii": false,
+    "valores_amostra": [
+      "Mensal"
+    ]
+  },
+  {
+    "coluna_bruta": "SeçãoVSITUAÇÃODOTRABALHODOSASNÃOSÓCIOSAS_SemTítulo2_SemTítulo__126f",
+    "prefixo": "SeçãoVSITUAÇÃODOTRABALHODOSASNÃOSÓCIOSAS",
+    "secao_label": "Seção V — Situação do Trabalho dos/as Não-Sócios/as",
+    "ordem_secao": 10,
+    "subgrupos": [
+      "SemTítulo2",
+      "SemTítulo"
+    ],
+    "numero_pergunta": "126f",
+    "rotulo": "Seção VSITUAÇÃODOTRABALHODOSASNÃOSÓCIOSAS_Sem Título2_Sem Título__126f",
+    "tipo_inferido": "text",
+    "pii": false,
+    "valores_amostra": []
+  },
+  {
+    "coluna_bruta": "SeçãoVSITUAÇÃODOTRABALHODOSASNÃOSÓCIOSAS_SemTítulo2_SemTítulo__126g",
+    "prefixo": "SeçãoVSITUAÇÃODOTRABALHODOSASNÃOSÓCIOSAS",
+    "secao_label": "Seção V — Situação do Trabalho dos/as Não-Sócios/as",
+    "ordem_secao": 10,
+    "subgrupos": [
+      "SemTítulo2",
+      "SemTítulo"
+    ],
+    "numero_pergunta": "126g",
+    "rotulo": "Seção VSITUAÇÃODOTRABALHODOSASNÃOSÓCIOSAS_Sem Título2_Sem Título__126g",
+    "tipo_inferido": "text",
+    "pii": false,
+    "valores_amostra": []
+  },
+  {
+    "coluna_bruta": "SeçãoVSITUAÇÃODOTRABALHODOSASNÃOSÓCIOSAS_SemTítulo2_SemTítulo__126h",
+    "prefixo": "SeçãoVSITUAÇÃODOTRABALHODOSASNÃOSÓCIOSAS",
+    "secao_label": "Seção V — Situação do Trabalho dos/as Não-Sócios/as",
+    "ordem_secao": 10,
+    "subgrupos": [
+      "SemTítulo2",
+      "SemTítulo"
+    ],
+    "numero_pergunta": "126h",
+    "rotulo": "Seção VSITUAÇÃODOTRABALHODOSASNÃOSÓCIOSAS_Sem Título2_Sem Título__126h",
+    "tipo_inferido": "text",
+    "pii": false,
+    "valores_amostra": []
+  },
+  {
+    "coluna_bruta": "SeçãoVSITUAÇÃODOTRABALHODOSASNÃOSÓCIOSAS_SemTítulo2_SemTítulo__126i",
+    "prefixo": "SeçãoVSITUAÇÃODOTRABALHODOSASNÃOSÓCIOSAS",
+    "secao_label": "Seção V — Situação do Trabalho dos/as Não-Sócios/as",
+    "ordem_secao": 10,
+    "subgrupos": [
+      "SemTítulo2",
+      "SemTítulo"
+    ],
+    "numero_pergunta": "126i",
+    "rotulo": "Seção VSITUAÇÃODOTRABALHODOSASNÃOSÓCIOSAS_Sem Título2_Sem Título__126i",
+    "tipo_inferido": "text",
+    "pii": false,
+    "valores_amostra": []
+  },
+  {
+    "coluna_bruta": "SeçãoVSITUAÇÃODOTRABALHODOSASNÃOSÓCIOSAS_SemTítulo2_SemTítulo__126j",
+    "prefixo": "SeçãoVSITUAÇÃODOTRABALHODOSASNÃOSÓCIOSAS",
+    "secao_label": "Seção V — Situação do Trabalho dos/as Não-Sócios/as",
+    "ordem_secao": 10,
+    "subgrupos": [
+      "SemTítulo2",
+      "SemTítulo"
+    ],
+    "numero_pergunta": "126j",
+    "rotulo": "Seção VSITUAÇÃODOTRABALHODOSASNÃOSÓCIOSAS_Sem Título2_Sem Título__126j",
+    "tipo_inferido": "text",
+    "pii": false,
+    "valores_amostra": []
+  },
+  {
+    "coluna_bruta": "SeçãoVSITUAÇÃODOTRABALHODOSASNÃOSÓCIOSAS_SemTítulo2_SemTítulo__126k",
+    "prefixo": "SeçãoVSITUAÇÃODOTRABALHODOSASNÃOSÓCIOSAS",
+    "secao_label": "Seção V — Situação do Trabalho dos/as Não-Sócios/as",
+    "ordem_secao": 10,
+    "subgrupos": [
+      "SemTítulo2",
+      "SemTítulo"
+    ],
+    "numero_pergunta": "126k",
+    "rotulo": "Seção VSITUAÇÃODOTRABALHODOSASNÃOSÓCIOSAS_Sem Título2_Sem Título__126k",
+    "tipo_inferido": "text",
+    "pii": false,
+    "valores_amostra": []
+  },
+  {
+    "coluna_bruta": "SeçãoVSITUAÇÃODOTRABALHODOSASNÃOSÓCIOSAS_SemTítulo2_SemTítulo__126l",
+    "prefixo": "SeçãoVSITUAÇÃODOTRABALHODOSASNÃOSÓCIOSAS",
+    "secao_label": "Seção V — Situação do Trabalho dos/as Não-Sócios/as",
+    "ordem_secao": 10,
+    "subgrupos": [
+      "SemTítulo2",
+      "SemTítulo"
+    ],
+    "numero_pergunta": "126l",
+    "rotulo": "Seção VSITUAÇÃODOTRABALHODOSASNÃOSÓCIOSAS_Sem Título2_Sem Título__126l",
+    "tipo_inferido": "text",
+    "pii": false,
+    "valores_amostra": []
+  },
+  {
+    "coluna_bruta": "SeçãoVSITUAÇÃODOTRABALHODOSASNÃOSÓCIOSAS_SemTítulo2_SemTítulo__126m",
+    "prefixo": "SeçãoVSITUAÇÃODOTRABALHODOSASNÃOSÓCIOSAS",
+    "secao_label": "Seção V — Situação do Trabalho dos/as Não-Sócios/as",
+    "ordem_secao": 10,
+    "subgrupos": [
+      "SemTítulo2",
+      "SemTítulo"
+    ],
+    "numero_pergunta": "126m",
+    "rotulo": "Seção VSITUAÇÃODOTRABALHODOSASNÃOSÓCIOSAS_Sem Título2_Sem Título__126m",
+    "tipo_inferido": "text",
+    "pii": false,
+    "valores_amostra": []
+  },
+  {
+    "coluna_bruta": "SeçãoVSITUAÇÃODOTRABALHODOSASNÃOSÓCIOSAS_SemTítulo2__127QuantoOEmpreendimentoGastaEmMédiaMensalmenteComOPagamentoDeTrabalhadoresasNãosóciosasvalorMédioMensal",
+    "prefixo": "SeçãoVSITUAÇÃODOTRABALHODOSASNÃOSÓCIOSAS",
+    "secao_label": "Seção V — Situação do Trabalho dos/as Não-Sócios/as",
+    "ordem_secao": 10,
+    "subgrupos": [
+      "SemTítulo2"
+    ],
+    "numero_pergunta": "127",
+    "rotulo": "Quanto OEmpreendimento Gasta Em Média Mensalmente Com OPagamento De Trabalhadoresas Nãosóciosasvalor Médio Mensal",
+    "tipo_inferido": "numeric_or_text",
+    "pii": false,
+    "valores_amostra": [
+      "50000.0",
+      "9000.0",
+      "6000.0"
+    ]
+  },
+  {
+    "coluna_bruta": "SeçãoVIINVESTIMENTOSACESSOACRÉDITOEAPOIOS__128QualAOrigemDosRecursosParaIniciarAsAtividadesDoEmpreendimentorespostaMúltipla",
+    "prefixo": "SeçãoVIINVESTIMENTOSACESSOACRÉDITOEAPOIOS",
+    "secao_label": "Seção VI — Investimentos, Acesso a Crédito e Apoios",
+    "ordem_secao": 11,
+    "subgrupos": [],
+    "numero_pergunta": "128",
+    "rotulo": "Qual AOrigem Dos Recursos Para Iniciar As Atividades Do Empreendimentoresposta Múltipla",
+    "tipo_inferido": "multi_select",
+    "pii": false,
+    "valores_amostra": [
+      "Recursos públicos não-reembolsáveis (fundo perdido), Doações de pessoas físicas ou empresas",
+      "Não se aplica (não houve necessidade de recursos)",
+      "Dos (as) próprios (as) sócios (as) - capitalização ou cotas",
+      "Dos (as) próprios (as) sócios (as) - capitalização ou cotas, Recursos públicos não-reembolsáveis (fundo perdido)",
+      "Empréstimo (s) e/ou financiamento (s)",
+      "Dos (as) próprios (as) sócios (as) - capitalização ou cotas, Empréstimo (s) e/ou financiamento (s)",
+      "Doação (ões) de organismos internacionais ou organizações não-governamentais",
+      "Dos (as) próprios (as) sócios (as) - capitalização ou cotas, Doações de pessoas físicas ou empresas"
+    ]
+  },
+  {
+    "coluna_bruta": "SeçãoVIINVESTIMENTOSACESSOACRÉDITOEAPOIOS__129ForamRealizadosInvestimentosNoEmpreendimentoNosÚltimos12Meses",
+    "prefixo": "SeçãoVIINVESTIMENTOSACESSOACRÉDITOEAPOIOS",
+    "secao_label": "Seção VI — Investimentos, Acesso a Crédito e Apoios",
+    "ordem_secao": 11,
+    "subgrupos": [],
+    "numero_pergunta": "129",
+    "rotulo": "Foram Realizados Investimentos No Empreendimento NosÚltimos12 Meses",
+    "tipo_inferido": "boolean",
+    "pii": false,
+    "valores_amostra": [
+      "Não",
+      "Sim"
+    ]
+  },
+  {
+    "coluna_bruta": "SeçãoVIINVESTIMENTOSACESSOACRÉDITOEAPOIOS_SemTítulo__130QualOTipoDeInvestimentoRealizadorespostaMúltipla",
+    "prefixo": "SeçãoVIINVESTIMENTOSACESSOACRÉDITOEAPOIOS",
+    "secao_label": "Seção VI — Investimentos, Acesso a Crédito e Apoios",
+    "ordem_secao": 11,
+    "subgrupos": [
+      "SemTítulo"
+    ],
+    "numero_pergunta": "130",
+    "rotulo": "Qual OTipo De Investimento Realizadoresposta Múltipla",
+    "tipo_inferido": "multi_select",
+    "pii": false,
+    "valores_amostra": [
+      "\"Infraestrutura física (prédios, construções etc.)\"",
+      "\"Infraestrutura física (prédios, construções etc.)\", \"Equipamentos (aquisição, renovação)\", Ampliação de estoque de matérias-primas, Abertura de lojas/espaços de comercialização",
+      "\"Infraestrutura física (prédios, construções etc.)\", \"Equipamentos (aquisição, renovação)\", Comunicação / divulgação",
+      "\"Equipamentos (aquisição, renovação)\"",
+      "\"Equipamentos (aquisição, renovação)\", Comunicação / divulgação",
+      "\"Equipamentos (aquisição, renovação)\", Capacitação de mão-de-obra, Comunicação / divulgação",
+      "\"Equipamentos (aquisição, renovação)\", Capacitação de mão-de-obra",
+      "\"Infraestrutura física (prédios, construções etc.)\", \"Equipamentos (aquisição, renovação)\""
+    ]
+  },
+  {
+    "coluna_bruta": "SeçãoVIINVESTIMENTOSACESSOACRÉDITOEAPOIOS_SemTítulo__131QualOValorDoInvestimentoRealizado",
+    "prefixo": "SeçãoVIINVESTIMENTOSACESSOACRÉDITOEAPOIOS",
+    "secao_label": "Seção VI — Investimentos, Acesso a Crédito e Apoios",
+    "ordem_secao": 11,
+    "subgrupos": [
+      "SemTítulo"
+    ],
+    "numero_pergunta": "131",
+    "rotulo": "Qual OValor Do Investimento Realizado",
+    "tipo_inferido": "numeric_or_text",
+    "pii": false,
+    "valores_amostra": [
+      "10000.0",
+      "1700000.0",
+      "300000.0",
+      "3000.0",
+      "2000.0",
+      "12000.0",
+      "170000.0"
+    ]
+  },
+  {
+    "coluna_bruta": "SeçãoVIINVESTIMENTOSACESSOACRÉDITOEAPOIOS__132QuantoÀBuscaDeCréditoOuFinanciamentoNosÚltimos12MesesOEmpreendimentorespostaÚnica",
+    "prefixo": "SeçãoVIINVESTIMENTOSACESSOACRÉDITOEAPOIOS",
+    "secao_label": "Seção VI — Investimentos, Acesso a Crédito e Apoios",
+    "ordem_secao": 11,
+    "subgrupos": [],
+    "numero_pergunta": "132",
+    "rotulo": "Quanto ÀBusca De Crédito Ou Financiamento NosÚltimos12 Meses OEmpreendimentorespostaÚnica",
+    "tipo_inferido": "single_select",
+    "pii": false,
+    "valores_amostra": [
+      "Não buscou crédito ou financiamento",
+      "Buscou e obteve crédito ou financiamento",
+      "Buscou crédito ou financiamento, mas não obteve"
+    ]
+  },
+  {
+    "coluna_bruta": "SeçãoVIINVESTIMENTOSACESSOACRÉDITOEAPOIOS__133PorQueOEmpreendimentoNãoBuscouCréditoOuFinanciamentorespostaMúltipla",
+    "prefixo": "SeçãoVIINVESTIMENTOSACESSOACRÉDITOEAPOIOS",
+    "secao_label": "Seção VI — Investimentos, Acesso a Crédito e Apoios",
+    "ordem_secao": 11,
+    "subgrupos": [],
+    "numero_pergunta": "133",
+    "rotulo": "Por Que OEmpreendimento Não Buscou Crédito Ou Financiamentoresposta Múltipla",
+    "tipo_inferido": "multi_select",
+    "pii": false,
+    "valores_amostra": [
+      "Não houve necessidade, Não houve acordo sobre a necessidade e oportunidade",
+      "Não houve necessidade",
+      "Os investimentos foram feitos com recursos próprios, Medo ou receio de contrair dívidas",
+      "Medo ou receio de contrair dívidas",
+      "Os investimentos foram feitos com recursos próprios",
+      "Não houve necessidade, Não houve acordo sobre a necessidade e oportunidade, Os investimentos foram feitos com recursos próprios",
+      "Não houve necessidade, Os investimentos foram feitos com recursos próprios",
+      "Experiência fracassada de outro empreendimento, Os investimentos foram feitos com recursos próprios, Medo ou receio de contrair dívidas"
+    ]
+  },
+  {
+    "coluna_bruta": "SeçãoVIINVESTIMENTOSACESSOACRÉDITOEAPOIOS__134QualAFinalidadeDoCréditoOuFinanciamentorespostaMúltipla",
+    "prefixo": "SeçãoVIINVESTIMENTOSACESSOACRÉDITOEAPOIOS",
+    "secao_label": "Seção VI — Investimentos, Acesso a Crédito e Apoios",
+    "ordem_secao": 11,
+    "subgrupos": [],
+    "numero_pergunta": "134",
+    "rotulo": "Qual AFinalidade Do Crédito Ou Financiamentoresposta Múltipla",
+    "tipo_inferido": "multi_select",
+    "pii": false,
+    "valores_amostra": [
+      "Custeio ou capital de giro, Investimento",
+      "Custeio ou capital de giro"
+    ]
+  },
+  {
+    "coluna_bruta": "SeçãoVIINVESTIMENTOSACESSOACRÉDITOEAPOIOS_SemTítulo2__135aBancoPúblicoQual",
+    "prefixo": "SeçãoVIINVESTIMENTOSACESSOACRÉDITOEAPOIOS",
+    "secao_label": "Seção VI — Investimentos, Acesso a Crédito e Apoios",
+    "ordem_secao": 11,
+    "subgrupos": [
+      "SemTítulo2"
+    ],
+    "numero_pergunta": "135a",
+    "rotulo": "Banco Público Qual",
+    "tipo_inferido": "conditional_text",
+    "pii": false,
+    "valores_amostra": [
+      "Banco do Brasil"
+    ]
+  },
+  {
+    "coluna_bruta": "SeçãoVIINVESTIMENTOSACESSOACRÉDITOEAPOIOS_SemTítulo2__135bBancoPrivadoQual",
+    "prefixo": "SeçãoVIINVESTIMENTOSACESSOACRÉDITOEAPOIOS",
+    "secao_label": "Seção VI — Investimentos, Acesso a Crédito e Apoios",
+    "ordem_secao": 11,
+    "subgrupos": [
+      "SemTítulo2"
+    ],
+    "numero_pergunta": "135b",
+    "rotulo": "Banco Privado Qual",
+    "tipo_inferido": "conditional_text",
+    "pii": false,
+    "valores_amostra": []
+  },
+  {
+    "coluna_bruta": "SeçãoVIINVESTIMENTOSACESSOACRÉDITOEAPOIOS_SemTítulo2__135cBancoDoPovoOuSimilarQual",
+    "prefixo": "SeçãoVIINVESTIMENTOSACESSOACRÉDITOEAPOIOS",
+    "secao_label": "Seção VI — Investimentos, Acesso a Crédito e Apoios",
+    "ordem_secao": 11,
+    "subgrupos": [
+      "SemTítulo2"
+    ],
+    "numero_pergunta": "135c",
+    "rotulo": "Banco Do Povo Ou Similar Qual",
+    "tipo_inferido": "conditional_text",
+    "pii": false,
+    "valores_amostra": []
+  },
+  {
+    "coluna_bruta": "SeçãoVIINVESTIMENTOSACESSOACRÉDITOEAPOIOS_SemTítulo2__135dCooperativaDeCréditoQual",
+    "prefixo": "SeçãoVIINVESTIMENTOSACESSOACRÉDITOEAPOIOS",
+    "secao_label": "Seção VI — Investimentos, Acesso a Crédito e Apoios",
+    "ordem_secao": 11,
+    "subgrupos": [
+      "SemTítulo2"
+    ],
+    "numero_pergunta": "135d",
+    "rotulo": "Cooperativa De Crédito Qual",
+    "tipo_inferido": "conditional_text",
+    "pii": false,
+    "valores_amostra": [
+      "Cresol e Sicoob",
+      "Cresol"
+    ]
+  },
+  {
+    "coluna_bruta": "SeçãoVIINVESTIMENTOSACESSOACRÉDITOEAPOIOS_SemTítulo2__135eOutraInstituiçãoFinanceiraPrivadaQual",
+    "prefixo": "SeçãoVIINVESTIMENTOSACESSOACRÉDITOEAPOIOS",
+    "secao_label": "Seção VI — Investimentos, Acesso a Crédito e Apoios",
+    "ordem_secao": 11,
+    "subgrupos": [
+      "SemTítulo2"
+    ],
+    "numero_pergunta": "135e",
+    "rotulo": "Outra Instituição Financeira Privada Qual",
+    "tipo_inferido": "conditional_text",
+    "pii": false,
+    "valores_amostra": []
+  },
+  {
+    "coluna_bruta": "SeçãoVIINVESTIMENTOSACESSOACRÉDITOEAPOIOS_SemTítulo2__135fONGOuOSCIPQual",
+    "prefixo": "SeçãoVIINVESTIMENTOSACESSOACRÉDITOEAPOIOS",
+    "secao_label": "Seção VI — Investimentos, Acesso a Crédito e Apoios",
+    "ordem_secao": 11,
+    "subgrupos": [
+      "SemTítulo2"
+    ],
+    "numero_pergunta": "135f",
+    "rotulo": "ONGOu OSCIPQual",
+    "tipo_inferido": "conditional_text",
+    "pii": false,
+    "valores_amostra": []
+  },
+  {
+    "coluna_bruta": "SeçãoVIINVESTIMENTOSACESSOACRÉDITOEAPOIOS_SemTítulo2__135gFundoSolidárioOuBancoComunitárioQual",
+    "prefixo": "SeçãoVIINVESTIMENTOSACESSOACRÉDITOEAPOIOS",
+    "secao_label": "Seção VI — Investimentos, Acesso a Crédito e Apoios",
+    "ordem_secao": 11,
+    "subgrupos": [
+      "SemTítulo2"
+    ],
+    "numero_pergunta": "135g",
+    "rotulo": "Fundo Solidário Ou Banco Comunitário Qual",
+    "tipo_inferido": "conditional_text",
+    "pii": false,
+    "valores_amostra": []
+  },
+  {
+    "coluna_bruta": "SeçãoVIINVESTIMENTOSACESSOACRÉDITOEAPOIOS_SemTítulo2__135hOutraQual",
+    "prefixo": "SeçãoVIINVESTIMENTOSACESSOACRÉDITOEAPOIOS",
+    "secao_label": "Seção VI — Investimentos, Acesso a Crédito e Apoios",
+    "ordem_secao": 11,
+    "subgrupos": [
+      "SemTítulo2"
+    ],
+    "numero_pergunta": "135h",
+    "rotulo": "Outra Qual",
+    "tipo_inferido": "conditional_text",
+    "pii": false,
+    "valores_amostra": []
+  },
+  {
+    "coluna_bruta": "SeçãoVIINVESTIMENTOSACESSOACRÉDITOEAPOIOS_SemTítulo2__136QualOValorTotalDoCréditoAoQualOEmpreendimentoTeveAcessoNosÚltimos12Meses",
+    "prefixo": "SeçãoVIINVESTIMENTOSACESSOACRÉDITOEAPOIOS",
+    "secao_label": "Seção VI — Investimentos, Acesso a Crédito e Apoios",
+    "ordem_secao": 11,
+    "subgrupos": [
+      "SemTítulo2"
+    ],
+    "numero_pergunta": "136",
+    "rotulo": "Qual OValor Total Do Crédito Ao Qual OEmpreendimento Teve Acesso NosÚltimos12 Meses",
+    "tipo_inferido": "numeric_or_text",
+    "pii": false,
+    "valores_amostra": [
+      "1200000.0",
+      "0.0"
+    ]
+  },
+  {
+    "coluna_bruta": "SeçãoVIINVESTIMENTOSACESSOACRÉDITOEAPOIOS_SemTítulo2__137QualASituaçãoAtualDoPagamentoOuDevoluçãoDoCréditoOuFinanciamentorespostaÚnica",
+    "prefixo": "SeçãoVIINVESTIMENTOSACESSOACRÉDITOEAPOIOS",
+    "secao_label": "Seção VI — Investimentos, Acesso a Crédito e Apoios",
+    "ordem_secao": 11,
+    "subgrupos": [
+      "SemTítulo2"
+    ],
+    "numero_pergunta": "137",
+    "rotulo": "Qual ASituação Atual Do Pagamento Ou Devolução Do Crédito Ou FinanciamentorespostaÚnica",
+    "tipo_inferido": "single_select",
+    "pii": false,
+    "valores_amostra": [
+      "Pagamento em dia"
+    ]
+  },
+  {
+    "coluna_bruta": "SeçãoVIINVESTIMENTOSACESSOACRÉDITOEAPOIOS__138AtualmenteExisteNecessidadeDeCréditoOuFinanciamento",
+    "prefixo": "SeçãoVIINVESTIMENTOSACESSOACRÉDITOEAPOIOS",
+    "secao_label": "Seção VI — Investimentos, Acesso a Crédito e Apoios",
+    "ordem_secao": 11,
+    "subgrupos": [],
+    "numero_pergunta": "138",
+    "rotulo": "Atualmente Existe Necessidade De Crédito Ou Financiamento",
+    "tipo_inferido": "boolean",
+    "pii": false,
+    "valores_amostra": [
+      "Não",
+      "Sim"
+    ]
+  },
+  {
+    "coluna_bruta": "SeçãoVIINVESTIMENTOSACESSOACRÉDITOEAPOIOS_SemTítulo3__139ParaQuêÉNecessárioOCréditoOuFinanciamentorespostaMúltipla",
+    "prefixo": "SeçãoVIINVESTIMENTOSACESSOACRÉDITOEAPOIOS",
+    "secao_label": "Seção VI — Investimentos, Acesso a Crédito e Apoios",
+    "ordem_secao": 11,
+    "subgrupos": [
+      "SemTítulo3"
+    ],
+    "numero_pergunta": "139",
+    "rotulo": "Para Quê ÉNecessário OCrédito Ou Financiamentoresposta Múltipla",
+    "tipo_inferido": "multi_select",
+    "pii": false,
+    "valores_amostra": [
+      "Custeio ou capital de giro",
+      "Custeio ou capital de giro, Investimento",
+      "Investimento"
+    ]
+  },
+  {
+    "coluna_bruta": "SeçãoVIINVESTIMENTOSACESSOACRÉDITOEAPOIOS_SemTítulo3__140OEmpreendimentoEstáEnfrentandoDificuldadesParaAObtençãoDeCréditoOuFinanciamento",
+    "prefixo": "SeçãoVIINVESTIMENTOSACESSOACRÉDITOEAPOIOS",
+    "secao_label": "Seção VI — Investimentos, Acesso a Crédito e Apoios",
+    "ordem_secao": 11,
+    "subgrupos": [
+      "SemTítulo3"
+    ],
+    "numero_pergunta": "140",
+    "rotulo": "OEmpreendimento Está Enfrentando Dificuldades Para AObtenção De Crédito Ou Financiamento",
+    "tipo_inferido": "boolean",
+    "pii": false,
+    "valores_amostra": [
+      "Não",
+      "Sim"
+    ]
+  },
+  {
+    "coluna_bruta": "SeçãoVIINVESTIMENTOSACESSOACRÉDITOEAPOIOS_SemTítulo3__141QualaisDificuldadesrespostaMúltipla",
+    "prefixo": "SeçãoVIINVESTIMENTOSACESSOACRÉDITOEAPOIOS",
+    "secao_label": "Seção VI — Investimentos, Acesso a Crédito e Apoios",
+    "ordem_secao": 11,
+    "subgrupos": [
+      "SemTítulo3"
+    ],
+    "numero_pergunta": "141",
+    "rotulo": "Qualais Dificuldadesresposta Múltipla",
+    "tipo_inferido": "multi_select",
+    "pii": false,
+    "valores_amostra": [
+      "Burocracia dos agentes financeiros, Falta de linha de crédito",
+      "Falta de apoio para elaborar projeto, Burocracia dos agentes financeiros, Falta de conhecimento das linhas de créditos disponíveis para os agricultores ",
+      "Taxas de juros elevadas ou incompatíveis com a capacidade do empreendimento, Prazos de carência inadequados, Falta de aval ou garantia, Falta de apoio para elaborar projeto, Burocracia dos agentes financeiros, Falta de linha de crédito",
+      "O empreendimento não possui a documentação exigida pelo agente financeiro"
+    ]
+  },
+  {
+    "coluna_bruta": "SeçãoVIINVESTIMENTOSACESSOACRÉDITOEAPOIOS__142OEmpreendimentoTeveAcessoAAlgumTipoDeAssessoriaAssistênciaOuCapacitação",
+    "prefixo": "SeçãoVIINVESTIMENTOSACESSOACRÉDITOEAPOIOS",
+    "secao_label": "Seção VI — Investimentos, Acesso a Crédito e Apoios",
+    "ordem_secao": 11,
+    "subgrupos": [],
+    "numero_pergunta": "142",
+    "rotulo": "OEmpreendimento Teve Acesso AAlgum Tipo De Assessoria Assistência Ou Capacitação",
+    "tipo_inferido": "boolean",
+    "pii": false,
+    "valores_amostra": [
+      "Não",
+      "Sim"
+    ]
+  },
+  {
+    "coluna_bruta": "SeçãoVIINVESTIMENTOSACESSOACRÉDITOEAPOIOS_SemTítulo4__143QueTipoDeApoioemAssessoriaAssistênciaOuCapacitaçãoOEmpreendimentoTeverespostaMúltipla",
+    "prefixo": "SeçãoVIINVESTIMENTOSACESSOACRÉDITOEAPOIOS",
+    "secao_label": "Seção VI — Investimentos, Acesso a Crédito e Apoios",
+    "ordem_secao": 11,
+    "subgrupos": [
+      "SemTítulo4"
+    ],
+    "numero_pergunta": "143",
+    "rotulo": "Que Tipo De Apoioem Assessoria Assistência Ou Capacitação OEmpreendimento Teveresposta Múltipla",
+    "tipo_inferido": "multi_select",
+    "pii": false,
+    "valores_amostra": [
+      "Assistência técnica e/ou gerencial",
+      "Assistência técnica e/ou gerencial, \"Qualificação profissional, técnica, gerencial\", \"Diagnóstico, planejamento e análise de viabilidade econômica\"",
+      "Assistência técnica e/ou gerencial, Elaboração de projetos",
+      "\"Qualificação profissional, técnica, gerencial\", Assessoria em marketing e na comercialização de produtos e serviços",
+      "Assistência técnica e/ou gerencial, \"Assessoria na constituição, formalização ou registro\"",
+      "Assistência técnica e/ou gerencial, \"Qualificação profissional, técnica, gerencial\", Assessoria em marketing e na comercialização de produtos e serviços, \"Diagnóstico, planejamento e análise de viabilidade econômica\", \"Assessoria na constituição, formalização ou registro\", Elaboração de projetos",
+      "Assistência técnica e/ou gerencial, \"Qualificação profissional, técnica, gerencial\"",
+      "Assistência técnica e/ou gerencial, \"Qualificação profissional, técnica, gerencial\", \"Formação sócio-política (autogestão, cooperativismo, economia solidária)\", Assistência jurídica, Elaboração de projetos"
+    ]
+  },
+  {
+    "coluna_bruta": "SeçãoVIINVESTIMENTOSACESSOACRÉDITOEAPOIOS_SemTítulo4__144aONGsOSCIPsQual",
+    "prefixo": "SeçãoVIINVESTIMENTOSACESSOACRÉDITOEAPOIOS",
+    "secao_label": "Seção VI — Investimentos, Acesso a Crédito e Apoios",
+    "ordem_secao": 11,
+    "subgrupos": [
+      "SemTítulo4"
+    ],
+    "numero_pergunta": "144a",
+    "rotulo": "ONGs OSCIPs Qual",
+    "tipo_inferido": "conditional_text",
+    "pii": false,
+    "valores_amostra": [
+      "CEMEAR",
+      "Associação Caminhos do Louvor, Caminho do Campo, Complexo Nossa Senhora de Lourdes, Associação de Turismo, Visite Ituporanga",
+      "COOPERFAVI- Cooperativa da Agricultura Familiar do Vale do Itajaí"
+    ]
+  },
+  {
+    "coluna_bruta": "SeçãoVIINVESTIMENTOSACESSOACRÉDITOEAPOIOS_SemTítulo4__144bIgrejasPastoraisEtcQual",
+    "prefixo": "SeçãoVIINVESTIMENTOSACESSOACRÉDITOEAPOIOS",
+    "secao_label": "Seção VI — Investimentos, Acesso a Crédito e Apoios",
+    "ordem_secao": 11,
+    "subgrupos": [
+      "SemTítulo4"
+    ],
+    "numero_pergunta": "144b",
+    "rotulo": "Igrejas Pastorais Etc Qual",
+    "tipo_inferido": "conditional_text",
+    "pii": false,
+    "valores_amostra": [
+      "Caritas",
+      "Cáritas"
+    ]
+  },
+  {
+    "coluna_bruta": "SeçãoVIINVESTIMENTOSACESSOACRÉDITOEAPOIOS_SemTítulo4__144cAssociaçõesEConselhosComunitáriosEtcQual",
+    "prefixo": "SeçãoVIINVESTIMENTOSACESSOACRÉDITOEAPOIOS",
+    "secao_label": "Seção VI — Investimentos, Acesso a Crédito e Apoios",
+    "ordem_secao": 11,
+    "subgrupos": [
+      "SemTítulo4"
+    ],
+    "numero_pergunta": "144c",
+    "rotulo": "Associações EConselhos Comunitários Etc Qual",
+    "tipo_inferido": "conditional_text",
+    "pii": false,
+    "valores_amostra": [
+      "APAOC"
+    ]
+  },
+  {
+    "coluna_bruta": "SeçãoVIINVESTIMENTOSACESSOACRÉDITOEAPOIOS_SemTítulo4__144dPrefeituraSecretariaÓrgão",
+    "prefixo": "SeçãoVIINVESTIMENTOSACESSOACRÉDITOEAPOIOS",
+    "secao_label": "Seção VI — Investimentos, Acesso a Crédito e Apoios",
+    "ordem_secao": 11,
+    "subgrupos": [
+      "SemTítulo4"
+    ],
+    "numero_pergunta": "144d",
+    "rotulo": "Prefeitura Secretaria Órgão",
+    "tipo_inferido": "text",
+    "pii": false,
+    "valores_amostra": [
+      "Secretaria do turismo e agricultura",
+      "Secretaria da Agricultura",
+      "Secretaria de Turismo da Prefeitura de Ituporanga",
+      "Prefeitura de Rio do Sul",
+      "Secretaria da Agricultura de Pouso Redondo",
+      "Prefeitura Municipal de Presidente Getúlio; Câmara de Vereadores"
+    ]
+  },
+  {
+    "coluna_bruta": "SeçãoVIINVESTIMENTOSACESSOACRÉDITOEAPOIOS_SemTítulo4__144eGovernoEstadualSecretariaÓrgão",
+    "prefixo": "SeçãoVIINVESTIMENTOSACESSOACRÉDITOEAPOIOS",
+    "secao_label": "Seção VI — Investimentos, Acesso a Crédito e Apoios",
+    "ordem_secao": 11,
+    "subgrupos": [
+      "SemTítulo4"
+    ],
+    "numero_pergunta": "144e",
+    "rotulo": "Governo Estadual Secretaria Órgão",
+    "tipo_inferido": "text",
+    "pii": false,
+    "valores_amostra": [
+      "Epagri",
+      "Deputado estadual - Padre Pedro (emenda parlamentar)"
+    ]
+  },
+  {
+    "coluna_bruta": "SeçãoVIINVESTIMENTOSACESSOACRÉDITOEAPOIOS_SemTítulo4__144fGovernoFederalSecretariaÓrgão",
+    "prefixo": "SeçãoVIINVESTIMENTOSACESSOACRÉDITOEAPOIOS",
+    "secao_label": "Seção VI — Investimentos, Acesso a Crédito e Apoios",
+    "ordem_secao": 11,
+    "subgrupos": [
+      "SemTítulo4"
+    ],
+    "numero_pergunta": "144f",
+    "rotulo": "Governo Federal Secretaria Órgão",
+    "tipo_inferido": "text",
+    "pii": false,
+    "valores_amostra": [
+      "EPAGRI"
+    ]
+  },
+  {
+    "coluna_bruta": "SeçãoVIINVESTIMENTOSACESSOACRÉDITOEAPOIOS_SemTítulo4__144gUniversidadesincubadorasUnitrabalhoQual",
+    "prefixo": "SeçãoVIINVESTIMENTOSACESSOACRÉDITOEAPOIOS",
+    "secao_label": "Seção VI — Investimentos, Acesso a Crédito e Apoios",
+    "ordem_secao": 11,
+    "subgrupos": [
+      "SemTítulo4"
+    ],
+    "numero_pergunta": "144g",
+    "rotulo": "Universidadesincubadoras Unitrabalho Qual",
+    "tipo_inferido": "conditional_text",
+    "pii": false,
+    "valores_amostra": [
+      "IFC",
+      "UNIDAVI"
+    ]
+  },
+  {
+    "coluna_bruta": "SeçãoVIINVESTIMENTOSACESSOACRÉDITOEAPOIOS_SemTítulo4__144hSistemaSSebraeSescoopEtcQual",
+    "prefixo": "SeçãoVIINVESTIMENTOSACESSOACRÉDITOEAPOIOS",
+    "secao_label": "Seção VI — Investimentos, Acesso a Crédito e Apoios",
+    "ordem_secao": 11,
+    "subgrupos": [
+      "SemTítulo4"
+    ],
+    "numero_pergunta": "144h",
+    "rotulo": "Sistema SSebrae Sescoop Etc Qual",
+    "tipo_inferido": "conditional_text",
+    "pii": false,
+    "valores_amostra": [
+      "Sebrae e Senar",
+      "Sebrae"
+    ]
+  },
+  {
+    "coluna_bruta": "SeçãoVIINVESTIMENTOSACESSOACRÉDITOEAPOIOS_SemTítulo4__144iCooperativasDeTécnicosasQual",
+    "prefixo": "SeçãoVIINVESTIMENTOSACESSOACRÉDITOEAPOIOS",
+    "secao_label": "Seção VI — Investimentos, Acesso a Crédito e Apoios",
+    "ordem_secao": 11,
+    "subgrupos": [
+      "SemTítulo4"
+    ],
+    "numero_pergunta": "144i",
+    "rotulo": "Cooperativas De Técnicosas Qual",
+    "tipo_inferido": "conditional_text",
+    "pii": false,
+    "valores_amostra": []
+  },
+  {
+    "coluna_bruta": "SeçãoVIINVESTIMENTOSACESSOACRÉDITOEAPOIOS_SemTítulo4__144jMovimentoSindicalCentralSindicatoFederaçãoQual",
+    "prefixo": "SeçãoVIINVESTIMENTOSACESSOACRÉDITOEAPOIOS",
+    "secao_label": "Seção VI — Investimentos, Acesso a Crédito e Apoios",
+    "ordem_secao": 11,
+    "subgrupos": [
+      "SemTítulo4"
+    ],
+    "numero_pergunta": "144j",
+    "rotulo": "Movimento Sindical Central Sindicato Federação Qual",
+    "tipo_inferido": "conditional_text",
+    "pii": false,
+    "valores_amostra": [
+      "Sindicato Rural da Agricultura Familiar"
+    ]
+  },
+  {
+    "coluna_bruta": "SeçãoVIINVESTIMENTOSACESSOACRÉDITOEAPOIOS_SemTítulo4__144kOutroEmpreendimentoOuEntidadeDeRepresentaçãoQual",
+    "prefixo": "SeçãoVIINVESTIMENTOSACESSOACRÉDITOEAPOIOS",
+    "secao_label": "Seção VI — Investimentos, Acesso a Crédito e Apoios",
+    "ordem_secao": 11,
+    "subgrupos": [
+      "SemTítulo4"
+    ],
+    "numero_pergunta": "144k",
+    "rotulo": "Outro Empreendimento Ou Entidade De Representação Qual",
+    "tipo_inferido": "conditional_text",
+    "pii": false,
+    "valores_amostra": [
+      "Cooperativa",
+      "ICAF - Instituto de Cooperação da Agricultura Familiar",
+      "Sicredi",
+      "Cresool",
+      "Unicafes"
+    ]
+  },
+  {
+    "coluna_bruta": "SeçãoVIINVESTIMENTOSACESSOACRÉDITOEAPOIOS_SemTítulo4__144lFornecedorOuCompradorparceriaQual",
+    "prefixo": "SeçãoVIINVESTIMENTOSACESSOACRÉDITOEAPOIOS",
+    "secao_label": "Seção VI — Investimentos, Acesso a Crédito e Apoios",
+    "ordem_secao": 11,
+    "subgrupos": [
+      "SemTítulo4"
+    ],
+    "numero_pergunta": "144l",
+    "rotulo": "Fornecedor Ou Compradorparceria Qual",
+    "tipo_inferido": "conditional_text",
+    "pii": false,
+    "valores_amostra": [
+      "Unidavi"
+    ]
+  },
+  {
+    "coluna_bruta": "SeçãoVIINVESTIMENTOSACESSOACRÉDITOEAPOIOS_SemTítulo4__144mOutraQual",
+    "prefixo": "SeçãoVIINVESTIMENTOSACESSOACRÉDITOEAPOIOS",
+    "secao_label": "Seção VI — Investimentos, Acesso a Crédito e Apoios",
+    "ordem_secao": 11,
+    "subgrupos": [
+      "SemTítulo4"
+    ],
+    "numero_pergunta": "144m",
+    "rotulo": "Outra Qual",
+    "tipo_inferido": "conditional_text",
+    "pii": false,
+    "valores_amostra": [
+      "Próprios associados",
+      "Laboratório Vidas",
+      "Epagri (Empresa de Pesquisa Agropecuária e Extensão Rural de Santa Catarina)"
+    ]
+  },
+  {
+    "coluna_bruta": "SeçãoVIIGESTÃODOEMPREENDIMENTO__145QuaisAsInstânciasDeDireçãoECoordenaçãoDoEmpreendimentorespostaMúltipla",
+    "prefixo": "SeçãoVIIGESTÃODOEMPREENDIMENTO",
+    "secao_label": "Seção VII — Gestão do Empreendimento",
+    "ordem_secao": 12,
+    "subgrupos": [],
+    "numero_pergunta": "145",
+    "rotulo": "Quais As Instâncias De Direção ECoordenação Do Empreendimentoresposta Múltipla",
+    "tipo_inferido": "multi_select",
+    "pii": false,
+    "valores_amostra": [
+      "Assembleia de sócios(as) ou reunião do coletivo de sócios(as), Coordenação/Diretoria/Conselho Diretor, Conselho Fiscal ou similar, \"Grupos de Trabalho, Comissões ou Núcleos\"",
+      "Assembleia de sócios(as) ou reunião do coletivo de sócios(as), Coordenação/Diretoria/Conselho Diretor, Conselho Consultivo ou similar, Conselho Administrativo ou similar, Conselho Fiscal ou similar",
+      "Assembleia de sócios(as) ou reunião do coletivo de sócios(as), Coordenação/Diretoria/Conselho Diretor, Conselho Administrativo ou similar, Conselho Fiscal ou similar",
+      "Reunião entre os sócio ",
+      "Grupo Familiar ",
+      "Coordenação/Diretoria/Conselho Diretor",
+      "Assembleia de sócios(as) ou reunião do coletivo de sócios(as), Coordenação/Diretoria/Conselho Diretor, Comissão ou Conselho de Ética",
+      "Assembleia de sócios(as) ou reunião do coletivo de sócios(as), Coordenação/Diretoria/Conselho Diretor, Conselho Fiscal ou similar"
+    ]
+  },
+  {
+    "coluna_bruta": "SeçãoVIIGESTÃODOEMPREENDIMENTO__146OQueÉDecididoEmAssembleiaGeralReuniãoDoColetivoDeSóciosasrespostaMúltipla",
+    "prefixo": "SeçãoVIIGESTÃODOEMPREENDIMENTO",
+    "secao_label": "Seção VII — Gestão do Empreendimento",
+    "ordem_secao": 12,
+    "subgrupos": [],
+    "numero_pergunta": "146",
+    "rotulo": "OQue ÉDecidido Em Assembleia Geral Reunião Do Coletivo De Sóciosasresposta Múltipla",
+    "tipo_inferido": "multi_select",
+    "pii": false,
+    "valores_amostra": [
+      "Escolha da direção do empreendimento econômico solidário, Admissão e exclusão de sócios(as), Regimento interno, Prestação de contas, Representação ou participação dos(as) sócios(as) em eventos, Definições sobre as atividades cotidianas do empreendimento",
+      "Escolha da direção do empreendimento econômico solidário, Admissão e exclusão de sócios(as), Regimento interno, Plano de trabalho/planejamento estratégico, Prestação de contas, Definições sobre as atividades cotidianas do empreendimento",
+      "Escolha da direção do empreendimento econômico solidário, Contratações e remunerações/retiradas dos(as) sócios(as), Admissão e exclusão de sócios(as), Regimento interno, Empréstimos/financiamentos, Aquisições e venda de patrimônio, Prestação de contas",
+      "Escolha da direção do empreendimento econômico solidário, Regimento interno, Plano de trabalho/planejamento estratégico, Prestação de contas",
+      "Contratações e remunerações/retiradas dos(as) sócios(as)",
+      "Definições sobre as atividades cotidianas do empreendimento",
+      "Plano de trabalho/planejamento estratégico, Definições sobre as atividades cotidianas do empreendimento",
+      "Admissão e exclusão de sócios(as), Plano de trabalho/planejamento estratégico"
+    ]
+  },
+  {
+    "coluna_bruta": "SeçãoVIIGESTÃODOEMPREENDIMENTO__147QualAPeriodicidadeDeRealizaçãoDaAssembleiaGeralEouReuniãoColetivaDeSóciosasNoEmpreendimentorespostaÚnica",
+    "prefixo": "SeçãoVIIGESTÃODOEMPREENDIMENTO",
+    "secao_label": "Seção VII — Gestão do Empreendimento",
+    "ordem_secao": 12,
+    "subgrupos": [],
+    "numero_pergunta": "147",
+    "rotulo": "Qual APeriodicidade De Realização Da Assembleia Geral Eou Reunião Coletiva De Sóciosas No EmpreendimentorespostaÚnica",
+    "tipo_inferido": "single_select",
+    "pii": false,
+    "valores_amostra": [
+      "Anual ou mais de 1 ano",
+      "Mensal",
+      "Semestral",
+      "Não realiza assembleia geral e/ou reunião coletiva de sócios(as)",
+      "Semanal ou quinzenal",
+      "Bimestral ou trimestral"
+    ]
+  },
+  {
+    "coluna_bruta": "SeçãoVIIGESTÃODOEMPREENDIMENTO_SemTítulo__148NaÚltimaAssembleiaGeralEouReuniãoColetivaDeSóciosasQuantosasSóciosasParticiparamrespostaÚnica",
+    "prefixo": "SeçãoVIIGESTÃODOEMPREENDIMENTO",
+    "secao_label": "Seção VII — Gestão do Empreendimento",
+    "ordem_secao": 12,
+    "subgrupos": [
+      "SemTítulo"
+    ],
+    "numero_pergunta": "148",
+    "rotulo": "NaÚltima Assembleia Geral Eou Reunião Coletiva De Sóciosas Quantosas Sóciosas ParticiparamrespostaÚnica",
+    "tipo_inferido": "single_select",
+    "pii": false,
+    "valores_amostra": []
+  },
+  {
+    "coluna_bruta": "SeçãoVIIGESTÃODOEMPREENDIMENTO_SemTítulo__149QuaisOutrasFormasDeParticipaçãoDosasSóciosasrespostaMúltipla",
+    "prefixo": "SeçãoVIIGESTÃODOEMPREENDIMENTO",
+    "secao_label": "Seção VII — Gestão do Empreendimento",
+    "ordem_secao": 12,
+    "subgrupos": [
+      "SemTítulo"
+    ],
+    "numero_pergunta": "149",
+    "rotulo": "Quais Outras Formas De Participação Dosas Sóciosasresposta Múltipla",
+    "tipo_inferido": "multi_select",
+    "pii": false,
+    "valores_amostra": []
+  },
+  {
+    "coluna_bruta": "SeçãoVIIGESTÃODOEMPREENDIMENTO_SemTítulo__150NoÚltimoAnoForamRealizadasAtividadesDeFormaçãoEouCampanhasDeSensibilizaçãoDosasSóciosas",
+    "prefixo": "SeçãoVIIGESTÃODOEMPREENDIMENTO",
+    "secao_label": "Seção VII — Gestão do Empreendimento",
+    "ordem_secao": 12,
+    "subgrupos": [
+      "SemTítulo"
+    ],
+    "numero_pergunta": "150",
+    "rotulo": "NoÚltimo Ano Foram Realizadas Atividades De Formação Eou Campanhas De Sensibilização Dosas Sóciosas",
+    "tipo_inferido": "boolean",
+    "pii": false,
+    "valores_amostra": [
+      "Sim"
+    ]
+  },
+  {
+    "coluna_bruta": "SeçãoVIIGESTÃODOEMPREENDIMENTO_SemTítulo__151QuaisForamOsTemasTratadosrespostaMúltipla",
+    "prefixo": "SeçãoVIIGESTÃODOEMPREENDIMENTO",
+    "secao_label": "Seção VII — Gestão do Empreendimento",
+    "ordem_secao": 12,
+    "subgrupos": [
+      "SemTítulo"
+    ],
+    "numero_pergunta": "151",
+    "rotulo": "Quais Foram Os Temas Tratadosresposta Múltipla",
+    "tipo_inferido": "multi_select",
+    "pii": false,
+    "valores_amostra": [
+      "Estruturação e controle financeiro da propriedade "
+    ]
+  },
+  {
+    "coluna_bruta": "SeçãoVIIGESTÃODOEMPREENDIMENTO__152HáQuantoTempoOAtualCoordenadorEouPresidenteExerceOCargoNoEmpreendimentorespostaÚnica",
+    "prefixo": "SeçãoVIIGESTÃODOEMPREENDIMENTO",
+    "secao_label": "Seção VII — Gestão do Empreendimento",
+    "ordem_secao": 12,
+    "subgrupos": [],
+    "numero_pergunta": "152",
+    "rotulo": "Há Quanto Tempo OAtual Coordenador Eou Presidente Exerce OCargo No EmpreendimentorespostaÚnica",
+    "tipo_inferido": "single_select",
+    "pii": false,
+    "valores_amostra": [
+      "De 2 a 4 anos",
+      "De 1 a 2 anos",
+      "Não se aplica",
+      "Mais de 10 anos",
+      "De 4 a 6 anos",
+      "Menos de um ano"
+    ]
+  },
+  {
+    "coluna_bruta": "SeçãoVIIGESTÃODOEMPREENDIMENTO__153aMulheresquantas",
+    "prefixo": "SeçãoVIIGESTÃODOEMPREENDIMENTO",
+    "secao_label": "Seção VII — Gestão do Empreendimento",
+    "ordem_secao": 12,
+    "subgrupos": [],
+    "numero_pergunta": "153a",
+    "rotulo": "Mulheresquantas",
+    "tipo_inferido": "integer",
+    "pii": false,
+    "valores_amostra": [
+      "6.0",
+      "2.0",
+      "1.0",
+      "9.0",
+      "3.0",
+      "12.0",
+      "7.0",
+      "5.0"
+    ]
+  },
+  {
+    "coluna_bruta": "SeçãoVIIGESTÃODOEMPREENDIMENTO__153bHomensquantos",
+    "prefixo": "SeçãoVIIGESTÃODOEMPREENDIMENTO",
+    "secao_label": "Seção VII — Gestão do Empreendimento",
+    "ordem_secao": 12,
+    "subgrupos": [],
+    "numero_pergunta": "153b",
+    "rotulo": "Homensquantos",
+    "tipo_inferido": "integer",
+    "pii": false,
+    "valores_amostra": [
+      "5.0",
+      "1.0",
+      "21.0",
+      "4.0",
+      "2.0",
+      "0.0",
+      "7.0",
+      "9.0"
+    ]
+  },
+  {
+    "coluna_bruta": "SeçãoVIIGESTÃODOEMPREENDIMENTO__153cTotalquantos",
+    "prefixo": "SeçãoVIIGESTÃODOEMPREENDIMENTO",
+    "secao_label": "Seção VII — Gestão do Empreendimento",
+    "ordem_secao": 12,
+    "subgrupos": [],
+    "numero_pergunta": "153c",
+    "rotulo": "Totalquantos",
+    "tipo_inferido": "integer",
+    "pii": false,
+    "valores_amostra": [
+      "11.0",
+      "23.0",
+      "6.0",
+      "2.0",
+      "3.0",
+      "9.0",
+      "10.0",
+      "21.0"
+    ]
+  },
+  {
+    "coluna_bruta": "SeçãoVIIGESTÃODOEMPREENDIMENTO__154OsDirigentesRecebemRemuneraçãoOuGratificaçãoPeloExercícioDoCargoOuFunção",
+    "prefixo": "SeçãoVIIGESTÃODOEMPREENDIMENTO",
+    "secao_label": "Seção VII — Gestão do Empreendimento",
+    "ordem_secao": 12,
+    "subgrupos": [],
+    "numero_pergunta": "154",
+    "rotulo": "Os Dirigentes Recebem Remuneração Ou Gratificação Pelo Exercício Do Cargo Ou Função",
+    "tipo_inferido": "boolean",
+    "pii": false,
+    "valores_amostra": [
+      "Não",
+      "Sim"
+    ]
+  },
+  {
+    "coluna_bruta": "SeçãoVIIGESTÃODOEMPREENDIMENTO__155NoAnoAnteriorOsResultadosDaAtividadeEconômicaDoEmpreendimentoSemContarAsDoaçõesDeRecursosCasoExistamPermitiramrespostaÚnica",
+    "prefixo": "SeçãoVIIGESTÃODOEMPREENDIMENTO",
+    "secao_label": "Seção VII — Gestão do Empreendimento",
+    "ordem_secao": 12,
+    "subgrupos": [],
+    "numero_pergunta": "155",
+    "rotulo": "No Ano Anterior Os Resultados Da Atividade Econômica Do Empreendimento Sem Contar As Doações De Recursos Caso Existam PermitiramrespostaÚnica",
+    "tipo_inferido": "single_select",
+    "pii": false,
+    "valores_amostra": [
+      "Não se aplica (para empreendimentos que não visam esse tipo de resultado econômico coletivo)",
+      "Pagar as despesas e não ter nenhuma sobra",
+      "Pagar as despesas e ter uma sobra/excedente",
+      "Não deu para pagar as despesas"
+    ]
+  },
+  {
+    "coluna_bruta": "SeçãoVIIGESTÃODOEMPREENDIMENTO__156SeHouveSobraexcedenteresposta1DaQuestãoAnteriorQualODestinorespostaMúltipla",
+    "prefixo": "SeçãoVIIGESTÃODOEMPREENDIMENTO",
+    "secao_label": "Seção VII — Gestão do Empreendimento",
+    "ordem_secao": 12,
+    "subgrupos": [],
+    "numero_pergunta": "156",
+    "rotulo": "Se Houve Sobraexcedenteresposta1 Da Questão Anterior Qual ODestinoresposta Múltipla",
+    "tipo_inferido": "multi_select",
+    "pii": false,
+    "valores_amostra": [
+      "Fundo/reserva para realizar investimento, Fundo/reserva para assistência técnica e educacional, Fundo/reserva para qualquer eventualidade não prevista",
+      "Fundo/reserva para assistência técnica e educacional, Fundo/reserva para qualquer eventualidade não prevista, Integralização de capital",
+      "Fundo/reserva para qualquer eventualidade não prevista",
+      "Fundo/reserva para realizar investimento, Fundo/reserva para qualquer eventualidade não prevista",
+      "Fundo/reserva para assistência técnica e educacional, Fundo/reserva para qualquer eventualidade não prevista",
+      "Distribuição entre sócios (as)"
+    ]
+  },
+  {
+    "coluna_bruta": "SeçãoVIIIDIMENSÃOSOCIOPOLÍTICAEAMBIENTAL__157OEmpreendimentoParticipaDeAlgumFórumOuDeAlgumaRedeDeArticulaçãoOuRepresentação",
+    "prefixo": "SeçãoVIIIDIMENSÃOSOCIOPOLÍTICAEAMBIENTAL",
+    "secao_label": "Seção VIII — Dimensão Sociopolítica e Ambiental",
+    "ordem_secao": 13,
+    "subgrupos": [],
+    "numero_pergunta": "157",
+    "rotulo": "OEmpreendimento Participa De Algum Fórum Ou De Alguma Rede De Articulação Ou Representação",
+    "tipo_inferido": "boolean",
+    "pii": false,
+    "valores_amostra": [
+      "Sim",
+      "Não"
+    ]
+  },
+  {
+    "coluna_bruta": "SeçãoVIIIDIMENSÃOSOCIOPOLÍTICAEAMBIENTAL_SemTítulo__158aFórumOuRedeDeEconomiaSolidáriaQual",
+    "prefixo": "SeçãoVIIIDIMENSÃOSOCIOPOLÍTICAEAMBIENTAL",
+    "secao_label": "Seção VIII — Dimensão Sociopolítica e Ambiental",
+    "ordem_secao": 13,
+    "subgrupos": [
+      "SemTítulo"
+    ],
+    "numero_pergunta": "158a",
+    "rotulo": "Fórum Ou Rede De Economia Solidária Qual",
+    "tipo_inferido": "conditional_text",
+    "pii": false,
+    "valores_amostra": [
+      "Rede Ecovida",
+      "Ecovida",
+      "Mercado Público, AMO Mercado Criativo",
+      "Fórum de Economia Solidária do Alto Vale do Itajaí"
+    ]
+  },
+  {
+    "coluna_bruta": "SeçãoVIIIDIMENSÃOSOCIOPOLÍTICAEAMBIENTAL_SemTítulo__158bUniãoOuAssociaçãoDeEESQual",
+    "prefixo": "SeçãoVIIIDIMENSÃOSOCIOPOLÍTICAEAMBIENTAL",
+    "secao_label": "Seção VIII — Dimensão Sociopolítica e Ambiental",
+    "ordem_secao": 13,
+    "subgrupos": [
+      "SemTítulo"
+    ],
+    "numero_pergunta": "158b",
+    "rotulo": "União Ou Associação De EESQual",
+    "tipo_inferido": "conditional_text",
+    "pii": false,
+    "valores_amostra": [
+      "Federação das Associações de Apicultores e Meliponicultores de Santa Catarina (FAASC)",
+      "Unicafes"
+    ]
+  },
+  {
+    "coluna_bruta": "SeçãoVIIIDIMENSÃOSOCIOPOLÍTICAEAMBIENTAL_SemTítulo__158cFederaçõesDeCooperativasQual",
+    "prefixo": "SeçãoVIIIDIMENSÃOSOCIOPOLÍTICAEAMBIENTAL",
+    "secao_label": "Seção VIII — Dimensão Sociopolítica e Ambiental",
+    "ordem_secao": 13,
+    "subgrupos": [
+      "SemTítulo"
+    ],
+    "numero_pergunta": "158c",
+    "rotulo": "Federações De Cooperativas Qual",
+    "tipo_inferido": "conditional_text",
+    "pii": false,
+    "valores_amostra": [
+      "Unicafes",
+      "Federação Catarinense dos Catadores e Catadoras de Materiais Recicláveis"
+    ]
+  },
+  {
+    "coluna_bruta": "SeçãoVIIIDIMENSÃOSOCIOPOLÍTICAEAMBIENTAL_SemTítulo__158dConselhosDeGestãoEFórunsDeParticipaçãoEmPolíticasPúblicas",
+    "prefixo": "SeçãoVIIIDIMENSÃOSOCIOPOLÍTICAEAMBIENTAL",
+    "secao_label": "Seção VIII — Dimensão Sociopolítica e Ambiental",
+    "ordem_secao": 13,
+    "subgrupos": [
+      "SemTítulo"
+    ],
+    "numero_pergunta": "158d",
+    "rotulo": "Conselhos De Gestão EFóruns De Participação Em Políticas Públicas",
+    "tipo_inferido": "multi_select",
+    "pii": false,
+    "valores_amostra": [
+      "CRAS",
+      "Conselhos Municipais",
+      "Conselho de Turismo",
+      "Fundação Cultural, Secretarias Municipais"
+    ]
+  },
+  {
+    "coluna_bruta": "SeçãoVIIIDIMENSÃOSOCIOPOLÍTICAEAMBIENTAL_SemTítulo__158eOutrosFórunsRedesOuArticulaçõesQual",
+    "prefixo": "SeçãoVIIIDIMENSÃOSOCIOPOLÍTICAEAMBIENTAL",
+    "secao_label": "Seção VIII — Dimensão Sociopolítica e Ambiental",
+    "ordem_secao": 13,
+    "subgrupos": [
+      "SemTítulo"
+    ],
+    "numero_pergunta": "158e",
+    "rotulo": "Outros Fóruns Redes Ou Articulações Qual",
+    "tipo_inferido": "conditional_text",
+    "pii": false,
+    "valores_amostra": [
+      "Obra Kolping",
+      "Núcleo Alto Vale do Itajaí da Rede Ecovida",
+      "Movimenta",
+      "COOPERFAVI- Cooperativa da Agricultura Familiar do Vale do Itajaí"
+    ]
+  },
+  {
+    "coluna_bruta": "SeçãoVIIIDIMENSÃOSOCIOPOLÍTICAEAMBIENTAL__159OEmpreendimentoTemAlgumaRelaçãoOuParticipaDeMovimentosSociaisPopularesOuSindicais",
+    "prefixo": "SeçãoVIIIDIMENSÃOSOCIOPOLÍTICAEAMBIENTAL",
+    "secao_label": "Seção VIII — Dimensão Sociopolítica e Ambiental",
+    "ordem_secao": 13,
+    "subgrupos": [],
+    "numero_pergunta": "159",
+    "rotulo": "OEmpreendimento Tem Alguma Relação Ou Participa De Movimentos Sociais Populares Ou Sindicais",
+    "tipo_inferido": "boolean",
+    "pii": false,
+    "valores_amostra": [
+      "Não",
+      "Sim"
+    ]
+  },
+  {
+    "coluna_bruta": "SeçãoVIIIDIMENSÃOSOCIOPOLÍTICAEAMBIENTAL__160QualOTipoDeMovimentoOuLutaSocialrespostaMúltipla",
+    "prefixo": "SeçãoVIIIDIMENSÃOSOCIOPOLÍTICAEAMBIENTAL",
+    "secao_label": "Seção VIII — Dimensão Sociopolítica e Ambiental",
+    "ordem_secao": 13,
+    "subgrupos": [],
+    "numero_pergunta": "160",
+    "rotulo": "Qual OTipo De Movimento Ou Luta Socialresposta Múltipla",
+    "tipo_inferido": "multi_select",
+    "pii": false,
+    "valores_amostra": [
+      "Movimento sindical urbano ou rural",
+      "Movimento ambientalista/agroecologia",
+      "Movimento de luta pela terra e agricultura familiar, Movimento sindical urbano ou rural, Movimento ambientalista/agroecologia, Movimento de mulheres/gênero, Movimento religioso ou pastoral",
+      "Movimento sindical urbano ou rural, Movimento popular ou comunitário, Movimento étnico/racial, Movimento ambientalista/agroecologia, Movimento de mulheres/gênero, Movimento dos desempregados, Movimento dos catadores, Movimento GLBTT, Movimento cultural, Movimento de defesa dos Direitos Humanos, Movimento de jovens/juventude, Movimento de combate à fome",
+      "Movimento de luta pela terra e agricultura familiar, Movimento sindical urbano ou rural, Movimento ambientalista/agroecologia",
+      "Movimento religioso ou pastoral"
+    ]
+  },
+  {
+    "coluna_bruta": "SeçãoVIIIDIMENSÃOSOCIOPOLÍTICAEAMBIENTAL__161OEmpreendimentoParticipaOuDesenvolveAlgumaAçãoSocialOuComunitária",
+    "prefixo": "SeçãoVIIIDIMENSÃOSOCIOPOLÍTICAEAMBIENTAL",
+    "secao_label": "Seção VIII — Dimensão Sociopolítica e Ambiental",
+    "ordem_secao": 13,
+    "subgrupos": [],
+    "numero_pergunta": "161",
+    "rotulo": "OEmpreendimento Participa Ou Desenvolve Alguma Ação Social Ou Comunitária",
+    "tipo_inferido": "boolean",
+    "pii": false,
+    "valores_amostra": [
+      "Sim",
+      "Não"
+    ]
+  },
+  {
+    "coluna_bruta": "SeçãoVIIIDIMENSÃOSOCIOPOLÍTICAEAMBIENTAL__162QualÁreaDeAtuaçãorespostaMúltipla",
+    "prefixo": "SeçãoVIIIDIMENSÃOSOCIOPOLÍTICAEAMBIENTAL",
+    "secao_label": "Seção VIII — Dimensão Sociopolítica e Ambiental",
+    "ordem_secao": 13,
+    "subgrupos": [],
+    "numero_pergunta": "162",
+    "rotulo": "Qual Área De Atuaçãoresposta Múltipla",
+    "tipo_inferido": "multi_select",
+    "pii": false,
+    "valores_amostra": [
+      "Educação, Saúde, Moradia, Trabalho (qualificação para o trabalho), Redução da violência, Meio ambiente, Esporte ou lazer, Cultura, Assistência social, Segurança alimentar",
+      "Educação, Meio ambiente",
+      "Assistência social, Segurança alimentar",
+      "Saúde, Meio ambiente",
+      "Meio ambiente, Meio Ambiente",
+      "Meio ambiente, Segurança alimentar",
+      "Meio ambiente, Segurança alimentar, Meio Ambiente",
+      "Educação, Saúde, Trabalho (qualificação para o trabalho), Redução da violência, Meio ambiente, Cultura, Assistência social, Segurança alimentar, Meio Ambiente"
+    ]
+  },
+  {
+    "coluna_bruta": "SeçãoVIIIDIMENSÃOSOCIOPOLÍTICAEAMBIENTAL__163OQueOEmpreendimentoFazParaQualificarSeusProdutosEouServiçosNoIntuitoDeMelhorAtenderAosasConsumidoresasrespostaMúltipla",
+    "prefixo": "SeçãoVIIIDIMENSÃOSOCIOPOLÍTICAEAMBIENTAL",
+    "secao_label": "Seção VIII — Dimensão Sociopolítica e Ambiental",
+    "ordem_secao": 13,
+    "subgrupos": [],
+    "numero_pergunta": "163",
+    "rotulo": "OQue OEmpreendimento Faz Para Qualificar Seus Produtos Eou Serviços No Intuito De Melhor Atender Aosas Consumidoresasresposta Múltipla",
+    "tipo_inferido": "multi_select",
+    "pii": false,
+    "valores_amostra": [
+      "Não se aplica",
+      "Oferta produtos orgânicos ou livres de agrotóxicos",
+      "Aplica processos de controle de qualidade, Fornece informações sobre a composição ou especificação, Dá garantia de origem social, Manifesta preocupação ambiental na produção ou prestação dos serviços, Oferta produtos orgânicos ou livres de agrotóxicos",
+      "Pratica menores preços ou custos mais baixos em relação ao mercado",
+      "Pratica menores preços ou custos mais baixos em relação ao mercado, Oferta produtos orgânicos ou livres de agrotóxicos",
+      "Manifesta preocupação ambiental na produção ou prestação dos serviços",
+      "Dá garantia de origem social",
+      "Aplica processos de controle de qualidade, Manifesta preocupação ambiental na produção ou prestação dos serviços, Oferta produtos orgânicos ou livres de agrotóxicos"
+    ]
+  },
+  {
+    "coluna_bruta": "SeçãoVIIIDIMENSÃOSOCIOPOLÍTICAEAMBIENTAL__164NoCasoDeProduçãoEOfertaDeProdutosOrgânicosOuLivresDeAgrotóxicosOsMesmosSãoCertificados",
+    "prefixo": "SeçãoVIIIDIMENSÃOSOCIOPOLÍTICAEAMBIENTAL",
+    "secao_label": "Seção VIII — Dimensão Sociopolítica e Ambiental",
+    "ordem_secao": 13,
+    "subgrupos": [],
+    "numero_pergunta": "164",
+    "rotulo": "No Caso De Produção EOferta De Produtos Orgânicos Ou Livres De Agrotóxicos Os Mesmos São Certificados",
+    "tipo_inferido": "boolean",
+    "pii": false,
+    "valores_amostra": [
+      "Não",
+      "Sim"
+    ]
+  },
+  {
+    "coluna_bruta": "SeçãoVIIIDIMENSÃOSOCIOPOLÍTICAEAMBIENTAL__165QualEntidadeFazACertificaçãoNomeDaEntidade",
+    "prefixo": "SeçãoVIIIDIMENSÃOSOCIOPOLÍTICAEAMBIENTAL",
+    "secao_label": "Seção VIII — Dimensão Sociopolítica e Ambiental",
+    "ordem_secao": 13,
+    "subgrupos": [],
+    "numero_pergunta": "165",
+    "rotulo": "Qual Entidade Faz ACertificação Nome Da Entidade",
+    "tipo_inferido": "multi_select",
+    "pii": false,
+    "valores_amostra": [
+      "Rede Ecovida",
+      "Rede Eco Vida",
+      "Ecovida",
+      "Rede Ecovida de certificação participativa",
+      "IBD",
+      "Genesis, IBD e Rede Ecovida"
+    ]
+  },
+  {
+    "coluna_bruta": "SeçãoVIIIDIMENSÃOSOCIOPOLÍTICAEAMBIENTAL__166OEmpreendimentoGeraAlgumTipoDeResíduolixoOuSobraDeMateriaisAPartirDaAtividadeProdutivaOuDaPrestaçãoDeServiços",
+    "prefixo": "SeçãoVIIIDIMENSÃOSOCIOPOLÍTICAEAMBIENTAL",
+    "secao_label": "Seção VIII — Dimensão Sociopolítica e Ambiental",
+    "ordem_secao": 13,
+    "subgrupos": [],
+    "numero_pergunta": "166",
+    "rotulo": "OEmpreendimento Gera Algum Tipo De Resíduolixo Ou Sobra De Materiais APartir Da Atividade Produtiva Ou Da Prestação De Serviços",
+    "tipo_inferido": "boolean",
+    "pii": false,
+    "valores_amostra": [
+      "Não",
+      "Sim"
+    ]
+  },
+  {
+    "coluna_bruta": "SeçãoVIIIDIMENSÃOSOCIOPOLÍTICAEAMBIENTAL__167QualOTratamentoEouDestinoDadoAosResíduosGeradosNoEmpreendimentorespostaMúltipla",
+    "prefixo": "SeçãoVIIIDIMENSÃOSOCIOPOLÍTICAEAMBIENTAL",
+    "secao_label": "Seção VIII — Dimensão Sociopolítica e Ambiental",
+    "ordem_secao": 13,
+    "subgrupos": [],
+    "numero_pergunta": "167",
+    "rotulo": "Qual OTratamento Eou Destino Dado Aos Resíduos Gerados No Empreendimentoresposta Múltipla",
+    "tipo_inferido": "multi_select",
+    "pii": false,
+    "valores_amostra": [
+      "Reaproveitamento dos resíduos no empreendimento",
+      "Estação de tratamento de efluentes, Realização de algum tipo de tratamento dos resíduos antes de eliminar",
+      "Coleta de lixo normal, Coleta seletiva, Reaproveitamento dos resíduos no empreendimento",
+      "Coleta de lixo normal, Reaproveitamento dos resíduos no empreendimento, Venda dos resíduos, Doação para reaproveitamento",
+      "Acúmulo no local do empreendimento, É realizada a compostagem dos resíduos produzidos nas propriedades. ",
+      "Venda dos resíduos",
+      "Coleta seletiva, Reaproveitamento dos resíduos no empreendimento"
+    ]
+  },
+  {
+    "coluna_bruta": "SeçãoIXAPRECIAÇÕESSUBJETIVASARESPEITODOEES__168OQueMotivouACriaçãoDoEmpreendimentorespostaMúltipla",
+    "prefixo": "SeçãoIXAPRECIAÇÕESSUBJETIVASARESPEITODOEES",
+    "secao_label": "Seção IX — Apreciações Subjetivas a Respeito do EES",
+    "ordem_secao": 14,
+    "subgrupos": [],
+    "numero_pergunta": "168",
+    "rotulo": "OQue Motivou ACriação Do Empreendimentoresposta Múltipla",
+    "tipo_inferido": "multi_select",
+    "pii": false,
+    "valores_amostra": [
+      "Desenvolvimento comunitário de capacidades e potencialidades, Alternativa organizativa e de qualificação, Fortalecimento de grupo étnico",
+      "Obtenção de maiores ganhos em um empreendimento associativo, Uma fonte complementar de renda para os (as) associados (as), Desenvolvimento de uma atividade onde todos (as) são donos (as)",
+      "Uma alternativa ao desemprego, Obtenção de maiores ganhos em um empreendimento associativo, Uma fonte complementar de renda para os (as) associados (as), Desenvolvimento de uma atividade onde todos (as) são donos (as), \"Motivação social, filantrópica ou religiosa\"",
+      "Obtenção de maiores ganhos em um empreendimento associativo, Alternativa organizativa e de qualificação",
+      "Desenvolvimento de uma atividade onde todos (as) são donos (as), Produção ou comercialização de produtos orgânicos ou ecológicos",
+      "Desenvolvimento comunitário de capacidades e potencialidades, Produção ou comercialização de produtos orgânicos ou ecológicos",
+      "\"Motivação social, filantrópica ou religiosa\", Desenvolvimento comunitário de capacidades e potencialidades",
+      "Desenvolvimento comunitário de capacidades e potencialidades, Alternativa organizativa e de qualificação"
+    ]
+  },
+  {
+    "coluna_bruta": "SeçãoIXAPRECIAÇÕESSUBJETIVASARESPEITODOEES__169QuaisAsPrincipaisConquistasObtidasPeloEmpreendimentorespostaMúltipla",
+    "prefixo": "SeçãoIXAPRECIAÇÕESSUBJETIVASARESPEITODOEES",
+    "secao_label": "Seção IX — Apreciações Subjetivas a Respeito do EES",
+    "ordem_secao": 14,
+    "subgrupos": [],
+    "numero_pergunta": "169",
+    "rotulo": "Quais As Principais Conquistas Obtidas Pelo Empreendimentoresposta Múltipla",
+    "tipo_inferido": "multi_select",
+    "pii": false,
+    "valores_amostra": [
+      "A autogestão e o exercício da democracia, A integração do grupo/coletivo, O comprometimento social dos (as) sócios (as), \"Conquistas para a comunidade local (moradia, escola, infraestrutura, etc.)\", A conscientização e compromisso político (com emancipação dos trabalhadores ou outras lutas mais gerais)",
+      "A geração de renda ou obtenção de maiores ganhos para os (as) sócios (as), A integração do grupo/coletivo, O comprometimento social dos (as) sócios (as)",
+      "A geração de renda ou obtenção de maiores ganhos para os (as) sócios (as), A autogestão e o exercício da democracia, A integração do grupo/coletivo, O comprometimento social dos (as) sócios (as), \"Conquistas para a comunidade local (moradia, escola, infraestrutura, etc.)\", A conscientização e compromisso político (com emancipação dos trabalhadores ou outras lutas mais gerais)",
+      "A geração de renda ou obtenção de maiores ganhos para os (as) sócios (as), A autogestão e o exercício da democracia, A integração do grupo/coletivo, O comprometimento social dos (as) sócios (as), A conscientização e compromisso político (com emancipação dos trabalhadores ou outras lutas mais gerais)",
+      "DIVULGAÇÃO DO CUIDADO COM MEIO AMBIENTE ",
+      "A integração do grupo/coletivo, O comprometimento social dos (as) sócios (as)",
+      "O comprometimento social dos (as) sócios (as), \"Conquistas para a comunidade local (moradia, escola, infraestrutura, etc.)\", A conscientização e compromisso político (com emancipação dos trabalhadores ou outras lutas mais gerais)",
+      "A geração de renda ou obtenção de maiores ganhos para os (as) sócios (as), A autogestão e o exercício da democracia, A integração do grupo/coletivo, O comprometimento social dos (as) sócios (as)"
+    ]
+  },
+  {
+    "coluna_bruta": "SeçãoIXAPRECIAÇÕESSUBJETIVASARESPEITODOEES__170QuaisOsPrincipaisDesafiosDoEmpreendimentorespostaMúltipla",
+    "prefixo": "SeçãoIXAPRECIAÇÕESSUBJETIVASARESPEITODOEES",
+    "secao_label": "Seção IX — Apreciações Subjetivas a Respeito do EES",
+    "ordem_secao": 14,
+    "subgrupos": [],
+    "numero_pergunta": "170",
+    "rotulo": "Quais Os Principais Desafios Do Empreendimentoresposta Múltipla",
+    "tipo_inferido": "multi_select",
+    "pii": false,
+    "valores_amostra": [
+      "Viabilizar economicamente o empreendimento, \"Garantir proteção social (previdência, assistência e saúde) para os (as) sócios (as)\", Efetivar a participação e a autogestão, Alcançar a conscientização e a politização dos (as) sócios (as), Alcançar maior conscientização ambiental dos (as) sócios (as), Promover a articulação com outros empreendimentos e com o movimento de economia solidária, Manter a união do grupo/coletivo",
+      "Viabilizar economicamente o empreendimento, Gerar renda adequada aos (às) sócios (as), \"Garantir proteção social (previdência, assistência e saúde) para os (as) sócios (as)\", Efetivar a participação e a autogestão, Manter a união do grupo/coletivo",
+      "Viabilizar economicamente o empreendimento, Gerar renda adequada aos (às) sócios (as), \"Garantir proteção social (previdência, assistência e saúde) para os (as) sócios (as)\", Efetivar a participação e a autogestão, Alcançar a conscientização e a politização dos (as) sócios (as), Alcançar maior conscientização ambiental dos (as) sócios (as), Promover a articulação com outros empreendimentos e com o movimento de economia solidária, Manter a união do grupo/coletivo",
+      "Viabilizar economicamente o empreendimento, Gerar renda adequada aos (às) sócios (as), Efetivar a participação e a autogestão, Alcançar a conscientização e a politização dos (as) sócios (as), Alcançar maior conscientização ambiental dos (as) sócios (as), Promover a articulação com outros empreendimentos e com o movimento de economia solidária, Manter a união do grupo/coletivo",
+      "Viabilizar economicamente o empreendimento, Gerar renda adequada aos (às) sócios (as), Alcançar maior conscientização ambiental dos (as) sócios (as)",
+      "Gerar renda adequada aos (às) sócios (as), Alcançar maior conscientização ambiental dos (as) sócios (as)",
+      "Viabilizar economicamente o empreendimento, Efetivar a participação e a autogestão, Manter a união do grupo/coletivo",
+      "Viabilizar economicamente o empreendimento, Gerar renda adequada aos (às) sócios (as), \"Garantir proteção social (previdência, assistência e saúde) para os (as) sócios (as)\", Efetivar a participação e a autogestão, Alcançar a conscientização e a politização dos (as) sócios (as), Manter a união do grupo/coletivo"
+    ]
+  },
+  {
+    "coluna_bruta": "AUTORIZAÇÃOPARAOUSODASINFORMAÇÕESDOSIESCONFORMEPORTARIAMINISTERIAL__171OEmpreendimentoAutorizaAUtilizaçãoDeInformaçõesRelativasÀIdentificaçãoEÀsAtividadesEconômicasComOObjetivoDeFortalecerEDivulgarAEconomiaSolidária",
+    "prefixo": "AUTORIZAÇÃOPARAOUSODASINFORMAÇÕESDOSIESCONFORMEPORTARIAMINISTERIAL",
+    "secao_label": "Autorização para Uso das Informações do SIES",
+    "ordem_secao": 15,
+    "subgrupos": [],
+    "numero_pergunta": "171",
+    "rotulo": "OEmpreendimento Autoriza AUtilização De Informações Relativas ÀIdentificação EÀs Atividades Econômicas Com OObjetivo De Fortalecer EDivulgar AEconomia Solidária",
+    "tipo_inferido": "boolean",
+    "pii": false,
+    "valores_amostra": [
+      "Sim"
+    ]
+  },
+  {
+    "coluna_bruta": "DADOSDASPESSOASENTREVISTADAS_Nome",
+    "prefixo": "DADOSDASPESSOASENTREVISTADAS",
+    "secao_label": "Dados das Pessoas Entrevistadas (PII — não publicar)",
+    "ordem_secao": 16,
+    "subgrupos": [],
+    "numero_pergunta": null,
+    "rotulo": "Nome",
+    "tipo_inferido": "text",
+    "pii": true,
+    "valores_amostra": [
+      "Neide Maria Machado",
+      "Marcos Paulo Pandini",
+      "João Batista Lauermann",
+      "Rodrigo Preis",
+      "Cleiton Kniess",
+      "Neusa Renken Heiber",
+      "Edna Bilk",
+      "Luana Pires da Silva"
+    ]
+  },
+  {
+    "coluna_bruta": "DADOSDASPESSOASENTREVISTADAS_CargoNoEmpreendimento",
+    "prefixo": "DADOSDASPESSOASENTREVISTADAS",
+    "secao_label": "Dados das Pessoas Entrevistadas (PII — não publicar)",
+    "ordem_secao": 16,
+    "subgrupos": [],
+    "numero_pergunta": null,
+    "rotulo": "Cargo No Empreendimento",
+    "tipo_inferido": "text",
+    "pii": true,
+    "valores_amostra": [
+      "Presidente",
+      "Tesoureiro",
+      "Sócio",
+      "Sócia",
+      "Agricultora/ Vendedora e entregadora",
+      "Vice-presidente",
+      "Secretária",
+      "Tesoureira"
+    ]
+  },
+  {
+    "coluna_bruta": "DADOSDASPESSOASENTREVISTADAS_TelefoneDeContato",
+    "prefixo": "DADOSDASPESSOASENTREVISTADAS",
+    "secao_label": "Dados das Pessoas Entrevistadas (PII — não publicar)",
+    "ordem_secao": 16,
+    "subgrupos": [],
+    "numero_pergunta": null,
+    "rotulo": "Telefone De Contato",
+    "tipo_inferido": "text",
+    "pii": true,
+    "valores_amostra": [
+      "47988512566",
+      "47-99795-9393",
+      "(48) 99868-4773",
+      "(47) 98486-1313",
+      "47996164809",
+      "47988018549",
+      "47999279829",
+      "49 9917-3254"
+    ]
+  },
+  {
+    "coluna_bruta": "DADOSDASPESSOASENTREVISTADAS_Data",
+    "prefixo": "DADOSDASPESSOASENTREVISTADAS",
+    "secao_label": "Dados das Pessoas Entrevistadas (PII — não publicar)",
+    "ordem_secao": 16,
+    "subgrupos": [],
+    "numero_pergunta": null,
+    "rotulo": "Data",
+    "tipo_inferido": "text",
+    "pii": true,
+    "valores_amostra": [
+      "2025-09-15 00:00:00",
+      "2025-09-12 00:00:00",
+      "2025-09-11 00:00:00",
+      "2025-09-09 00:00:00",
+      "2025-09-01 00:00:00",
+      "2025-08-28 00:00:00",
+      "2025-08-26 00:00:00",
+      "2025-08-20 00:00:00"
+    ]
+  },
+  {
+    "coluna_bruta": "Entry_Status",
+    "prefixo": null,
+    "secao_label": null,
+    "ordem_secao": null,
+    "subgrupos": [],
+    "numero_pergunta": null,
+    "rotulo": "Entry_Status",
+    "tipo_inferido": "text",
+    "pii": false,
+    "valores_amostra": [
+      "Submitted",
+      "Incomplete"
+    ]
+  },
+  {
+    "coluna_bruta": "Entry_DateCreated",
+    "prefixo": null,
+    "secao_label": null,
+    "ordem_secao": null,
+    "subgrupos": [],
+    "numero_pergunta": null,
+    "rotulo": "Entry_Date Created",
+    "tipo_inferido": "text",
+    "pii": false,
+    "valores_amostra": [
+      "2025-09-15 13:23:00",
+      "2025-09-12 19:31:00",
+      "2025-09-11 13:03:00",
+      "2025-09-09 21:56:00",
+      "2025-09-02 00:55:00",
+      "2025-09-01 16:35:00",
+      "2025-08-28 22:43:00",
+      "2025-08-26 12:14:00"
+    ]
+  },
+  {
+    "coluna_bruta": "Entry_DateSubmitted",
+    "prefixo": null,
+    "secao_label": null,
+    "ordem_secao": null,
+    "subgrupos": [],
+    "numero_pergunta": null,
+    "rotulo": "Entry_Date Submitted",
+    "tipo_inferido": "text",
+    "pii": false,
+    "valores_amostra": [
+      "2025-09-16 19:31:00",
+      "2025-09-12 19:31:00",
+      "2025-09-11 13:03:00",
+      "2025-09-18 14:00:00",
+      "2025-08-28 22:43:00",
+      "2025-08-26 12:14:00",
+      "2025-08-21 15:44:00",
+      "2025-08-20 17:06:00"
+    ]
+  },
+  {
+    "coluna_bruta": "Entry_DateUpdated",
+    "prefixo": null,
+    "secao_label": null,
+    "ordem_secao": null,
+    "subgrupos": [],
+    "numero_pergunta": null,
+    "rotulo": "Entry_Date Updated",
+    "tipo_inferido": "text",
+    "pii": false,
+    "valores_amostra": [
+      "2025-09-16 19:31:00",
+      "2025-09-12 19:31:00",
+      "2025-09-11 13:03:00",
+      "2025-09-18 14:00:00",
+      "2025-09-02 00:58:00",
+      "2025-09-01 16:35:00",
+      "2025-08-28 22:43:00",
+      "2025-08-26 12:14:00"
+    ]
+  }
+]

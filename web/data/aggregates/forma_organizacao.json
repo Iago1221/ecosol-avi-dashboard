@@ -1,0 +1,19 @@
+{
+  "campo": "forma_organizacao",
+  "n_total_incluido": 22,
+  "n_respostas_com_dado": 22,
+  "contagens": [
+    {
+      "forma": "Associação",
+      "quantidade": 12
+    },
+    {
+      "forma": "Grupo informal",
+      "quantidade": 6
+    },
+    {
+      "forma": "Cooperativa",
+      "quantidade": 4
+    }
+  ]
+}

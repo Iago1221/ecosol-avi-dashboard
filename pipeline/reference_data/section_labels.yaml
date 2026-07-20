@@ -1,0 +1,54 @@
+# Lookup manual dos prefixos de Seção/subgrupo que aparecem nos nomes de coluna da planilha
+# bruta. São poucos e estáveis (o instrumento de coleta não muda a cada carga), por isso é
+# viável mantê-los à mão em vez de tentar inferir tudo por regex.
+#
+# `ordem` define a ordem de exibição no dicionário de dados gerado.
+
+"SeçãoIIDENTIFICAÇÃOEABRANGÊNCIA":
+  label: "Seção I — Identificação e Abrangência"
+  ordem: 1
+"SeçãoIICARACTERÍSTICASPREDOMINANTESDOSASSÓCIOSAS":
+  label: "Seção II — Características Predominantes dos/as Sócios/as"
+  ordem: 2
+"SeçãoIIICARACTERÍSTICASGERAISDOEMPREENDIMENTO":
+  label: "Seção III — Características Gerais do Empreendimento"
+  ordem: 3
+"_30A34":
+  label: "Bloco condicional — Clube de Trocas (perguntas 30–34)"
+  ordem: 4
+"_35A55":
+  label: "Bloco condicional — Produção (perguntas 35–55)"
+  ordem: 5
+"_56A74":
+  label: "Bloco condicional — Comercialização (perguntas 56–74)"
+  ordem: 6
+"_75A93":
+  label: "Bloco condicional — Prestação de Serviços (perguntas 75–93)"
+  ordem: 7
+"_94A110":
+  label: "Bloco condicional — Crédito/Finanças Solidárias (perguntas 94–110)"
+  ordem: 8
+"_111A121":
+  label: "Bloco condicional — Consumo (perguntas 111–121)"
+  ordem: 9
+"SeçãoVSITUAÇÃODOTRABALHODOSASNÃOSÓCIOSAS":
+  label: "Seção V — Situação do Trabalho dos/as Não-Sócios/as"
+  ordem: 10
+"SeçãoVIINVESTIMENTOSACESSOACRÉDITOEAPOIOS":
+  label: "Seção VI — Investimentos, Acesso a Crédito e Apoios"
+  ordem: 11
+"SeçãoVIIGESTÃODOEMPREENDIMENTO":
+  label: "Seção VII — Gestão do Empreendimento"
+  ordem: 12
+"SeçãoVIIIDIMENSÃOSOCIOPOLÍTICAEAMBIENTAL":
+  label: "Seção VIII — Dimensão Sociopolítica e Ambiental"
+  ordem: 13
+"SeçãoIXAPRECIAÇÕESSUBJETIVASARESPEITODOEES":
+  label: "Seção IX — Apreciações Subjetivas a Respeito do EES"
+  ordem: 14
+"AUTORIZAÇÃOPARAOUSODASINFORMAÇÕESDOSIESCONFORMEPORTARIAMINISTERIAL":
+  label: "Autorização para Uso das Informações do SIES"
+  ordem: 15
+"DADOSDASPESSOASENTREVISTADAS":
+  label: "Dados das Pessoas Entrevistadas (PII — não publicar)"
+  ordem: 16

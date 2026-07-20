@@ -1,0 +1,27 @@
+{
+  "campo": "cor",
+  "n_total_incluido": 22,
+  "n_respostas_com_dado": 22,
+  "contagens": [
+    {
+      "categoria": "Branca",
+      "quantidade": 632
+    },
+    {
+      "categoria": "Preta",
+      "quantidade": 30
+    },
+    {
+      "categoria": "Amarela",
+      "quantidade": 7
+    },
+    {
+      "categoria": "Parda",
+      "quantidade": 14
+    },
+    {
+      "categoria": "Indígena",
+      "quantidade": 7
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "campo": "participa_rede",
+  "n_total_incluido": 22,
+  "n_respostas_com_dado": 22,
+  "quantidade_sim": 8,
+  "quantidade_nao": 14,
+  "tipos_de_rede": [
+    {
+      "tipo": "Rede de Comercialização",
+      "quantidade": 8
+    },
+    {
+      "tipo": "Rede de Produção",
+      "quantidade": 4
+    },
+    {
+      "tipo": "Cadeia Produtiva Solidária",
+      "quantidade": 3
+    },
+    {
+      "tipo": "Complexo Cooperativo",
+      "quantidade": 1
+    },
+    {
+      "tipo": "Cooperativa Central",
+      "quantidade": 1
+    },
+    {
+      "tipo": "Rede de Consumo",
+      "quantidade": 1
+    },
+    {
+      "tipo": "Rede de Crédito ou Finanças Solidárias",
+      "quantidade": 1
+    }
+  ]
+}

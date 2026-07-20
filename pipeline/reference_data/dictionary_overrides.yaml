@@ -1,0 +1,12 @@
+# Correções pontuais ao dicionário de dados gerado automaticamente por `dictionary.py`.
+#
+# Chave: nome bruto da coluna (exatamente como aparece na planilha)
+# Valor: campos a sobrescrever no registro gerado automaticamente (label, tipo, secao, notas)
+#
+# Preenchido após revisão manual da primeira geração de docs/dicionario_de_dados.md.
+
+"SeçãoIIDENTIFICAÇÃOEABRANGÊNCIA__1NomeDoEmpreendimento":
+  # Inferência automática errou para multi_select (algum nome de empreendimento contém vírgula
+  # na amostra) — é texto livre.
+  tipo_inferido: "text"
+

@@ -1,0 +1,44 @@
+{
+  "campo": "atividades_coletivas",
+  "n_total_incluido": 22,
+  "n_respostas_com_dado": 22,
+  "nota": "Multiescolha — a soma das quantidades pode ultrapassar n_respostas_com_dado.",
+  "contagens": [
+    {
+      "atividade": "Comercialização ou organização da comercialização – venda",
+      "quantidade": 18
+    },
+    {
+      "atividade": "Uso de infra-estrutura",
+      "quantidade": 12
+    },
+    {
+      "atividade": "Produção",
+      "quantidade": 11
+    },
+    {
+      "atividade": "Aquisição de matéria-prima e insumos",
+      "quantidade": 9
+    },
+    {
+      "atividade": "Troca de produtos ou serviços",
+      "quantidade": 8
+    },
+    {
+      "atividade": "Obtenção de clientes ou serviços",
+      "quantidade": 5
+    },
+    {
+      "atividade": "Consumo",
+      "quantidade": 3
+    },
+    {
+      "atividade": "Prestação do serviço ou trabalho a terceiros",
+      "quantidade": 2
+    },
+    {
+      "atividade": "Poupança, crédito ou finanças solidárias",
+      "quantidade": 1
+    }
+  ]
+}

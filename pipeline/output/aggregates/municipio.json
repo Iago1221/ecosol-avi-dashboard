@@ -1,0 +1,67 @@
+{
+  "campo": "municipio",
+  "n_total_incluido": 22,
+  "n_respostas_com_dado": 22,
+  "contagens": [
+    {
+      "municipio": "Rio do Sul",
+      "quantidade": 5
+    },
+    {
+      "municipio": "Chapadão do Lageado",
+      "quantidade": 2
+    },
+    {
+      "municipio": "Ituporanga",
+      "quantidade": 2
+    },
+    {
+      "municipio": "Vitor Meireles",
+      "quantidade": 2
+    },
+    {
+      "municipio": "Alfredo Wagner",
+      "quantidade": 1
+    },
+    {
+      "municipio": "Atalanta",
+      "quantidade": 1
+    },
+    {
+      "municipio": "Dona Emma",
+      "quantidade": 1
+    },
+    {
+      "municipio": "Ibirama",
+      "quantidade": 1
+    },
+    {
+      "municipio": "José Boiteux",
+      "quantidade": 1
+    },
+    {
+      "municipio": "Lontras",
+      "quantidade": 1
+    },
+    {
+      "municipio": "Pouso Redondo",
+      "quantidade": 1
+    },
+    {
+      "municipio": "Presidente Getúlio",
+      "quantidade": 1
+    },
+    {
+      "municipio": "Presidente Nereu",
+      "quantidade": 1
+    },
+    {
+      "municipio": "Salete",
+      "quantidade": 1
+    },
+    {
+      "municipio": "Taió",
+      "quantidade": 1
+    }
+  ]
+}

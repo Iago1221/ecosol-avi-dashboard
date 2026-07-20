@@ -1,0 +1,22 @@
+# Dados brutos de entrada (contêm PII: telefone, e-mail, CNPJ, nome do entrevistado)
+inputs/*.xlsx
+
+# Saídas do pipeline que contêm dados internos/PII — nunca publicar
+pipeline/output/full_raw.json
+pipeline/output/full_raw.csv
+
+# Ambiente Python
+pipeline/.venv/
+pipeline/__pycache__/
+pipeline/**/__pycache__/
+pipeline/.pytest_cache/
+*.pyc
+
+# Node / Next.js
+web/node_modules/
+web/.next/
+web/out/
+web/.env*.local
+
+# Editor/OS
+.DS_Store

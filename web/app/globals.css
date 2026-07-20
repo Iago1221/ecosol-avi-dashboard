@@ -1,0 +1,47 @@
+@import "tailwindcss";
+
+:root {
+  --background: #ffffff;
+  --foreground: #171717;
+
+  /* Paleta de gráficos — provisória, sem cores institucionais confirmadas ainda. */
+  --chart-hue-unica: #0d9488; /* teal-600: série única de contagens */
+  --chart-cat-1: #0d9488; /* teal-600 */
+  --chart-cat-2: #4f46e5; /* indigo-600 */
+  --chart-cat-3: #d97706; /* amber-600 */
+  --chart-cat-4: #e11d48; /* rose-600 */
+  --chart-cat-5: #475569; /* slate-600 */
+  --chart-neutro: #9ca3af; /* gray-400: "não informado" */
+  --chart-grid: #e5e7eb;
+  --chart-text: #52525b;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --font-sans: var(--font-geist-sans);
+  --font-mono: var(--font-geist-mono);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #0a0a0a;
+    --foreground: #ededed;
+
+    --chart-hue-unica: #2dd4bf; /* teal-400 */
+    --chart-cat-1: #2dd4bf;
+    --chart-cat-2: #818cf8; /* indigo-400 */
+    --chart-cat-3: #fbbf24; /* amber-400 */
+    --chart-cat-4: #fb7185; /* rose-400 */
+    --chart-cat-5: #94a3b8; /* slate-400 */
+    --chart-neutro: #6b7280; /* gray-500 */
+    --chart-grid: #27272a;
+    --chart-text: #a1a1aa;
+  }
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: Arial, Helvetica, sans-serif;
+}

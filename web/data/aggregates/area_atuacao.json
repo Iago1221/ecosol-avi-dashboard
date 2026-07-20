@@ -1,0 +1,23 @@
+{
+  "campo": "area_atuacao",
+  "n_total_incluido": 22,
+  "n_respostas_com_dado": 22,
+  "contagens": [
+    {
+      "categoria": "Somente rural",
+      "quantidade": 11
+    },
+    {
+      "categoria": "Somente urbana",
+      "quantidade": 4
+    },
+    {
+      "categoria": "Rural e urbana",
+      "quantidade": 7
+    },
+    {
+      "categoria": "Não informado",
+      "quantidade": 0
+    }
+  ]
+}
