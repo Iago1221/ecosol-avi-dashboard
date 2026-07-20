@@ -2,7 +2,7 @@
   "campo": "atividades_coletivas",
   "n_total_incluido": 22,
   "n_respostas_com_dado": 22,
-  "nota": "Multiescolha — a soma das quantidades pode ultrapassar n_respostas_com_dado.",
+  "nota": "Multiescolha: a soma das quantidades pode ultrapassar N.",
   "contagens": [
     {
       "atividade": "Comercialização ou organização da comercialização – venda",

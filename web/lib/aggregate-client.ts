@@ -156,7 +156,7 @@ export function aggregateAtividadesColetivas(records: CoreRecord[]): AggregateAt
     campo: "atividades_coletivas",
     n_total_incluido: records.length,
     n_respostas_com_dado: comDado.length,
-    nota: "Multiescolha — a soma das quantidades pode ultrapassar n_respostas_com_dado.",
+    nota: "Multiescolha: a soma das quantidades pode ultrapassar N.",
     contagens: sortedCounts(counts).map(({ key, quantidade }) => ({ atividade: key, quantidade })),
   };
 }

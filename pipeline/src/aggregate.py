@@ -163,7 +163,7 @@ def aggregate_atividades_coletivas(records: list[dict[str, Any]]) -> dict[str, A
         "campo": "atividades_coletivas",
         "n_total_incluido": len(publicos),
         "n_respostas_com_dado": len(com_dado),
-        "nota": "Multiescolha — a soma das quantidades pode ultrapassar n_respostas_com_dado.",
+        "nota": "Multiescolha: a soma das quantidades pode ultrapassar N.",
         "contagens": [
             {"atividade": nome, "quantidade": qtd}
             for nome, qtd in sorted(counts.items(), key=lambda kv: (-kv[1], kv[0]))

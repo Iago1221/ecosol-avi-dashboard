@@ -153,7 +153,7 @@ export function Dashboard() {
           titulo="Cor/raça dos sócios/as"
           nRespostasComDado={dados.cor.n_respostas_com_dado}
           nTotalIncluido={dados.cor.n_total_incluido}
-          nota="Nem todo empreendimento respondeu esta pergunta por completo — o N amostral é menor que o dos demais campos."
+          nota="Nem todo empreendimento respondeu esta pergunta por completo; o N amostral é menor que o dos demais campos."
         >
           <CorChart aggregate={dados.cor} />
         </ChartCard>

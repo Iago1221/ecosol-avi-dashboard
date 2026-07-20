@@ -33,7 +33,10 @@ export default function RootLayout({
         <header className="border-b border-black/10 bg-white dark:border-white/10 dark:bg-zinc-900">
           <div className="mx-auto flex max-w-6xl flex-wrap items-center justify-between gap-2 px-4 py-3 sm:px-6">
             <div>
-              <p className="text-sm font-semibold">Economia Solidária — Alto Vale do Itajaí</p>
+              <div className="flex flex-row">
+                <p className="text-sm font-semibold border-r pr-2 mr-2">Economia Solidária</p>
+                <p className="text-sm font-semibold">Alto Vale do Itajaí</p>
+              </div>
               <p className="text-xs text-zinc-500 dark:text-zinc-400">NUPESER / UNIDAVI</p>
             </div>
             <nav className="flex gap-4 text-sm">
