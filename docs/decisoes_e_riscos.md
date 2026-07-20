@@ -23,6 +23,11 @@ decisão mudar ou um novo risco for identificado.
    (rodar o pipeline de novo e reimplantar o site) — ver `docs/como_atualizar_os_dados.md`.
 5. **Paleta de cores é um placeholder neutro** (ver `web/lib/palette.ts` e
    `web/app/globals.css`) — nenhuma cor institucional da UNIDAVI/NUPESER foi confirmada.
+6. **Repositório e hospedagem: GitHub público + GitHub Pages.** Código em
+   `github.com/Iago1221/ecosol-avi-dashboard`, deploy automático via GitHub Actions
+   (`.github/workflows/deploy.yml`) a cada push em `web/**` na branch `main`. Site publicado
+   em `https://iago1221.github.io/ecosol-avi-dashboard/`. `next.config.ts` usa `basePath`
+   fixo com esse nome de repositório — renomear o repo exige atualizar essa constante.
 
 ## Riscos abertos (precisam de validação com o NUPESER)
 
@@ -50,7 +55,5 @@ decisão mudar ou um novo risco for identificado.
    município com um único empreendimento respondente, cruzado com forma de organização) —
    considerado aceitável por serem organizações (não indivíduos) com consentimento explícito
    de divulgação, mas é uma decisão consciente, não um efeito colateral não discutido.
-8. **Hospedagem**: ainda não decidido se o site vai para um provedor externo (Vercel/Netlify)
-   ou servidor institucional da UNIDAVI — ambos são compatíveis com a exportação estática.
-9. **Mapa geográfico dos municípios** (visual mais rico que a barra ranking atual) requer
+8. **Mapa geográfico dos municípios** (visual mais rico que a barra ranking atual) requer
    GeoJSON dos limites municipais — não obtido ainda; adiado para uma fase futura.
